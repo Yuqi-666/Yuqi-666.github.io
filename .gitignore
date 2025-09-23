@@ -1,0 +1,9 @@
+.obsidian
+node_modules
+public
+resources
+.hugo_build.lock
+go.sum
+hugo_stats.json
+package-lock.json
+package.json
