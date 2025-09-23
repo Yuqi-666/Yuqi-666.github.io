@@ -6,4 +6,4 @@ resources
 go.sum
 hugo_stats.json
 package-lock.json
-package.json
+
