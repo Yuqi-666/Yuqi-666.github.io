@@ -1,0 +1,4 @@
+{{ $tocbotCSS := resources.Get "css/tocbot.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $tocbotCSS.Permalink }}">
+{{ $stylesCSS := resources.Get "css/styles.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $stylesCSS.Permalink }}">
