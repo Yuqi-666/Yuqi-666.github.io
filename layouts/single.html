@@ -257,16 +257,30 @@
 
       {{ $customJS := resources.Get "js/tocbot.min.js" | minify | fingerprint }}
       <script src="{{ $customJS.Permalink }}"></script>
+      <!-- 先确保上面的CSS已经加了！再用这段脚本 -->
       <script type="text/javascript">
-      tocbot.init({
-            // Where to render the table of contents.
-            tocSelector: '.js-toc',
-            // Where to grab the headings to build the table of contents.
-            contentSelector: '.js-toc-content',
-            // Which headings to grab inside of the contentSelector element.
-            headingSelector: 'h1, h2, h3, h4, h5'
-       });
-       </script>
+        // 1. 从CSS中获取--navbar-height的值（转成数字，方便JS使用）
+        function getNavbarHeight() {
+          // 获取根元素（:root）的所有CSS样式
+          const rootStyles = getComputedStyle(document.documentElement);
+          // 拿到--navbar-height的值（比如拿到"60px"）
+          const navbarHeightStr = rootStyles.getPropertyValue('--navbar-height');
+          // 把字符串转成数字（去掉px，变成60），如果转失败就用默认值40
+          const navbarHeight = parseFloat(navbarHeightStr) || 40;
+          return navbarHeight; // 最终得到导航栏高度的数字（比如60）
+        }
+
+        // 2. 初始化tocbot，用--navbar-height的值当参数
+        tocbot.init({
+          tocSelector: '.js-toc', // 你的toc容器（不变）
+          contentSelector: '.js-toc-content', // 内容容器（不变）
+          headingSelector: 'h1, h2, h3, h4, h5', // 要抓取的标题（不变）
+          
+          // 关键：把40换成getNavbarHeight()的返回值（即--navbar-height的值）
+          headingsOffset: getNavbarHeight(), 
+          scrollSmoothOffset: -getNavbarHeight() // 负号保留，因为要抵消导航栏高度
+        });
+      </script>
 
       {{ partial "components/last-edited.html" . }}
 
