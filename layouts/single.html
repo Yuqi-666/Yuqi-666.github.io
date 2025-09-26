@@ -11,6 +11,7 @@
 
 <div class="mx-auto flex max-w-screen-xl">
   {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" false) }}
+
   {{ partial "components/toc.html" . }}
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
@@ -279,6 +280,35 @@
           // 关键：把40换成getNavbarHeight()的返回值（即--navbar-height的值）
           headingsOffset: getNavbarHeight(), 
           scrollSmoothOffset: -getNavbarHeight() // 负号保留，因为要抵消导航栏高度
+        });
+      </script>
+      {{/* single.html 中的JS脚本（替换原有） */}}
+      <script>
+        // 等待DOM完全加载，确保Sidebar容器存在
+        document.addEventListener('DOMContentLoaded', function() {
+          const urlParams = new URLSearchParams(window.location.search);
+          const clientTaxonomy = urlParams.get('taxonomy') || ''; // 如 "tags"
+          const clientTerm = urlParams.get('term') || '';         // 如 "hugo"
+          
+      // 在这里添加日志（同一作用域内）
+          console.log("【调试】clientTaxonomy 值:", clientTaxonomy); 
+          console.log("【调试】clientTerm 值:", clientTerm);
+
+          if (clientTaxonomy && clientTerm) {
+            console.log("[Single] 解析到分类法参数:", { clientTaxonomy, clientTerm });
+            
+            // 找到Sidebar容器，设置Data属性（供Sidebar的JS读取）
+            const sidebar = document.querySelector('.hb-sidebar-container');
+            if (sidebar) {
+              sidebar.setAttribute('data-taxonomy', clientTaxonomy);
+              sidebar.setAttribute('data-term', clientTerm);
+              
+              // 调用Sidebar的更新函数（后续在sidebar.html中定义）
+              if (window.updateTaxonomySidebar) {
+                window.updateTaxonomySidebar(clientTaxonomy, clientTerm);
+              }
+            }
+          }
         });
       </script>
 

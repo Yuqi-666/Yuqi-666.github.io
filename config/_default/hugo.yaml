@@ -37,6 +37,24 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
+
+# outputFormats:
+#   # 全局Tag导航片段配置
+#   GlobalTagSidebar:
+#     mediaType: "text/html"    # 输出HTML片段
+#     path: "sidebar/taxonomies/"     # 存放目录：public/sidebar/taxonomies/
+#     isPlainText: false        # 非纯文本（含HTML标签）
+#     noLayout: true  # 核心：禁用基础模板，不生成完整HTML结构
+#     notAlternative: true      # 独立文件，非主页面替代格式
+#     Template: "section.fragment"
+#   # 全局文件夹导航片段配置
+#   GlobalSectionSidebar:
+#     mediaType: "text/html"    # 输出HTML片段
+#     path: "sidebar/sections/" # 存放目录：public/sidebar/sections/
+#     isPlainText: false
+#     noLayout: true  # 核心：禁用基础模板，不生成完整HTML结构
+#     notAlternative: true
+#     Template: "taxonomy.fragment"
 imaging:
   resampleFilter: lanczos
   quality: 80

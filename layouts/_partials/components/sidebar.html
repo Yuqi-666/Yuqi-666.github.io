@@ -1,0 +1,364 @@
+{{- $context := .context -}}
+{{- $no_sidebar := .no_sidebar | default true -}}
+{{- $pad_sidebar := true -}}
+{{- $sidebar_dynamic_class := cond $no_sidebar (cond $pad_sidebar "lg:hidden xl:block" "lg:hidden") "lg:sticky" -}}
+{{- $root_section := cond (eq site.Home.Type "docs") site.Home $context.FirstSection -}}
+{{- $page_url := $context.RelPermalink -}}
+
+{{/* 初始不依赖服务端分类法参数，后续由JS动态驱动 */}}
+{{- $current_taxonomy := "" -}}
+{{- $current_term := "" -}}
+{{- $is_taxonomy_nav := false -}}
+
+{{ if not $no_sidebar }}
+  <div class="hb-sidebar-mobile-menu fixed inset-0 z-10 bg-white dark:bg-black/80 hidden"></div>
+{{ end }}
+
+<!-- Explicit `transform` class as we toggle it in JS -->
+<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] {{ $sidebar_dynamic_class }}">
+  <!-- Search bar on small screen -->
+  <div class="px-4 pt-4 lg:hidden">
+    {{/* partial "search.html" */}}
+  </div>
+  
+  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
+    <!-- Mobile 导航容器（初始渲染Section导航，后续JS替换） -->
+    <ul class="flex flex-col gap-1 lg:hidden" id="mobile-sidebar-nav">
+      {{ template "menu-links" (dict "context" site.Home "pageURL" $page_url "page" $context "toc" true) -}}
+      {{ template "custom-menu-links" }}
+    </ul>
+
+    <!-- Desktop 导航容器（初始渲染Section导航，后续JS替换） -->
+    {{- if $no_sidebar -}}
+      <div class="max-xl:hidden h-0 w-64 shrink-0"></div>
+    {{- else -}}
+      <ul class="flex flex-col gap-1 max-lg:hidden" id="desktop-sidebar-nav">
+        {{ template "menu-links" (dict "context" $root_section "page" $context  "pageURL" $page_url) }}
+        {{ template "custom-menu-links" }}
+      </ul>
+    {{- end -}}
+  </div>
+</aside>
+
+<!-- 原有模板定义（保持不变） -->
+{{- define "menu-links" -}}
+  {{ template "link-tree" (dict "context" .context "level" 0 "page" .page "pageURL" .pageURL "toc" (.toc | default false)) }}
+{{- end -}}
+
+{{- define "link-tree" -}}
+  {{- if ge .level 4 -}}
+    {{- return -}}
+  {{- end -}}
+
+  {{- $context := .context -}}
+  {{- $page := .page }}
+  {{- $page_url := .page.RelPermalink -}}
+  {{- $level := .level -}}
+  {{- $toc := .toc | default false -}}
+
+  {{- with $items := union .context.RegularPages .context.Sections -}}
+    {{- $items = where $items "Params.sidebar.hidden" "!=" true -}}
+    {{- if eq $level 0 -}}
+      {{- range $items.ByWeight }}
+        {{- $active := eq $page_url .RelPermalink -}}
+        {{- $is_expanded := or (.Params.sidebar.open) (.IsAncestor $page) $active | default false }}
+        <li class="{{ if $is_expanded }}open{{ end }}">
+          {{- template "custom-menu-link" dict "context" . "active" $active "title" .LinkTitle "link" .RelPermalink -}}
+          {{- if and $toc $active -}}
+            {{- template "mobile-toc" dict "page" . -}}
+          {{- end -}}
+          {{- template "link-tree" dict "context" . "page" $page "pageURL" $page_url "level" (add $level 1) "toc" $toc -}}
+        </li>
+      {{- end -}}
+    {{- else -}}
+      <div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list">
+          {{- range $items.ByWeight }}
+            {{- $active := eq $page_url .RelPermalink -}}
+            {{- $is_expanded := or (.Params.sidebar.open) (.IsAncestor $page) $active | default false }}
+            {{- $title := .LinkTitle | default .File.BaseFileName -}}
+            <li class="flex flex-col {{ if $is_expanded }}open{{ end }}">
+              {{- template "custom-menu-link" dict "context" . "active" $active "title" $title "link" .RelPermalink -}}
+              {{- if and $toc $active -}}
+                {{ template "mobile-toc" dict "page" . }}
+              {{- end }}
+              {{ template "link-tree" dict "context" . "page" $page "pageURL" $page_url "level" (add $level 1) "toc" $toc }}
+            </li>
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+  {{- end }}
+{{- end -}}
+
+{{- define "mobile-toc" -}}
+  {{ $page := .page }}
+  {{ with $page.Fragments.Headings }}
+    <ul class="hb-sidebar-mobile-toc">
+      {{- range . }}
+        {{- with .Headings }}
+          {{- range . -}}
+            <li>
+              <a href="#{{ anchorize .ID }}" class="hb-docs-link">{{- .Title -}}</a>
+            </li>
+          {{ end -}}
+        {{ end -}}
+      {{ end -}}
+    </ul>
+  {{ end }}
+{{- end -}}
+
+{{- define "custom-menu-links" -}}
+  {{- range site.Menus.sidebar -}}
+    {{- $name := .Name -}}
+    {{ if eq .Params.type "separator" }}
+      <li class="[word-break:break-word] mt-5 mb-2 px-2 py-1.5 text-sm font-semibold text-gray-900 first:mt-0 dark:text-gray-100 cursor-default">
+        <span>{{ $name }}</span>
+      </li>
+    {{ else }}
+      <li>{{ template "custom-menu-link" dict "active" false "title" $name "link" (.URL | relLangURL) }}</li>
+    {{ end }}
+  {{- end -}}
+{{- end -}}
+
+{{- define "custom-menu-link" -}}
+  {{- $is_external := strings.HasPrefix .link "http" -}}
+  <a
+    class="hb-sidebar-custom-link
+    {{- if .active }}
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900
+    {{- else }}
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50
+    {{- end -}}"
+    href="{{ .link }}"
+    {{ if $is_external }}target="_blank" rel="noreferer"{{ end }}
+  >
+    {{- .title -}}
+    {{- with .context }}
+      {{- if or .RegularPages .Sections }}
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+      {{- end }}
+    {{ end -}}
+  </a>
+{{- end -}}
+
+<!-- 核心JS：增强参数检测，确保从任何页面进入都能加载正确导航 -->
+<script>
+  // 全局暴露叉号点击函数
+  window.goToSectionNav = function(currentPath) {
+    window.location.href = currentPath;
+  };
+
+  /**
+   * 从URL中解析分类法参数
+   * @returns {Object} 包含taxonomy和term的对象，若不存在则返回null
+   */
+  window.parseTaxonomyParams = function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const taxonomy = urlParams.get('taxonomy') || '';
+    const term = (urlParams.get('term') || '').replace(/-/g, ' ');
+    
+    if (taxonomy && term) {
+      console.log("[Params] 解析到有效参数:", { taxonomy, term });
+      return { taxonomy, term };
+    }
+    return null;
+  };
+
+  window.updateTaxonomySidebar = function(taxonomy, term) {
+    // 1. 基础条件验证
+    if (!taxonomy || !term || !window.HugoSiteData) {
+      console.error("[Sidebar] 更新失败：参数缺失或站点数据未加载");
+      return;
+    }
+    const { taxonomies, baseURL } = window.HugoSiteData;
+
+    // 2. 统一分类法和术语为小写 + 获取当前查询参数
+    const taxLower = taxonomy.toLowerCase();
+    const termLower = term.toLowerCase();
+    const currentSearch = window.location.search;
+    const currentPath = window.location.pathname;
+
+    // 3. 验证分类法存在性
+    const targetTaxonomy = taxonomies[taxLower];
+    if (!targetTaxonomy) {
+      console.error(`[Sidebar] 分类法 "${taxonomy}" 不存在`);
+      return;
+    }
+
+    // 4. 查找匹配的术语
+    let targetTerm = null;
+    for (const termKey in targetTaxonomy) {
+      if (termKey.toLowerCase() === termLower) {
+        targetTerm = targetTaxonomy[termKey];
+        break;
+      }
+    }
+
+    // 5. 验证术语是否存在且包含文章
+    if (!targetTerm || !Array.isArray(targetTerm) || targetTerm.length === 0) {
+      console.error(`[Sidebar] 术语 "${term}" 不存在或无文章`);
+      return;
+    }
+
+    // 6. 处理文章数据
+    const sortedPages = targetTerm
+      .filter(page => !page.Page?.params?.sidebar?.hidden)
+      .sort((a, b) => new Date(b.Page.Lastmod) - new Date(a.Page.Lastmod));
+
+    // 7. URL工具函数
+    const getRelativeUrl = (url) => {
+      if (!url) return "";
+      return url.startsWith('/') ? url : `/${url}`;
+    };
+
+    // 8. 当前页面相对路径
+    const currentPageRelUrl = getRelativeUrl(currentPath);
+
+    // 9. 导航标题（含叉号按钮）
+    const navTitleWithCloseBtn = `
+      <div class="flex items-center justify-between gap-2 {{/* 新增样式类 */}} pb-2 ">
+      <span>${taxonomy.charAt(0).toUpperCase() + taxonomy.slice(1)}: ${term}</span>
+      <button 
+        onclick="window.goToSectionNav('${currentPath}')"
+        class="hb-sidebar-close-btn p-1 hover:bg-gray-200 dark:hover:bg-gray-700 rounded transition-colors"
+        title="切换到文件夹导航"
+        aria-label="关闭分类导航"
+      >
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M18 6L6 18M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+    `;
+
+    // 10. 生成Mobile导航HTML
+    const mobileNavHtml = `
+      <li class="mb-2 px-2 py-1.5 text-sm font-semibold text-gray-900 dark:text-gray-100 ">
+        ${navTitleWithCloseBtn}
+      </li>
+      ${sortedPages.map(page => {
+        const pagePath = page.Page?.Path || '';
+        const pageRelUrl = getRelativeUrl(pagePath)+'/';
+        const isActive = pageRelUrl === currentPageRelUrl;
+        const fullUrl = `${baseURL + pagePath}${currentSearch}`;
+
+        return `
+          <li class="flex flex-col ${isActive ? 'open' : ''}">
+            <a class="hb-sidebar-custom-link ${
+              isActive 
+                ? 'sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900' 
+                : 'text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50'
+            }" href="${fullUrl}">
+              ${page.Page?.LinkTitle || '无标题文章'}
+              ${(page.Page?.RegularPages || page.Page?.Sections) ? `
+                <span data-hb-sidebar-toggle>
+                  <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px]">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </span>
+              ` : ''}
+            </a>
+          </li>
+        `;
+      }).join('')}
+    `;
+
+    // 11. 生成Desktop导航HTML
+    const desktopNavHtml = `
+      <li class=" px-2 py-4 text-sm font-semibold text-gray-900 dark:text-gray-100 page.RelPermalink hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50">
+        ${navTitleWithCloseBtn}
+      </li>
+      ${sortedPages.map(page => {
+        const pagePath = page.Page?.Path || '';        
+        const pageRelUrl = getRelativeUrl(pagePath)+'/';
+        const isActive = pageRelUrl === currentPageRelUrl;
+        const fullUrl = `${baseURL + pagePath}${currentSearch}`;
+
+
+        return `
+          <li class="flex flex-col ${isActive ? 'open' : ''}">
+            <a class="hb-sidebar-custom-link ${
+              isActive 
+                ? 'sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900' 
+                : 'text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50'
+            }" href="${fullUrl}">
+              ${page.Page?.LinkTitle || '无标题文章'}
+              ${(page.Page?.RegularPages || page.Page?.Sections) ? `
+                <span data-hb-sidebar-toggle>
+                  <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px]">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </span>
+              ` : ''}
+            </a>
+          </li>
+        `;
+      }).join('')}
+    `;
+
+    // 12. 替换导航容器内容
+    const mobileContainer = document.getElementById('mobile-sidebar-nav');
+    const desktopContainer = document.getElementById('desktop-sidebar-nav');
+    if (mobileContainer) mobileContainer.innerHTML = mobileNavHtml;
+    if (desktopContainer) desktopContainer.innerHTML = desktopNavHtml;
+
+    // 13. 重新绑定折叠事件
+    document.querySelectorAll('[data-hb-sidebar-toggle]').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const parentLi = this.closest('li');
+        if (parentLi) parentLi.classList.toggle('open');
+      });
+    });
+
+    console.log(`[Sidebar] 已切换为 "${taxonomy}: ${term}" 导航，共 ${sortedPages.length} 篇文章`);
+  };
+
+  // 增强的初始化逻辑：确保任何情况下都检测参数
+  function initializeSidebar() {
+    const sidebar = document.querySelector('.hb-sidebar-container');
+    if (!sidebar) return;
+
+    // 1. 从URL解析参数（优先于data属性）
+    const urlParams = window.parseTaxonomyParams();
+    
+    if (urlParams) {
+      // 2. 若URL有参数，直接更新导航
+      const { taxonomy, term } = urlParams;
+      sidebar.setAttribute('data-taxonomy', taxonomy);
+      sidebar.setAttribute('data-term', term);
+      window.updateTaxonomySidebar(taxonomy, term);
+    } else {
+      // 3. 若无参数，使用data属性（兼容原有逻辑）
+      const taxonomy = sidebar.getAttribute('data-taxonomy') || '';
+      const term = sidebar.getAttribute('data-term') || '';
+      if (taxonomy && term) {
+        window.updateTaxonomySidebar(taxonomy, term);
+      }
+    }
+  }
+
+  // 确保页面完全加载后初始化
+  document.addEventListener('DOMContentLoaded', initializeSidebar);
+
+  // 监听页面切换事件（针对单页应用或History模式导航）
+  window.addEventListener('popstate', initializeSidebar);
+</script>
+
+<!-- 调试信息 -->
+<script>
+  console.log("=== Sidebar 调试信息 ===");
+  const sidebar = document.querySelector('.hb-sidebar-container');
+  const tax = sidebar ? sidebar.getAttribute('data-taxonomy') : '';
+  const term = sidebar ? sidebar.getAttribute('data-term') : '';
+  console.log("1. Data属性（taxonomy）:", tax);
+  console.log("2. Data属性（term）:", term);
+  console.log("3. URL参数:", window.parseTaxonomyParams());
+  console.log("4. 站点数据加载:", !!window.HugoSiteData);
+  if (window.HugoSiteData) {
+    console.log("5. 可用分类法:", Object.keys(window.HugoSiteData.taxonomies));
+  }
+</script>
+    
