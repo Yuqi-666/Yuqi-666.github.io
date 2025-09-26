@@ -12,7 +12,7 @@ categories:
     - web
 
 ---
-### 引言
+## 引言
 
 对于能读到这篇文章的人，我默认你有一定技术基础，动手能力，已配置代理。
 
@@ -48,25 +48,25 @@ f
 
 如果你希望创造一个独一无二的theme，查看[**extend**](#extend)
 
-### Theme
+## Theme
 
 本质是一套预定义的 **模板文件（HTML/CSS/JS）**、**配置示例**和**静态资源**，存放在站点根目录的 themes/ 文件夹中。每个主题通过独立的文件夹区分（如 themes/even/、themes/loveit/）。
 
 Hugo 站点默认读取 一个主题 的模板，但通过配置和模板优先级规则，可以实现 “多主题” 的灵活应用
-### frontmatter
-### shortcodes
+## frontmatter
+## shortcodes
 短代码由包裹，名称使用相应html文件名，可以填入参数
 例如`{{</* youtube 2xkNJL4gJ9E */>}}`，2xkNJL4gJ9E为youtube视频id
 {{< youtube 2xkNJL4gJ9E >}}
-### Archetypes
+## Archetypes
 在 Hugo 中，Archetypes（原型）是用于创建新内容时的模板文件，它们定义了新内容文件的默认元数据（front matter）和初始结构。使用 Archetypes 可以确保网站内容格式的一致性，提高创作效率。
 
 `hugo new`时会将一级文件夹名称与Archetypes文件夹中md文件名称比对，已确定该使用哪种原型文件
 
 例如，当你要求`hugo new posts/tutorials/index.md`时，hugo会在archetypes文件夹中寻找名为posts.md的原型文件，若无，则寻找单数形式的名为post.md的原型文件，若无，则使用default.md创建。
 
-### hugo blox
-### Taxonomies
+## hugo blox
+## Taxonomies
 hugo自带tags和categories分类法
 
 例如
@@ -105,7 +105,7 @@ taxonomies:
 ```
 注意：左侧是单数，右侧是复数，tag和category必须要添加
 
-### content
+## content
 
 hugo将页面分成了single 和 list 两种。
 
@@ -118,7 +118,7 @@ hugo会自动为md文件创建single页面。
 还有一种创建list页面的方式会在[**hugo blox**](#hugo-blox)中讲到。
 
 
-### Extend
+## Extend
 
 为了能让我们自己修改theme有关的文件，我们需要先探索下theme中有什么，以及对应的作用是什么。
 
@@ -173,5 +173,5 @@ hugo会自动为md文件创建single页面。
 
 我们可以发现single和list的字眼，结合html可知，他们提供了构建single页面和list页面的布局，因为以它们构建的页面除了页面内容不同外其他都一样，像承载内容的容器，所以叫做template。
 
-#### template
+### template
 
