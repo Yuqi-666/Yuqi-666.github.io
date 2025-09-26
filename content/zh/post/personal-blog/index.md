@@ -12,6 +12,9 @@ categories:
     - web
 
 ---
+
+{{< toc mobile_only=true is_open=true >}}
+
 ## 引言
 
 对于能读到这篇文章的人，我默认你有一定技术基础，动手能力，已配置代理。
