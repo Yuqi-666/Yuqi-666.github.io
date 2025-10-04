@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/moment/travel.md",
+                "file": "content/zh/moment/events/出师不利：错过航班/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "travel"
+              "title": "index"
             }
           },
           {
@@ -227,13 +227,17 @@
   },
   "active": "0eabb20775f5472a",
   "lastOpenFiles": [
+    "content/zh/moment/travel/10天日本旅行计划/index.md",
+    "content/zh/moment/events/出师不利：错过航班/index.md",
+    "templates/moment/travel.md",
+    "content/zh/moment/events/出师不利：错过航班/imgs/IMG_2346.png",
+    "content/zh/moment/events/出师不利：错过航班/imgs",
+    "content/zh/moment/events/出师不利：错过航班",
     "templates/moment/jotting.md",
     "templates/moment/event.md",
     "templates/achievement/competition.md",
-    "content/zh/moment/travel/10天日本旅行计划/index.md",
     "public/moment/travel/10天日本旅行计划/index.html",
     "public/moment/travel/10天日本旅行计划",
-    "templates/moment/travel.md",
     "content/zh/moment/travel/10天日本旅行计划",
     "content/zh/moment/travel/去日本/index.md",
     "public/categories/travel/page/1/index.html",
@@ -241,8 +245,6 @@
     "public/categories/travel/page",
     "public/categories/travel/index.xml",
     "public/categories/travel/index.html",
-    "public/categories/travel",
-    "public/moment/travel/去日本/index.html",
     "templates/achievement/project.md",
     "templates/collection/book.md",
     "templates/collection/site.md",
@@ -268,9 +270,7 @@
     "public/en/publication/preprint/featured_hu_1d031dff16f5b8b.webp",
     "public/en/publication/preprint/featured_hu_671badaadee94909.webp",
     "public/en/publication/preprint/featured_hu_254fbe1420cc14fa.webp",
-    "public/en/publication/preprint/featured.jpg",
     "content/zh/moment/events/_index.md",
-    "content/zh/collection/book/计算机系统/index.md",
-    "2025-10-03.md"
+    "content/zh/collection/book/计算机系统/index.md"
   ]
 }
