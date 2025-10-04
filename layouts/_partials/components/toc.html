@@ -1,0 +1,43 @@
+{{/* Table of Contents（替换为 Tocbot 动态目录） */}}
+
+{{- $toc := .Params.toc | default true -}}
+
+{{/* UI Text */}}
+{{- $table_of_contents := T "table_of_contents" }}
+{{- $edit_this_page := T "edit_page" }}
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+  {{ partial "functions/get_hook" (dict "hook" "toc-start" "context" .) }}
+  {{- if $toc }}
+    <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4">
+      {{/* 1. 保留“本页目录”标题（可选，提升可读性） */}}
+      <p class="mb-4 font-semibold tracking-tight">{{ $table_of_contents }}</p>
+      
+      {{/* 2. 插入 Tocbot 目录容器：替换原有静态目录的核心代码 */}}
+      <div class="js-toc"></div>
+
+      {{/* 3. 保留“编辑页面”按钮（原逻辑不变，避免功能丢失） */}}
+      {{- $class := "" -}}
+      {{- if .Fragments.Headings -}}{{/* 仍用原判断控制按钮上方边框（有无目录都美观） */}}
+        {{- $class = "mt-8 border-t dark:border-neutral-700 pt-8" -}}
+      {{- end -}}
+
+      {{/* Page Features（编辑页面按钮） */}}
+      {{- if site.Params.features.repository.url | and .Params.editable -}}
+        <div class="{{ $class }} sticky bottom-0 flex flex-col items-start gap-2 pb-8">
+          {{ $edit_url := site.Params.features.repository.url | default "" }}
+          {{ $branch := site.Params.features.repository.branch | default "main" }}
+          {{ $dir := site.Params.features.repository.content_dir | default "content" }}
+          {{- with .File -}}{{ $edit_url = urls.JoinPath $edit_url "edit" $branch $dir (replace .Path "\\" "/") }}{{- end -}}
+          {{- with .Params.edit_url -}}{{ $edit_url = . }}{{- end -}}
+          <a class="text-xs font-medium text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 contrast-more:text-gray-800 contrast-more:dark:text-gray-50" href="{{ $edit_url }}" target="_blank" rel="noreferer">{{ $edit_this_page }}</a>
+        </div>
+      {{- end -}}
+
+      {{ partial "components/backlinks" . }} {{/* 保留反向链接组件（原功能不变） */}}
+    </div>
+  {{ end -}}
+  {{ partial "functions/get_hook" (dict "hook" "toc-end" "context" .) }}
+</nav>
+
+{{/* 4. 删除原静态目录的渲染函数（define "toc-headings"）—— 因为不再需要静态列表 */}}

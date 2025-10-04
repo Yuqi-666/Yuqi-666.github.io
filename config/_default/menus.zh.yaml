@@ -1,0 +1,73 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: 首页
+    url: /
+    weight: 10
+
+  - name: 笔记
+    url: note/
+    weight: 20
+  - name: 学习笔记
+    url: note/study/
+    weight: 1
+    parent: 笔记
+  - name: 技术笔记
+    url: note/tech/
+    weight: 2
+    parent: 笔记
+  - name: 读书笔记
+    url: note/reading/
+    weight: 3
+    parent: 笔记
+  
+  - name: 动态
+    url: moment/
+    weight: 30
+  - name: 一些事儿
+    url: moment/events/
+    weight: 1
+    parent: 动态
+  - name: 旅行
+    url: moment/travel/
+    weight: 2
+    parent: 动态
+  - name: 碎碎念
+    url: moment/jotting/
+    weight: 3
+    parent: 动态
+
+  - name: 成果
+    url: achievement/
+    weight: 40
+  - name: 项目
+    url: achievement/project/
+    weight: 1
+    parent: 成果
+  - name: 比赛
+    url: achievement/competition/
+    weight: 2
+    parent: 成果
+  - name: 考试
+    url: achievement/exam/
+    weight: 3
+    parent: 成果
+
+  - name: 收藏
+    url: collection/
+    weight: 50
+  - name: 网站
+    url: collection/site/
+    weight: 1
+    parent: 收藏
+  - name: 书籍
+    url: collection/book/
+    weight: 2
+    parent: 收藏
+
+  - name: 标签
+    url: tags/
+    weight: 60

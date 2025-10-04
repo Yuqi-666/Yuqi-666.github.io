@@ -1,0 +1,37 @@
+:not(pre) > code {
+  font-family: "Consolas", "Monaco", monospace;
+  background-color: #f5f5f5;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+code::before,
+code::after {
+  content: none !important;
+}
+
+
+
+/* 文本高亮效果 */
+mark {
+  background-color: #ffeaa7;
+  color: #352a00;
+  padding: 2px 6px;
+  border-radius: 5px; /* 圆角效果 */
+  transition: all 0.2s ease; /* hover时的过渡动画 */
+}
+mark.orange {
+  background-color: #ffeaa7;
+  color: #352a00;
+  padding: 2px 6px;
+  border-radius: 5px; /* 圆角效果 */
+  transition: all 0.2s ease; /* hover时的过渡动画 */
+}
+mark.green {
+  background-color: #ccffcc;
+  color: #352a00;
+  padding: 2px 6px;
+  border-radius: 6px; /* 圆角效果 */
+  transition: all 0.2s ease; /* hover时的过渡动画 */
+}
+

@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "assets/",
+    "config/",
+    "i18n/",
+    "layouts/",
+    "static/"
+  ],
+  "promptDelete": false
+}

@@ -1,0 +1,4 @@
+{
+  "folders": "^config$\n^i18n$\n^layouts$\n^node_modules$\n^public$\n^resources$",
+  "enable": true
+}

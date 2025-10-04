@@ -1,0 +1,89 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Website name
+title: Yuqi's Blog
+# Website URL
+baseURL: 'https://yuqi-666.github.io/'
+
+
+cascade:
+  -target:
+    path: /**
+  show_breadcrumb: true
+  show_related: true
+  show_date: true
+  backlinks: true
+  commentable: true
+  reading_time: true
+  share: true
+  pager: true
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: zh
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## ADVANCED
+############################
+
+build:
+  writeStats: true
+enableGitInfo: true
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  authors: '/author/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, headers, redirects, backlinks]
+  section: [HTML, RSS]
+
+# outputFormats:
+#   # 全局Tag导航片段配置
+#   GlobalTagSidebar:
+#     mediaType: "text/html"    # 输出HTML片段
+#     path: "sidebar/taxonomies/"     # 存放目录：public/sidebar/taxonomies/
+#     isPlainText: false        # 非纯文本（含HTML标签）
+#     noLayout: true  # 核心：禁用基础模板，不生成完整HTML结构
+#     notAlternative: true      # 独立文件，非主页面替代格式
+#     Template: "section.fragment"
+#   # 全局文件夹导航片段配置
+#   GlobalSectionSidebar:
+#     mediaType: "text/html"    # 输出HTML片段
+#     path: "sidebar/sections/" # 存放目录：public/sidebar/sections/
+#     isPlainText: false
+#     noLayout: true  # 核心：禁用基础模板，不生成完整HTML结构
+#     notAlternative: true
+#     Template: "taxonomy.fragment"
+imaging:
+  resampleFilter: lanczos
+  quality: 80
+  anchor: smart
+timeout: 600000
+taxonomies:
+  author: authors
+  tag: tags
+  category: categories
+  location: locations
+  publication_type: publication_types
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+sitemap:
+  _merge: deep

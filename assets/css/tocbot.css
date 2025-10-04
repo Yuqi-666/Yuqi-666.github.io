@@ -1,0 +1,12 @@
+.toc{overflow-y:auto}.toc>.toc-list{overflow:hidden;position:relative}.toc>.toc-list li{list-style:none}.toc-list{margin:0;padding-left:10px}a.toc-link{color:currentColor;height:100%}.is-collapsible{max-height:1000px;overflow:hidden;transition:all 300ms ease-in-out}.is-collapsed{max-height:0}.is-collapsed:has(:focus){max-height:1000px}.is-position-fixed{position:fixed !important;top:0}.is-active-link{font-weight:700}.toc-link::before{background-color:#eee;content:" ";display:inline-block;height:inherit;left:0;margin-top:-1px;position:absolute;width:2px}.is-active-link::before{background-color:#54bc4b}/*# sourceMappingURL=tocbot.css.map */
+/* 解决 Tocbot 目录滚动条不隐藏的问题：作用于 hb-scrollbar 容器 */
+/* 针对 toc.html 中的滚动容器 hb-scrollbar：取消滚动 + 隐藏超出内容 */
+.hb-scrollbar {
+  overflow-y: hidden !important; /* 核心：禁止垂直滚动，超出内容隐藏 */
+  scrollbar-width: none !important; /* 隐藏 Firefox 滚动条（防止残留） */
+  -ms-overflow-style: none !important; /* 隐藏 IE/Edge 滚动条 */
+}
+/* 隐藏 Chrome/Safari 滚动条（冗余但保险） */
+.hb-scrollbar::-webkit-scrollbar {
+  display: none !important;
+}
