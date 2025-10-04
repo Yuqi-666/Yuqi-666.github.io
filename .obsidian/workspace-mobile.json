@@ -11,10 +11,14 @@
             "id": "538946ec98c1939b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/moment/events/出师不利：错过航班/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/zh/moment/events/出师不利：错过航班/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "content/zh/moment/events/出师不利：错过航班/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "content/zh/moment/events/出师不利：错过航班/index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,5 +169,10 @@
     }
   },
   "active": "538946ec98c1939b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/zh/moment/events/出师不利：错过航班/imgs",
+    "content/zh/moment/events/出师不利：错过航班/imgs/IMG_2346.png",
+    "content/zh/moment/events/出师不利：错过航班/index.md",
+    "content/zh/moment/events/出师不利：错过航班"
+  ]
 }
