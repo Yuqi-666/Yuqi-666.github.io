@@ -1,6 +1,6 @@
 ---
 private: false
-title: 出师不利-错过航班
+title: 出师不利错过航班
 date: 2025-10-05
 authors:
   - admin
