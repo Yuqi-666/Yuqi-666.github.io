@@ -1,13 +1,13 @@
 ---
 private: false
-title: abc
-date: 2025-10-05
+title: 10天日本旅行计划
+date: 2025-10-03
 authors:
   - admin
-tags:
 categories:
-  - event
-location: abc
-summary: sss
+  - travel
+location: 日本
+summary: 试用编辑功能
+tags:
 ---
 {{< toc mobile_only=true is_open=true >}}

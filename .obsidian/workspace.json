@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/moment/events/出师不利-错过航班/index.md",
+                "file": "content/zh/moment/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           },
           {
@@ -242,25 +242,26 @@
   },
   "active": "097dff15efb3e158",
   "lastOpenFiles": [
-    "content/zh/moment/events/10天日本旅行计划 1/index.md",
+    "content/zh/moment/events/_index.md",
     "content/zh/moment/events/出师不利-错过航班/index.md",
+    "content/zh/moment/events/abc/index.md",
+    "public/moment/events/abc/index.html",
+    "public/moment/events/abc",
+    "content/zh/moment/events/出师不利-错过航班/imgs/IMG_2346.png",
+    "content/zh/moment/events/10天日本旅行计划 1/index.md",
     "content/zh/moment/travel/10天日本旅行计划/index.md",
     "public/moment/events/10天日本旅行计划-1/index.html",
     "public/moment/events/10天日本旅行计划-1",
     "public/moment/travel/10天日本旅行计划-1/index.html",
     "public/moment/travel/10天日本旅行计划-1",
     "content/zh/moment/events/10天日本旅行计划 1",
-    "content/zh/moment/events/abc/index.md",
     "content/zh/moment/events/abc",
     "templates/moment/travel.md",
-    "content/zh/moment/events/出师不利-错过航班/imgs/IMG_2346.png",
     "content/zh/moment/events/出师不利-错过航班/imgs",
     "content/zh/moment/events/出师不利-错过航班",
     "templates/moment/jotting.md",
     "templates/moment/event.md",
     "templates/achievement/competition.md",
-    "public/moment/travel/10天日本旅行计划/index.html",
-    "public/moment/travel/10天日本旅行计划",
     "content/zh/moment/travel/去日本/index.md",
     "templates/achievement/project.md",
     "templates/collection/book.md",

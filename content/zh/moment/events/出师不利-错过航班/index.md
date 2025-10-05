@@ -4,7 +4,6 @@ title: 出师不利错过航班
 date: 2025-10-05
 authors:
   - admin
-tags:
 categories:
   - event
 location: 日本
