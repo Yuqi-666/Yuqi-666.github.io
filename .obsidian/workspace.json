@@ -13,21 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/moment/events/出师不利-错过航班/index.md",
+                "file": "content/zh/moment/events/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           },
           {
-            "id": "097dff15efb3e158",
+            "id": "565987b6eb967fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/moment/events/出师不利-错过航班/index.md",
+                "file": "content/zh/moment/events/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
+            "id": "3261269c0113d302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/moment/events/出师不利误机之谈/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e9395209bc8f3454",
@@ -240,27 +254,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "097dff15efb3e158",
+  "active": "7a84c4f0a298dfe9",
   "lastOpenFiles": [
-    "content/zh/moment/events/10天日本旅行计划 1/index.md",
-    "content/zh/moment/events/出师不利-错过航班/index.md",
+    "public/moment/events/出师不利误机之谈/index.html",
+    "public/moment/events/出师不利误机之谈",
+    "content/zh/moment/events/Missed-flight/index.md",
+    "content/zh/moment/events/出师不利误机之谈/index.md",
+    "content/zh/moment/events/出师不利误机之谈",
+    "content/zh/moment/events/_index.md",
     "content/zh/moment/travel/10天日本旅行计划/index.md",
-    "public/moment/events/10天日本旅行计划-1/index.html",
-    "public/moment/events/10天日本旅行计划-1",
-    "public/moment/travel/10天日本旅行计划-1/index.html",
-    "public/moment/travel/10天日本旅行计划-1",
-    "content/zh/moment/events/10天日本旅行计划 1",
+    "public/moment/events/missed-flight/index.html",
+    "public/moment/events/missed-flight",
+    "content/zh/moment/events/Missed-flight",
+    "content/zh/moment/events/出师不利-错过航班/index.md",
     "content/zh/moment/events/abc/index.md",
-    "content/zh/moment/events/abc",
-    "templates/moment/travel.md",
+    "public/categories/event/page/1/index.html",
+    "public/categories/event/page/1",
+    "public/categories/event/page",
+    "public/categories/event/index.xml",
+    "public/categories/event/index.html",
+    "content/zh/moment/_index.md",
     "content/zh/moment/events/出师不利-错过航班/imgs/IMG_2346.png",
-    "content/zh/moment/events/出师不利-错过航班/imgs",
-    "content/zh/moment/events/出师不利-错过航班",
+    "content/zh/moment/events/10天日本旅行计划 1/index.md",
+    "templates/moment/travel.md",
     "templates/moment/jotting.md",
     "templates/moment/event.md",
     "templates/achievement/competition.md",
-    "public/moment/travel/10天日本旅行计划/index.html",
-    "public/moment/travel/10天日本旅行计划",
     "content/zh/moment/travel/去日本/index.md",
     "templates/achievement/project.md",
     "templates/collection/book.md",
@@ -274,10 +293,6 @@
     "archetypes/default.md",
     "archetypes/collection.md",
     "content/zh/collection/site/hello-algo/index.md",
-    "content/zh/collection/book/C++程序设计语言.第4部分/index.md",
-    "content/zh/collection/book/C++程序设计语言.第1-3部分/index.md",
-    "content/zh/collection/book/深入理解计算机系统/index.md",
-    "content/zh/note/tech/_index.md",
     "public/en/publication/preprint/featured_hu_ebca0be4a33a5e5.webp",
     "public/en/publication/preprint/featured_hu_d46d5116b2581176.webp",
     "public/en/publication/preprint/featured_hu_8f3af74a3bea90b7.webp",

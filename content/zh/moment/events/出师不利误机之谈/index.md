@@ -1,12 +1,13 @@
 ---
 private: false
-title: 10天日本旅行计划
-date: 2025-10-03
+title: 出师不利，误机之谈
+date: 2025-10-05
 authors:
   - admin
+tags:
 categories:
-  - travel
+  - event
 location: 日本
-summary: 试用编辑功能
+summary:
 ---
 {{< toc mobile_only=true is_open=true >}}
