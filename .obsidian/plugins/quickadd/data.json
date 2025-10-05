@@ -5,7 +5,7 @@
       "name": "添加book",
       "type": "Template",
       "command": true,
-      "templatePath": "static/templates/book.md",
+      "templatePath": "static/_templates/book.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -35,7 +35,7 @@
       "name": "添加site",
       "type": "Template",
       "command": true,
-      "templatePath": "static/templates/collection/site.md",
+      "templatePath": "static/_templates/collection/site.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -65,7 +65,7 @@
       "name": "添加travel",
       "type": "Template",
       "command": true,
-      "templatePath": "static/templates/moment/travel.md",
+      "templatePath": "static/_templates/moment/travel.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -95,7 +95,7 @@
       "name": "添加jotting",
       "type": "Template",
       "command": true,
-      "templatePath": "static/templates/moment/jotting.md",
+      "templatePath": "static/_templates/moment/jotting.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -125,7 +125,7 @@
       "name": "添加event",
       "type": "Template",
       "command": true,
-      "templatePath": "static/templates/moment/event.md",
+      "templatePath": "static/_templates/moment/event.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
