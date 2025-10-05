@@ -5,7 +5,7 @@
       "name": "添加book",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/book.md",
+      "templatePath": "static/templates/book.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -35,7 +35,7 @@
       "name": "添加site",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/collection/site.md",
+      "templatePath": "static/templates/collection/site.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -65,7 +65,7 @@
       "name": "添加travel",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/moment/travel.md",
+      "templatePath": "static/templates/moment/travel.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -95,7 +95,7 @@
       "name": "添加jotting",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/moment/jotting.md",
+      "templatePath": "static/templates/moment/jotting.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -125,7 +125,7 @@
       "name": "添加event",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/moment/event.md",
+      "templatePath": "static/templates/moment/event.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -155,7 +155,7 @@
       "name": "添加reading",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/note/reading.md",
+      "templatePath": "static/templates/note/reading.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -185,7 +185,7 @@
       "name": "添加study",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/note/study.md",
+      "templatePath": "static/templates/note/study.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -215,7 +215,7 @@
       "name": "添加tech",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/note/tech.md",
+      "templatePath": "static/templates/note/tech.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -245,7 +245,7 @@
       "name": "添加competition",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/achievement/competition.md",
+      "templatePath": "static/templates/achievement/competition.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -275,7 +275,7 @@
       "name": "添加exam",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/achievement/exam.md",
+      "templatePath": "static/templates/achievement/exam.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
@@ -305,7 +305,7 @@
       "name": "添加project",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/achievement/project.md",
+      "templatePath": "static/templates/achievement/project.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "index"
