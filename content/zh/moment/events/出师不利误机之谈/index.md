@@ -7,7 +7,7 @@ authors:
 tags:
 categories:
   - event
-location: 日本
+location: 大兴机场
 summary: 900元的教训
 ---
 {{< toc mobile_only=true is_open=true >}}
