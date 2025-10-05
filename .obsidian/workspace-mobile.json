@@ -11,10 +11,14 @@
             "id": "2006f127eb0e6aa0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/moment/events/日本之旅第一天/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -163,6 +167,10 @@
   },
   "active": "2006f127eb0e6aa0",
   "lastOpenFiles": [
+    "IMG_2354.jpeg",
+    "IMG_2353.jpeg",
+    "content/zh/moment/events/日本之旅第一天/index.md",
+    "content/zh/moment/events/日本之旅第一天",
     "content/zh/slides/example/index.md",
     "content/zh/moment/events/出师不利误机之谈/index.md",
     "content/zh/moment/events/出师不利误机之谈/imgs",
@@ -184,7 +192,6 @@
     "/content/zh/moment/events/abc",
     "/content/zh/moment/events/10天日本旅行计划 1",
     "content/zh/moment/events/10天日本旅行计划 1",
-    "/content/zh/moment/events",
     "content/zh/moment/events/出师不利：错过航班/index.md",
     "content/zh/moment/events/出师不利-错过航班/imgs/IMG_2346.png",
     "/content/zh/moment/events/出师不利-错过航班/imgs/IMG_2346.png",
