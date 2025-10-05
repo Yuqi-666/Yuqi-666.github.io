@@ -8,7 +8,7 @@ tags:
 categories:
   - event
 location: 日本
-summary:
+summary: 900元的教训
 ---
 {{< toc mobile_only=true is_open=true >}}
 
