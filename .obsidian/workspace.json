@@ -13,68 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/moment/events/_index.md",
+                "file": "content/zh/moment/events/出师不利误机之谈/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "565987b6eb967fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/zh/moment/events/_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "3261269c0113d302",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "eddc92b18f849a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/note/study.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "study"
-            }
-          },
-          {
-            "id": "5c868a5cb563697a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e9395209bc8f3454",
@@ -254,10 +201,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3261269c0113d302",
+  "active": "0eabb20775f5472a",
   "lastOpenFiles": [
+    "public/moment/events/出师不利误机之谈/imgs/IMG_2346_hu_1f54aa5db772270b.webp",
+    "public/moment/events/出师不利误机之谈/imgs/IMG_2346_hu_d61144ef9a388f40.webp",
+    "resources/_gen/images/moment/events/出师不利误机之谈/imgs/IMG_2346_hu_d61144ef9a388f40.webp",
+    "resources/_gen/images/moment/events/出师不利误机之谈/imgs/IMG_2346_hu_1f54aa5db772270b.webp",
+    "resources/_gen/images/moment/events/出师不利误机之谈/imgs/IMG_2346_hu_cfdf27260d539215.webp",
+    "resources/_gen/images/moment/events/出师不利误机之谈/imgs",
+    "resources/_gen/images/moment/events/出师不利误机之谈",
+    "resources/_gen/images/moment/events",
+    "resources/_gen/images/moment",
     "content/zh/moment/events/出师不利误机之谈/imgs/IMG_2346.png",
+    "content/zh/note/tech/test/index.md",
     "content/zh/moment/events/出师不利误机之谈/index.md",
+    "content/zh/moment/events/_index.md",
+    "templates/note/study.md",
     "public/moment/events/出师不利误机之谈/imgs/IMG_2346.png",
     "public/moment/events/出师不利误机之谈/imgs",
     "content/zh/moment/events/出师不利误机之谈/imgs",
@@ -267,15 +226,10 @@
     "public/moment/events/出师不利误机之谈",
     "content/zh/moment/events/Missed-flight/index.md",
     "content/zh/moment/events/出师不利误机之谈",
-    "content/zh/moment/events/_index.md",
     "content/zh/moment/travel/10天日本旅行计划/index.md",
     "public/moment/events/missed-flight/index.html",
-    "public/moment/events/missed-flight",
-    "content/zh/moment/events/Missed-flight",
     "content/zh/moment/events/出师不利-错过航班/index.md",
     "content/zh/moment/events/abc/index.md",
-    "public/categories/event/page/1/index.html",
-    "public/categories/event/page/1",
     "content/zh/moment/_index.md",
     "content/zh/moment/events/出师不利-错过航班/imgs/IMG_2346.png",
     "content/zh/moment/events/10天日本旅行计划 1/index.md",
@@ -289,17 +243,11 @@
     "templates/collection/site.md",
     "templates/achievement/exam.md",
     "templates/note/tech.md",
-    "templates/note/study.md",
     "templates/note/reading.md",
     "未命名 1.md",
-    "content/zh/note/tech/test/index.md",
     "archetypes/default.md",
     "archetypes/collection.md",
     "content/zh/collection/site/hello-algo/index.md",
-    "public/en/publication/preprint/featured_hu_ebca0be4a33a5e5.webp",
-    "public/en/publication/preprint/featured_hu_d46d5116b2581176.webp",
-    "public/en/publication/preprint/featured_hu_8f3af74a3bea90b7.webp",
-    "public/en/publication/preprint/featured_hu_92e2fdc9e7b92720.webp",
-    "public/en/publication/preprint/featured_hu_5593fbd3e22dfb95.webp"
+    "public/en/publication/preprint/featured_hu_ebca0be4a33a5e5.webp"
   ]
 }
