@@ -1,14 +1,14 @@
 ---
 private: false
-title: "日本之旅第一天"
-date: "2025-10-06"
+title: 日本之旅第一天
+date: 2025-10-06
 authors:
   - admin
 tags:
 categories:
   - event
-location: "大阪"
-summary:
+location: 大阪
+summary: 一路奔波，在一处网吧安身
 ---
 {{< toc mobile_only=true is_open=true >}}
 
@@ -40,5 +40,8 @@ summary:
 
 我住的叫做快活club，也是最热门连锁店，可以选择坐着，半开放式，和独立包间。独立包间满了，我选的是半开放式的，可以看到底下黑色的便是床。
 ![[IMG_2372.jpeg]]
-它还提供一些有饮品和xi y
+它还提供一些有饮品和洗浴的地方，最重要的是——它有满墙的漫画
+![[IMG_2373.jpeg]]
 
+![[IMG_2374.jpeg]]
+虽然困意重重，但为了写下游记，我还是给自己泡了杯茶，一碗泡面，疏解困意。
