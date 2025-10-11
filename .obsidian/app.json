@@ -6,5 +6,6 @@
     "layouts/",
     "static/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
