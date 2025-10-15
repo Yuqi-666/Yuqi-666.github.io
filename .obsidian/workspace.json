@@ -11,14 +11,14 @@
             "id": "0eabb20775f5472a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/zh/moment/travel/日本之旅第二天/index.md",
-                "bFile": "content/zh/moment/travel/日本之旅第二天/index.md",
-                "aRef": ""
+                "file": "content/zh/moment/travel/日本之旅第二天/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: index"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
