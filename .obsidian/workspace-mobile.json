@@ -34,9 +34,24 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "b3f68e41656c4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": "content/zh/moment/travel/日本之旅第二天/index.md",
+                "bFile": "content/zh/moment/travel/日本之旅第二天/index.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: index"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77341471b15f7b68",
+  "active": "b3f68e41656c4c0f",
   "lastOpenFiles": [
+    "content/zh/moment/travel/日本之旅第二天/index.md",
+    "conflict-files-obsidian-git.md",
     "content/zh/moment/travel/日本之旅第一天/index.md",
     "/content/zh/moment/travel/日本之旅第一天/index.md",
     "/content/zh/moment/travel/日本之旅第一天",
@@ -189,7 +206,6 @@
     "/content/zh/moment",
     "/content/zh",
     "/content",
-    "content/zh/moment/travel/日本之旅第二天/index.md",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 2.jpg",
