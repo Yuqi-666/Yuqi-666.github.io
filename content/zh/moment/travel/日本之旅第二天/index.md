@@ -7,7 +7,7 @@ authors:
 categories:
   - travel
 location: 大阪
-summary: 逛心斋桥
+summary:
 ---
 {{< toc mobile_only=true is_open=true >}}
 只躺了两个多小时，不知道谁进去没，感觉不算太困就起来了
