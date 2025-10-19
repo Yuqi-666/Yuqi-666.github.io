@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/moment/travel/日本之旅第一天/index.md",
+                "file": "content/zh/note/tech/个人效率自动化/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,9 +63,18 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "6d52a44391276351",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,17 +218,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79d5e79f7ab3beed",
+  "active": "2006f127eb0e6aa0",
   "lastOpenFiles": [
-    "content/zh/moment/travel/日本之旅第二天/index.md",
-    "conflict-files-obsidian-git.md",
     "content/zh/moment/travel/日本之旅第一天/index.md",
-    "/content/zh/moment/travel/日本之旅第一天/index.md",
-    "/content/zh/moment/travel/日本之旅第一天",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "/static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "/static/_Excalidraw",
+    "/static",
+    "/content/zh/note/tech/个人效率自动化/index.md",
+    "/content/zh/moment/travel/出师不利误机之谈/index.md",
+    "/content/zh/moment/travel/出师不利误机之谈",
     "/content/zh/moment/travel",
     "/content/zh/moment",
+    "/content/zh/note/tech/个人效率自动化",
+    "content/zh/note/tech/个人效率自动化",
+    "/content/zh/note/tech",
+    "/content/zh/note",
     "/content/zh",
-    "/content",
+    "content/zh/moment/travel/日本之旅第二天/index.md",
+    "conflict-files-obsidian-git.md",
+    "/content/zh/moment/travel/日本之旅第一天/index.md",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 2.jpg",
@@ -230,13 +248,8 @@
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004 2.jpg",
-    "content/zh/moment/travel/日本之旅第二天/assets",
-    "content/zh/moment/travel/日本之旅第二天",
     "content/zh/moment/travel/出师不利误机之谈/index.md",
-    "content/zh/moment/travel/日本之旅第一天/assets",
-    "content/zh/moment/travel/日本之旅第一天",
     "content/zh/slides/example/index.md",
-    "content/zh/moment/travel/出师不利误机之谈/imgs",
     "content/zh/moment/events/_index.md",
     "content/zh/moment/events/abc/index.md",
     "/content/zh/moment/events/出师不利误机之谈/index.md",
