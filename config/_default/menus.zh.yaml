@@ -23,7 +23,11 @@ main:
     url: note/reading/
     weight: 3
     parent: 笔记
-  
+  - name: 人文笔记
+    url: note/humanity/
+    weight: 4
+    parent: 笔记
+
   - name: 动态
     url: moment/
     weight: 30
