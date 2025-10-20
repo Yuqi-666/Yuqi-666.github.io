@@ -3,9 +3,10 @@ private: false
 title: "{{NAME}}"
 authors:
   - admin
-tags: 
+tags:
 categories:
   - humanity
+summary:
 ---
 {{< toc mobile_only=true is_open=true >}}
 

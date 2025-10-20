@@ -8,6 +8,7 @@ tags:
   - 行为设计
 categories:
   - reading
+summary: 本书教你人类的行为模型，帮助你学会思考如何设计行为，并以此来养成习惯，达成目标。
 ---
 {{< toc mobile_only=true is_open=true >}}
 
