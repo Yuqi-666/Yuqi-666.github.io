@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/collection/book/结构化表达/index.md",
+                "file": "content/zh/note/reading/结构化表达/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -204,10 +204,10 @@
   },
   "active": "6ecf4366030e627b",
   "lastOpenFiles": [
+    "content/zh/collection/book/结构化表达/index.md",
     "content/zh/collection/book/深入理解计算机系统/深入理解计算机系统.pdf",
     "public/collection/book/结构化表达/index.html",
     "public/collection/book/结构化表达",
-    "content/zh/collection/book/结构化表达/index.md",
     "content/zh/note/reading/结构化表达/index.md",
     "static/_diary/2025-10-21.md",
     "public/note/reading/结构化表达/index.html",
@@ -217,7 +217,6 @@
     "public/tags/输出表达/page",
     "public/tags/输出表达/index.xml",
     "public/tags/输出表达/index.html",
-    "public/tags/输出表达",
     "public/_diary/2025-10-21.md",
     "content/zh/note/reading/福格行为模型/index.md",
     "content/zh/note/reading/_index.md",
