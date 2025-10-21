@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "5b2e74813901bc3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c3e331381f50aa",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hugo Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +202,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "6ecf4366030e627b",
+  "active": "30c3e331381f50aa",
   "lastOpenFiles": [
     "content/zh/note/reading/_index.md",
     "content/zh/note/reading/福格行为模型/index.md",
