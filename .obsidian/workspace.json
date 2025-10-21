@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad53397a1f4955d",
+        "id": "57f76199a90cc4f1",
         "type": "tabs",
         "children": [
           {
-            "id": "cb97939771866b1c",
+            "id": "6ecf4366030e627b",
             "type": "leaf",
             "state": {
-              "type": "hugo-preview-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/note/reading/福格行为模型/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Hugo Preview"
+              "title": "index"
             }
           }
         ]
@@ -181,7 +185,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "cb97939771866b1c",
+  "active": "6ecf4366030e627b",
   "lastOpenFiles": [
     "content/zh/note/reading/_index.md",
     "content/zh/note/reading/福格行为模型/index.md",
