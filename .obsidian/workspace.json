@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/note/reading/福格行为模型/index.md",
+                "file": "content/zh/_diary/2025-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-10-21"
             }
           }
         ]
@@ -202,10 +202,20 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "30c3e331381f50aa",
+  "active": "6ecf4366030e627b",
   "lastOpenFiles": [
-    "content/zh/note/reading/_index.md",
+    "public/_diary/page/1/index.html",
+    "public/_diary/page/1",
+    "public/_diary/2025-10-21/index.html",
+    "public/_diary/page",
+    "public/_diary/index.xml",
+    "public/_diary/index.html",
+    "public/_diary/2025-10-21",
+    "public/_diary",
     "content/zh/note/reading/福格行为模型/index.md",
+    "content/zh/_diary/2025-10-21.md",
+    "content/zh/_diary",
+    "content/zh/note/reading/_index.md",
     "content/zh/note/reading/assets",
     "static/_templates/note/tech.md",
     "static/_templates/note/study.md",
@@ -213,14 +223,6 @@
     "static/_templates/note/humanity.md",
     "public/_templates/note/humanity.md",
     "public/collection/book/福格行为模型/index.html",
-    "public/collection/book/福格行为模型",
-    "public/tags/个人提升/page/1/index.html",
-    "public/tags/个人提升/page/1",
-    "public/tags/个人提升/page",
-    "public/tags/个人提升/index.xml",
-    "public/tags/个人提升/index.html",
-    "public/tags/个人提升",
-    "public/tags/行为设计/page/1/index.html",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/collection/book/福格行为模型/index.md",
     "content/zh/note/humanity/_index.md",
@@ -247,7 +249,6 @@
     "public/_templates/moment/jotting.md",
     "public/_templates/moment/event.md",
     "public/_templates/note/study.md",
-    "public/_templates/note/tech.md",
-    "public/_templates/note/reading.md"
+    "public/_templates/note/tech.md"
   ]
 }
