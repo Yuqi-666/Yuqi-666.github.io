@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "12a350daf838bc42",
+        "id": "7ad53397a1f4955d",
         "type": "tabs",
         "children": [
           {
-            "id": "10e138e09e731459",
+            "id": "cb97939771866b1c",
             "type": "leaf",
             "state": {
               "type": "hugo-preview-view",
@@ -201,7 +201,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "0eabb20775f5472a",
+  "active": "cb97939771866b1c",
   "lastOpenFiles": [
     "static/_templates/note/tech.md",
     "static/_templates/note/study.md",
