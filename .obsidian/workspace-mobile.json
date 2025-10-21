@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/index.md",
+                "file": "static/_diary/2025-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-10-21"
             }
           },
           {
@@ -73,8 +73,23 @@
               "icon": "lucide-file",
               "title": "新标签页"
             }
+          },
+          {
+            "id": "6b42bca11eee4045",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,11 +233,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8d965f7cd05d39f",
+  "active": "6b42bca11eee4045",
   "lastOpenFiles": [
+    "content/zh/collection/book/结构化表达",
+    "static/_diary/2025-10-21.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/collection/book/福格行为模型/index.md",
     "content/zh/note/humanity/_index.md",
-    "static/_diary/2025-10-21.md",
     "content/zh/note/reading/福格行为模型/index.md",
     "/static/_templates/note/tech.md",
     "/static/_templates/note/study.md",
@@ -244,7 +261,6 @@
     "/static",
     "/content/zh/note/reading/福格行为模型",
     "content/zh/moment/travel/日本之旅第一天/index.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
     "/static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "/content/zh/note/tech/个人效率自动化/index.md",
     "/content/zh/moment/travel/出师不利误机之谈/index.md",
@@ -264,7 +280,6 @@
     "content/zh/moment/travel/出师不利误机之谈/index.md",
     "content/zh/slides/example/index.md",
     "content/zh/moment/events/_index.md",
-    "content/zh/moment/events/abc/index.md",
-    "/content/zh/moment/events/出师不利误机之谈/index.md"
+    "content/zh/moment/events/abc/index.md"
   ]
 }
