@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/index.md",
+                "file": "static/_diary/时间记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "时间记录"
             }
           }
         ],
@@ -199,6 +199,7 @@
   },
   "active": "83f9724e6ff8c743",
   "lastOpenFiles": [
+    "content/zh/note/tech/个人效率自动化/index.md",
     "static/_diary/时间记录.md",
     "static/_templates/diary.md",
     "static/_diary/2025-10-22.md",
@@ -234,7 +235,6 @@
     "static/_templates/note/tech.md",
     "static/_templates/note/study.md",
     "static/_templates/note/reading.md",
-    "static/_templates/note/humanity.md",
     "content/zh/note/tech/personal-blog/featured.png",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_1f54aa5db772270b.webp",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_d61144ef9a388f40.webp",
