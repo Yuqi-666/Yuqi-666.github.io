@@ -94,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/_diary/2025-10-21.md",
+                "file": "static/_diary/2025-10-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-21"
+              "title": "2025-10-22"
             }
           }
         ],
@@ -249,11 +249,13 @@
   },
   "active": "cb43733006f810bb",
   "lastOpenFiles": [
+    "static/_templates/diary.md",
+    "static/_diary/2025-10-22.md",
+    "static/_diary/2025-10-21.md",
     "content/zh/note/reading/结构化表达/index.md",
     "content/zh/note/reading/结构化表达",
     "content/zh/collection/book/结构化表达/index.md",
     "content/zh/collection/book/结构化表达",
-    "static/_diary/2025-10-21.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/collection/book/福格行为模型/index.md",
     "content/zh/note/humanity/_index.md",
@@ -292,8 +294,6 @@
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004 2.jpg",
-    "content/zh/moment/travel/出师不利误机之谈/index.md",
-    "content/zh/slides/example/index.md",
-    "content/zh/moment/events/_index.md"
+    "content/zh/moment/travel/出师不利误机之谈/index.md"
   ]
 }

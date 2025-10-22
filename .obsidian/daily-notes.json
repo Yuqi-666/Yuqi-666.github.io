@@ -1,3 +1,4 @@
 {
-  "folder": "static/_diary"
+  "folder": "static/_diary",
+  "template": "static/_templates/diary.md"
 }
