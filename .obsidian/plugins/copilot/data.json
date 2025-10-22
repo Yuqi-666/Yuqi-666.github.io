@@ -27,7 +27,7 @@
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
-  "defaultSaveFolder": "copilot/copilot-conversations",
+  "defaultSaveFolder": "static/_copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": false,
   "generateAIChatTitleOnSave": true,
@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -197,8 +197,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
