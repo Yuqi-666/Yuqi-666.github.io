@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "8b9b33543a7feb26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83f9724e6ff8c743",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-03 20.18.48.excalidraw"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +186,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "83f9724e6ff8c743",
+  "active": "67e8925a6fef2362",
   "lastOpenFiles": [
-    "content/zh/note/tech/个人效率自动化/index.md",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/test/index.md",
     "public/_templates/diary.md",
     "public/_copilot/copilot-custom-prompts/Summarize.md",
