@@ -51,4 +51,5 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 
 ### 6. 移动输入系统
 ### 7. 复盘系统
-[Drawing 2025-10-03 20.18.48.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-03%2020.18.48.excalidraw.md)
+
+![Drawing 2025-10-03 20.18.48.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-03%2020.18.48.excalidraw.md)
