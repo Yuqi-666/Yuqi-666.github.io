@@ -27,20 +27,20 @@ categories:
 {{< bilibili id="BV1enZCYhERs" >}}
 ## 自动化流程架构
 
-### 编辑器：Obsidian
+### 1. 编辑器：Obsidian
 
 Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查，依托于Obsidian的插件功能，进行丰富的编辑操作和视图操作
 
-### 核心仓库：Yuqi-666.github.io
+### 2. 核心仓库：Yuqi-666.github.io
 
 存放各种数据文件
 
-### 前端：网站（多端显示），ios日历，提醒事项
+### 3. 前端：Obsidian 主页，网站（桌面端、移动端），ios日历，提醒事项
 
 网站用于展示博客笔记，建站方法参考[**使用hugo及hugo blox搭建个人博客**](/note/tech/personal-blog)
-### 同步系统：git+github
+### 4. 同步系统：git+github
 
-### 后端
+### 5. 后端
 
 #### 任务管理系统
 
@@ -49,5 +49,5 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 
 #### 任务同步系统
 
-### 记录系统
-### 复盘系统
+### 6. 移动输入系统
+### 7. 复盘系统
