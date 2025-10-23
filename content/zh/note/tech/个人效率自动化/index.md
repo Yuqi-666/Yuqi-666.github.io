@@ -30,14 +30,18 @@ categories:
 ### 1. 编辑器：Obsidian
 
 Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查，依托于Obsidian的插件功能，进行丰富的编辑操作和视图操作
-
+![Drawing 2025-10-24 01.42.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.42.20.excalidraw.md)
 ### 2. 核心仓库：Yuqi-666.github.io
 
 存放各种数据文件
-
-### 3. 前端：Obsidian 主页，网站（桌面端、移动端），ios日历，提醒事项
-
+![Drawing 2025-10-24 01.43.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.43.20.excalidraw.md)
+### 3. 前端：
+#### Obsidian 主页
+#### 网站（桌面端、移动端）
 网站用于展示博客笔记，建站方法参考[**使用hugo及hugo blox搭建个人博客**](/note/tech/personal-blog)
+#### ios日历，提醒事项
+#### 快捷指令
+
 ### 4. 同步系统：git+github
 
 ### 5. 后端
