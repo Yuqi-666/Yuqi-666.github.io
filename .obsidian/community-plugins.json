@@ -9,5 +9,6 @@
   "obsidian-git",
   "oz-image-plugin",
   "dataview",
-  "copilot"
+  "copilot",
+  "obsidian-local-rest-api"
 ]
