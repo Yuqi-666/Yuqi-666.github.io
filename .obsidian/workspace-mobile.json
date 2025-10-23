@@ -248,8 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb43733006f810bb",
+  "active": "a8d965f7cd05d39f",
   "lastOpenFiles": [
+    "/static/_diary/test.json",
+    "static/_diary/test.json",
+    "/static/_diary",
     "static/_templates/diary.md",
     "static/_diary/2025-10-24.md",
     "static/_diary/时间记录.md",
@@ -264,7 +267,6 @@
     "/content",
     "static/_diary/2025-10-22.md",
     "/static/_diary/时间记录.md",
-    "/static/_diary",
     "static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "static/_copilot/copilot-custom-prompts/Make longer.md",
     "static/_copilot/copilot-custom-prompts/Emojify.md",
@@ -284,8 +286,6 @@
     "/static/_copilot/copilot-custom-prompts/Simplify.md",
     "/static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "/static/_copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "/static/_copilot/copilot-custom-prompts/Remove URLs.md",
-    "/static/_copilot/copilot-custom-prompts",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 2.jpg",
