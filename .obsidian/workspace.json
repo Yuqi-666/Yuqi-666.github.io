@@ -180,14 +180,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "hidden-folder-obsidian:显示文件夹": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "hidden-folder-obsidian:显示文件夹": false
     }
   },
   "active": "67e8925a6fef2362",
   "lastOpenFiles": [
-    "content/zh/note/tech/个人效率自动化/index.md",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/test/index.md",
     "public/_templates/diary.md",
     "public/_copilot/copilot-custom-prompts/Summarize.md",
