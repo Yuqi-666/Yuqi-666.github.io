@@ -186,6 +186,7 @@
   },
   "active": "67e8925a6fef2362",
   "lastOpenFiles": [
+    "static/_Excalidraw/assets",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/test/index.md",
@@ -213,7 +214,6 @@
     "static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "static/_copilot/copilot-custom-prompts/Remove URLs.md",
     "static/_copilot/copilot-custom-prompts/Generate glossary.md",
-    "static/_copilot/copilot-custom-prompts/Generate table of contents.md",
     "static/_copilot/copilot-custom-prompts",
     "static/_copilot",
     "static/_diary/assets",
