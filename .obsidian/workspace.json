@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ab1c07b00af45c62",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-24 01.46.44.excalidraw"
+            }
+          },
+          {
             "id": "185eb4eb09e49f94",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,9 +237,10 @@
   },
   "active": "290943d61a7d32b1",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/index.md",
+    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "static/_diary/2025-10-24.md",
     "static/_diary/时间记录.md",
@@ -255,7 +268,6 @@
     "public/_copilot/copilot-custom-prompts",
     "public/_copilot",
     "static/_templates/diary.md",
-    "static/_copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "static/_copilot/copilot-custom-prompts",
     "static/_copilot",
     "static/_diary/assets",
