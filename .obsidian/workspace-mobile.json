@@ -94,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/_diary/时间记录.md",
+                "file": "static/_diary/2025-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时间记录"
+              "title": "2025-10-24"
             }
           }
         ],
@@ -250,6 +250,9 @@
   },
   "active": "cb43733006f810bb",
   "lastOpenFiles": [
+    "static/_templates/diary.md",
+    "static/_diary/2025-10-24.md",
+    "static/_diary/时间记录.md",
     "/static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "/static/_Excalidraw",
     "/static",
@@ -260,7 +263,6 @@
     "/content/zh",
     "/content",
     "static/_diary/2025-10-22.md",
-    "static/_diary/时间记录.md",
     "/static/_diary/时间记录.md",
     "/static/_diary",
     "static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
@@ -283,8 +285,6 @@
     "/static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "/static/_copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "/static/_copilot/copilot-custom-prompts/Remove URLs.md",
-    "/static/_copilot/copilot-custom-prompts/Make shorter.md",
-    "/static/_copilot/copilot-custom-prompts/Make longer.md",
     "/static/_copilot/copilot-custom-prompts",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
