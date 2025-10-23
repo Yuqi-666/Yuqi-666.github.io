@@ -186,6 +186,7 @@
   },
   "active": "cd6e49dfe0b247e8",
   "lastOpenFiles": [
+    "static/_diary/test.json",
     "static/_diary/2025-10-24.md",
     "static/_diary/时间记录.md",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
@@ -214,7 +215,6 @@
     "static/_templates/diary.md",
     "static/_copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "static/_copilot/copilot-custom-prompts/Remove URLs.md",
     "static/_copilot/copilot-custom-prompts",
     "static/_copilot",
     "static/_diary/assets",
