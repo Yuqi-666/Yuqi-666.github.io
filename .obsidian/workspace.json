@@ -59,6 +59,18 @@
             "id": "290943d61a7d32b1",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-03 20.18.48.excalidraw"
+            }
+          },
+          {
+            "id": "c5cdac9cf4409040",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "content/zh/note/tech/个人效率自动化/index.md",
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -235,13 +247,14 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "290943d61a7d32b1",
+  "active": "c5cdac9cf4409040",
   "lastOpenFiles": [
     "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
-    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "static/_Excalidraw/assets",
+    "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "static/_diary/2025-10-24.md",
     "static/_diary/时间记录.md",
     "static/_diary/test.txt",
@@ -249,7 +262,6 @@
     "static/_diary/2025-10-21.md",
     "static/_diary/2025-10-22.md",
     "content/zh/authors/_index.md",
-    "static/_Excalidraw/assets",
     "content/zh/note/tech/test/index.md",
     "public/_templates/diary.md",
     "public/_copilot/copilot-custom-prompts/Summarize.md",
@@ -267,7 +279,6 @@
     "public/_copilot/copilot-custom-prompts/Emojify.md",
     "public/_copilot/copilot-custom-prompts",
     "public/_copilot",
-    "static/_templates/diary.md",
     "static/_copilot/copilot-custom-prompts",
     "static/_copilot",
     "static/_diary/assets",
