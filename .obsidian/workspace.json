@@ -23,12 +23,17 @@
             "id": "ab1c07b00af45c62",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md"
+                "file": "static/_HOME/Home.canvas",
+                "viewState": {
+                  "x": -350,
+                  "y": 53,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-24 01.46.44.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           },
           {
@@ -249,9 +254,11 @@
   },
   "active": "ab1c07b00af45c62",
   "lastOpenFiles": [
+    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
+    "static/_HOME/Home.canvas",
+    "static/_HOME",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "static/_Excalidraw/assets",
     "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
@@ -283,7 +290,6 @@
     "static/_copilot",
     "static/_diary/assets",
     "content/zh/collection/book/深入理解计算机系统/深入理解计算机系统.pdf",
-    "public/collection/book/结构化表达/index.html",
     "content/zh/note/tech/personal-blog/featured.png",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_1f54aa5db772270b.webp",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_d61144ef9a388f40.webp",
