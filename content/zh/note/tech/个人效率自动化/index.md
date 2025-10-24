@@ -37,6 +37,13 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 ![Drawing 2025-10-24 01.43.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.43.20.excalidraw.md)
 ### 3. 前端：
 #### Obsidian 主页
+
+主页使用白板，白板上编排各个组件，组件的内容是_HOME文件夹下的一个个md文件，这些文件各自承担一个组件内容，在白板中以卡片预览笔记的形式展示
+
+使用插件：
+- tracker
+
+
 #### 网站（桌面端、移动端）
 网站用于展示博客笔记，建站方法参考[**使用hugo及hugo blox搭建个人博客**](/note/tech/personal-blog)
 #### ios日历，提醒事项
