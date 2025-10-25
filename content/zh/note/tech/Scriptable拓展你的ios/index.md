@@ -10,13 +10,15 @@ categories:
 summary:
 ---
 {{< toc mobile_only=true is_open=true >}}
-![头图](assets/头图.png)
+[Open: 048a4e4c29eff68556ce5fd42b4ebd02_MD5.png](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/79e57ed28a52e412c923426de71460b8_MD5.jpg)
+![头图](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/79e57ed28a52e412c923426de71460b8_MD5.jpg)
 
 ### 前言
 
 ios用户当更新到iOS14后，我们的iPhone等ios设备支持我们用户自定义桌面小物件（又或者称之为小组件、桌面挂件），利用这个特性，网上出现了许许多多诸如透明时钟、微博热搜、知乎热榜、网易云热评、特斯拉、BMW、名爵、奥迪等等的iPhone桌面，看如下实际效果图：
 
-![](assets/1460000041291745.jpg)
+[Open: 82e19771c45ee129b83b70a108632060_MD5.jpg](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/e8f332683d18eb7451b27bf10585369a_MD5.jpg)
+![](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/e8f332683d18eb7451b27bf10585369a_MD5.jpg)
 
 那这到底是怎么实现的，我们怎么才能制作一款自己的iPhone个性桌面？今天给大家分享的就是Scriptable的桌面玩法，对于javascript开发人员来说，看完这篇教程，上手小物件开发应用是信手拈来的事儿，而对于没有编程基础的同学不用担心看不懂，你所要做的就是复制粘贴，直接跳过开发教程，看文章末尾快速通道即可。
 
@@ -36,7 +38,8 @@ ios用户当更新到iOS14后，我们的iPhone等ios设备支持我们用户自
 
 先看一张图：
 
-![](assets/1460000041291759.png)
+[Open: 195b59df6e8ff445d488a8e3e27ae9e6_MD5.png](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/b33359b9d7ecb413b14e8921501ef695_MD5.jpg)
+![](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/b33359b9d7ecb413b14e8921501ef695_MD5.jpg)
 
 上面列举的是一些**Scriptable**的特性，这些特性包括：
 
@@ -936,19 +939,23 @@ async notify (title, body, url, opts = {}) {
 
 1. AppStore搜索下载Scriptable
 
-![](assets/1460000041291746.png)
+[Open: 6babc42965b4540b14103d23b3d7a778_MD5.png](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/bd7b7d50d38e82e6fc3844eacb8e09dd_MD5.jpg)
+![](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/bd7b7d50d38e82e6fc3844eacb8e09dd_MD5.jpg)
 
 2. 打开Scriptable，点击右上角➕，粘贴从小物件屋小程序里复制的安装小组件代码
 
-![](assets/1460000041291696.jpg)
+[Open: b9c6f26fe06a0d92ec9c8e26b578881e_MD5.jpg](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/84ff7ee75a44ec02fe3eb148296c3c52_MD5.jpg)
+![](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/84ff7ee75a44ec02fe3eb148296c3c52_MD5.jpg)
 
 3. 点击右下角▶️运行按钮进行下载安装组件代码，若需要配置小物件(如: 设置背景图片等)，会弹出弹窗，根据提示下一步操作即可，若无任何反应则表示无需配置，接下去点击左上角的Done按钮即可
 
-![](assets/1460000041291697.png)
+[Open: f98c8109a3f66e1e5f4fd7d345c8dabf_MD5.png](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/df260d6011cd2bff8d8ad4f426b86ab0_MD5.jpg)
+![](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/df260d6011cd2bff8d8ad4f426b86ab0_MD5.jpg)
 
 4. 回到iPhone桌面，长按，添加组件，选择Scriptable应用，勾选刚刚添加的小组件代码，完成显示效果😃
     
-    ![](assets/1460000041291747.png)
+    [Open: 059a4c2e5d3414efb8efe64730cfb458_MD5.png](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/58ee013d0ac3e32788cdd775083d7060_MD5.jpg)
+![](content/zh/note/tech/Scriptable%E6%8B%93%E5%B1%95%E4%BD%A0%E7%9A%84ios/assets/58ee013d0ac3e32788cdd775083d7060_MD5.jpg)
     
 
 ### 快速通道
