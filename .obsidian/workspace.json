@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,12 +233,12 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "9b8953feb2c19b64",
+  "active": "ab1c07b00af45c62",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "static/_data/test.txt",
