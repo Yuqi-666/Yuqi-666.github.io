@@ -1,14 +1,15 @@
 ---
-title: 使用hugo及hugo blox搭建个人博客
-summary: 个人对hugo及hugo blox关于搭建个人博客的一些见解
-date: 2025-09-24
+private: false
+featured: false
+title: 使用hugo及hugo-blox搭建个人博客网站
 authors:
   - admin
 tags:
   - hugo
   - hugo-blox
 categories:
-  - web
+  - tech
+summary: 个人对hugo及hugo blox关于搭建个人博客的一些见解
 ---
 
 {{< toc mobile_only=true is_open=true >}}

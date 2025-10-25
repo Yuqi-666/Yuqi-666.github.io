@@ -1,12 +1,13 @@
 ---
 private: false
 featured: false
-title: "个人效率自动化"
+title: 个人效率自动化
 authors:
   - admin
 tags:
 categories:
   - tech
+summary:
 ---
 {{< toc mobile_only=true is_open=true >}}
 
