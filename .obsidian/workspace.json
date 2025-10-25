@@ -70,6 +70,20 @@
             }
           },
           {
+            "id": "b683e7dc55a93bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/note/tech/personal-blog/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
             "id": "2bd239fde8c99d88",
             "type": "leaf",
             "state": {
@@ -84,7 +98,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "fb837bda2de6d220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97cd7a5b5ac031f2",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hugo Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,32 +279,37 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "714e384880c4dd4e",
+  "active": "b683e7dc55a93bb9",
   "lastOpenFiles": [
-    "content/zh/note/tech/wifi_bridge/index.md",
+    "content/zh/note/tech/test/index.md",
+    "content/zh/note/tech/test/imgs/write.jpg",
+    "content/zh/note/tech/c++语法之函数的传递/index.md",
+    "public/note/tech/学习生产环境搭建/index.html",
+    "public/note/tech/学习生产环境搭建",
+    "public/note/tech/wifi_bridge/index.html",
+    "public/note/tech/wifi_bridge",
+    "public/tags/计算机网络/page/1/index.html",
+    "public/tags/计算机网络/page/1",
+    "public/tags/计算机网络/page",
+    "public/tags/计算机网络/index.xml",
+    "public/tags/计算机网络/index.html",
+    "public/tags/计算机网络",
+    "public/_diary/2025-10-24.md",
     "content/zh/note/tech/学习生产环境搭建/index.md",
-    "content/zh/note/tech/wifi_bridge",
+    "content/zh/note/tech/wifi_bridge/index.md",
     "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
-    "content/zh/note/tech/学习生产环境搭建",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/index.md",
-    "static/_data/test.txt",
     "static/_data/未命名.md",
-    "static/_data",
     "static/_HOME/Home.canvas",
-    "static/_HOME",
-    "static/_Excalidraw/assets",
     "static/_diary/2025-10-24.md",
     "static/_diary/时间记录.md",
-    "static/_diary/test.txt",
-    "static/_diary/test.json",
     "static/_diary/2025-10-21.md",
     "static/_diary/2025-10-22.md",
     "content/zh/authors/_index.md",
-    "content/zh/note/tech/test/index.md",
     "public/_templates/diary.md",
     "public/_copilot/copilot-custom-prompts/Summarize.md",
     "public/_copilot/copilot-custom-prompts/Translate to Chinese.md",
@@ -283,11 +318,6 @@
     "public/_copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "public/_copilot/copilot-custom-prompts/Remove URLs.md",
     "public/_copilot/copilot-custom-prompts/Make shorter.md",
-    "public/_copilot/copilot-custom-prompts/Make longer.md",
-    "public/_copilot/copilot-custom-prompts/Generate glossary.md",
-    "public/_copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "public/_copilot/copilot-custom-prompts",
-    "public/_copilot",
     "content/zh/note/tech/personal-blog/featured.png",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_1f54aa5db772270b.webp",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_d61144ef9a388f40.webp",
@@ -296,7 +326,6 @@
     "resources/_gen/images/moment/travel/出师不利误机之谈/imgs/IMG_2346_hu_cfdf27260d539215.webp",
     "public/moment/travel/出师不利误机之谈/imgs/IMG_2346.png",
     "public/moment/travel/日本之旅第一天/assets/IMG_2374.jpeg",
-    "public/moment/travel/日本之旅第一天/assets/IMG_2373.jpeg",
-    "public/moment/travel/日本之旅第一天/assets/IMG_2372.jpeg"
+    "public/moment/travel/日本之旅第一天/assets/IMG_2373.jpeg"
   ]
 }
