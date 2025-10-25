@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "c5cdac9cf4409040",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-03 20.18.48.excalidraw"
-            }
-          },
-          {
             "id": "9b8953feb2c19b64",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,14 +233,14 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "ab1c07b00af45c62",
+  "active": "9b8953feb2c19b64",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/index.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_data/test.txt",
     "static/_data/未命名.md",
     "static/_data",
