@@ -3,12 +3,11 @@
   "templater-obsidian",
   "hidden-folder-obsidian",
   "obsidian-admonition",
-  "obsidian-local-images-plus",
   "obsidian-excalidraw-plugin",
   "quickadd",
   "obsidian-git",
-  "oz-image-plugin",
   "dataview",
   "copilot",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-local-images-plus"
 ]
