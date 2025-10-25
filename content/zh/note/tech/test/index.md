@@ -54,7 +54,7 @@ yes?
 {{< /spoiler >}}
 
 [green title](#green-title)
-[<mark>hugo</mark>]({{< relref "/note/tech/personal-blog" >}})
+
 [^1]
 {{< figure src="imgs/write.jpg" id="hello" >}}
 a
