@@ -36,6 +36,7 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 
 存放各种数据文件
 ![Drawing 2025-10-24 01.43.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.43.20.excalidraw.md)
+![Drawing 2025-10-25 16.55.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-25%2016.55.20.excalidraw.md)
 ### 3. 前端：
 #### Obsidian 主页
 
