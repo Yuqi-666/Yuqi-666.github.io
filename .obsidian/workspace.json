@@ -6,7 +6,6 @@
       {
         "id": "5b2e74813901bc3b",
         "type": "tabs",
-        "dimension": 51.28755364806867,
         "children": [
           {
             "id": "67e8925a6fef2362",
@@ -69,24 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "c2a40b112d18026d",
-        "type": "tabs",
-        "dimension": 48.712446351931334,
-        "children": [
-          {
-            "id": "1a9648ec81a89809",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hugo Preview"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,10 +233,10 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "159b0209d22e87ec",
+  "active": "9b8953feb2c19b64",
   "lastOpenFiles": [
-    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.svg",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md",
     "public/note/tech/个人效率自动化/assets/drawing-2025-10-03-20.18.48.excalidraw/index.html",
     "public/note/tech/个人效率自动化/assets/drawing-2025-10-03-20.18.48.excalidraw",
     "public/tags/excalidraw/page/1/index.html",
