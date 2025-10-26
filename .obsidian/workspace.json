@@ -14,7 +14,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md"
+                "file": "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-25 16.55.20.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-25 16.55.20.excalidraw"
@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md"
+                "file": "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-24 01.42.20.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-24 01.42.20.excalidraw"
@@ -36,11 +36,11 @@
             "id": "ab47f7f2510402f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg"
+                "file": "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md"
               },
-              "icon": "lucide-image",
+              "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-03 20.18.48.excalidraw"
             }
           },
@@ -48,11 +48,11 @@
             "id": "9b8953feb2c19b64",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg"
+                "file": "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md"
               },
-              "icon": "lucide-image",
+              "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-03 20.18.48.excalidraw"
             }
           },
@@ -62,7 +62,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg"
+                "file": "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.svg"
               },
               "icon": "lucide-image",
               "title": "Drawing 2025-10-03 20.18.48.excalidraw"
@@ -253,13 +253,26 @@
   },
   "active": "159b0209d22e87ec",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.svg",
+    "public/note/tech/个人效率自动化/assets/drawing-2025-10-03-20.18.48.excalidraw/index.html",
+    "public/note/tech/个人效率自动化/assets/drawing-2025-10-03-20.18.48.excalidraw",
+    "public/tags/excalidraw/page/1/index.html",
+    "public/tags/excalidraw/page/1",
+    "public/tags/excalidraw/index.xml",
+    "public/tags/excalidraw/page",
+    "public/tags/excalidraw/index.html",
+    "public/tags/excalidraw",
     "content/zh/note/tech/个人效率自动化/index.md",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-24 01.42.20.excalidraw.md",
+    "public/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.svg",
+    "public/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.png",
+    "public/note/tech/个人效率自动化/assets",
+    "public/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.png",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.png",
     "public/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg",
-    "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-25 16.55.20.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/index.md",
     "content/zh/note/tech/学习生产环境搭建/index.md",
     "content/zh/note/tech/c++语法之函数的传递/index.md",
@@ -268,28 +281,14 @@
     "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/featured.png",
     "content/zh/note/tech/Scriptable拓展你的ios/assets/048a4e4c29eff68556ce5fd42b4ebd02_MD5.png",
     "content/zh/note/tech/Scriptable拓展你的ios/assets/195b59df6e8ff445d488a8e3e27ae9e6_MD5.png",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/82e19771c45ee129b83b70a108632060_MD5.jpg",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/f98c8109a3f66e1e5f4fd7d345c8dabf_MD5.png",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/059a4c2e5d3414efb8efe64730cfb458_MD5.png",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/b9c6f26fe06a0d92ec9c8e26b578881e_MD5.jpg",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/6babc42965b4540b14103d23b3d7a778_MD5.png",
     "resources/_gen/images/note/tech/scriptable拓展你的ios/assets",
-    "resources/_gen/images/note/tech/scriptable拓展你的ios",
-    "public/note/tech/scriptable拓展你的ios/assets",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets",
-    "public/note/tech/scriptable拓展你的ios/index.html",
-    "public/note/tech/scriptable拓展你的ios",
-    "content/zh/note/tech/Scriptable拓展你的ios",
     "content/zh/note/tech/wifi_bridge/index.md",
     "note/tech/使用hugo及hugo-blox搭建个人博客网站.md",
     "public/_HOME/Home.canvas",
-    "public/_HOME",
-    "public/_data/test.txt",
-    "public/_data",
     "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客/index.md",
     "content/zh/note/tech/test/index.md",
     "public/_diary/2025-10-24.md",
-    "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "static/_data/未命名.md",
     "static/_HOME/Home.canvas",
     "static/_diary/2025-10-24.md",

@@ -31,12 +31,12 @@ summary:
 ### 1. 编辑器：Obsidian
 
 Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查，依托于Obsidian的插件功能，进行丰富的编辑操作和视图操作
-![Drawing 2025-10-24 01.42.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.42.20.excalidraw.md)
+![Drawing 2025-10-24 01.42.20.excalidraw](assets/Drawing%202025-10-24%2001.42.20.excalidraw.md)
 ### 2. 核心仓库：Yuqi-666.github.io
 
 存放各种数据文件
-![Drawing 2025-10-24 01.43.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.43.20.excalidraw.md)
-![Drawing 2025-10-25 16.55.20.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-25%2016.55.20.excalidraw.md)
+![Drawing 2025-10-24 01.43.20.excalidraw](assets/Drawing%202025-10-24%2001.43.20.excalidraw.md)
+![Drawing 2025-10-25 16.55.20.excalidraw](assets/Drawing%202025-10-25%2016.55.20.excalidraw.md)
 ### 3. 前端：
 #### Obsidian 主页
 
@@ -52,7 +52,7 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 #### ios日历，提醒事项
 #### 快捷指令
 
-![Drawing 2025-10-24 01.46.44.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-24%2001.46.44.excalidraw.md)
+![Drawing 2025-10-24 01.46.44.excalidraw](assets/Drawing%202025-10-24%2001.46.44.excalidraw.md)
 
 
 
@@ -78,6 +78,6 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 
 
 ## 全局图
+![](assets/Drawing%202025-10-03%2020.18.48.excalidraw.svg)
 
-![Drawing 2025-10-03 20.18.48.excalidraw](../../../../../static/_Excalidraw/Drawing%202025-10-03%2020.18.48.excalidraw.svg)
 
