@@ -36,11 +36,11 @@
             "id": "ab47f7f2510402f6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md"
+                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg"
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-image",
               "title": "Drawing 2025-10-03 20.18.48.excalidraw"
             }
           },
@@ -48,18 +48,28 @@
             "id": "9b8953feb2c19b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Drawing 2025-10-03 20.18.48.excalidraw"
+            }
+          },
+          {
+            "id": "159b0209d22e87ec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Drawing 2025-10-03 20.18.48.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "c2a40b112d18026d",
@@ -241,13 +251,15 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "9b8953feb2c19b64",
+  "active": "159b0209d22e87ec",
   "lastOpenFiles": [
+    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "public/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.svg",
     "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/index.md",
     "content/zh/note/tech/学习生产环境搭建/index.md",
     "content/zh/note/tech/c++语法之函数的传递/index.md",
@@ -261,8 +273,6 @@
     "content/zh/note/tech/Scriptable拓展你的ios/assets/059a4c2e5d3414efb8efe64730cfb458_MD5.png",
     "content/zh/note/tech/Scriptable拓展你的ios/assets/b9c6f26fe06a0d92ec9c8e26b578881e_MD5.jpg",
     "content/zh/note/tech/Scriptable拓展你的ios/assets/6babc42965b4540b14103d23b3d7a778_MD5.png",
-    "public/note/tech/scriptable拓展你的ios/assets/048a4e4c29eff68556ce5fd42b4ebd02_MD5.png",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/58ee013d0ac3e32788cdd775083d7060_MD5.jpg",
     "resources/_gen/images/note/tech/scriptable拓展你的ios/assets",
     "resources/_gen/images/note/tech/scriptable拓展你的ios",
     "public/note/tech/scriptable拓展你的ios/assets",
