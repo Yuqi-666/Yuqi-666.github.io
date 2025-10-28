@@ -73,12 +73,14 @@
             "id": "04f917eec9b61527",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md"
+                "file": "content/zh/note/tech/Stable-Diffusion大模型一览/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-28 23.54.46.excalidraw"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -163,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "243be41168feee57",
@@ -275,8 +276,8 @@
   },
   "active": "04f917eec9b61527",
   "lastOpenFiles": [
-    "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.svg",
     "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md",
+    "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.svg",
     "content/zh/note/tech/Stable-Diffusion大模型一览/index.md",
     "content/zh/note/tech/Stable-Diffusion大模型一览/assets",
     "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md",
