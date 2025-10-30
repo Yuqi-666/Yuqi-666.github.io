@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/Stable-Diffusion大模型一览/index.md",
+                "file": "content/zh/note/tech/个人效率自动化/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,6 +109,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "d6741d1979ecab01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e169772f5cf421af",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hugo Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "content/zh/note/tech/个人效率自动化/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -249,12 +265,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,23 +289,25 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "04f917eec9b61527",
+  "active": "e169772f5cf421af",
   "lastOpenFiles": [
-    "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md",
+    "public/tags/stable-diffusion/page/1/index.html",
+    "public/tags/stable-diffusion/page/1",
+    "public/tags/stable-diffusion/page",
+    "public/tags/stable-diffusion/index.xml",
+    "public/tags/stable-diffusion/index.html",
+    "public/tags/stable-diffusion",
+    "public/tags/comfyui/page/1/index.html",
+    "public/tags/comfyui/page/1",
+    "public/tags/comfyui/index.xml",
+    "public/tags/comfyui/page",
+    "public/tags/comfyui/index.html",
+    "public/note/tech/stable-diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.svg",
     "content/zh/note/tech/Stable-Diffusion大模型一览/index.md",
+    "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md",
     "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.svg",
-    "content/zh/note/tech/Stable-Diffusion大模型一览/assets",
     "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "content/zh/note/tech/Stable-Diffusion大模型一览",
     "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.svg",
-    "public/note/tech/个人效率自动化/assets/drawing-2025-10-03-20.18.48.excalidraw/index.html",
-    "public/note/tech/个人效率自动化/assets/drawing-2025-10-03-20.18.48.excalidraw",
-    "public/tags/excalidraw/page/1/index.html",
-    "public/tags/excalidraw/page/1",
-    "public/tags/excalidraw/index.xml",
-    "public/tags/excalidraw/page",
-    "public/tags/excalidraw/index.html",
-    "public/tags/excalidraw",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/个人效率自动化/assets/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "public/note/tech/个人效率自动化/assets/Drawing 2025-10-03 20.18.48.excalidraw.svg",
@@ -307,7 +324,6 @@
     "content/zh/note/tech/_index.md",
     "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/featured.png",
     "content/zh/note/tech/Scriptable拓展你的ios/assets/048a4e4c29eff68556ce5fd42b4ebd02_MD5.png",
-    "content/zh/note/tech/Scriptable拓展你的ios/assets/195b59df6e8ff445d488a8e3e27ae9e6_MD5.png",
     "content/zh/note/tech/wifi_bridge/index.md",
     "note/tech/使用hugo及hugo-blox搭建个人博客网站.md",
     "public/_HOME/Home.canvas",
