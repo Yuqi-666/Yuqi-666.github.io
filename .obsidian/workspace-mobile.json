@@ -77,14 +77,12 @@
             "id": "cb43733006f810bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "content/zh/note/tech/comfyui模型lora测评/index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
             }
           }
         ],
@@ -196,7 +194,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/zh/note/tech/comfyui模型lora测评/index.md",
+            "file": "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -214,9 +212,19 @@
           "icon": "message-square",
           "title": "Copilot"
         }
+      },
+      {
+        "id": "d94e7225690bc113",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,11 +242,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "60583b822aba353f",
+  "active": "cb43733006f810bb",
   "lastOpenFiles": [
+    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "content/zh/note/tech/comfyui模型lora测评/index.md",
+    "static/_Excalidraw",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-25 16.55.20.excalidraw.md",
-    "content/zh/note/tech/comfyui模型lora测评/index.md",
     "static/_diary/2025-10-24.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
@@ -267,13 +278,10 @@
     "/content/zh/note/tech/wifi_bridge/index.md",
     "/content/zh/note/tech/c++语法之函数的传递/index.md",
     "/static/_data",
-    "/static/_HOME",
     "static/_templates/diary.md",
     "static/_diary/时间记录.md",
     "static/_diary/2025-10-22.md",
     "/static/_diary/时间记录.md",
-    "static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "static/_copilot/copilot-custom-prompts/Make longer.md",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 2.jpg",
@@ -282,7 +290,6 @@
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624 2.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624 1.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624.jpg",
-    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004.jpg",
-    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004 2.jpg"
+    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004.jpg"
   ]
 }
