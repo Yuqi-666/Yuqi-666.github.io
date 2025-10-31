@@ -1,4 +1,4 @@
 {
-  "folders": "^config$\n^i18n$\n^layouts$\n^node_modules$\n^public$\n^resources$\n^static/_data$",
+  "folders": "^config$\n^i18n$\n^layouts$\n^node_modules$\n^public$\n^resources$\n^static/_data$\n^assets$",
   "enable": true
 }

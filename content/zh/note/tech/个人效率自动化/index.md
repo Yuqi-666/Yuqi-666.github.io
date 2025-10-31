@@ -5,6 +5,7 @@ title: 个人效率自动化
 authors:
   - admin
 tags:
+  - 个人提升
 categories:
   - tech
 summary:
@@ -31,12 +32,12 @@ summary:
 ### 1. 编辑器：Obsidian
 
 Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查，依托于Obsidian的插件功能，进行丰富的编辑操作和视图操作
-![Drawing 2025-10-24 01.42.20.excalidraw](assets/Drawing%202025-10-24%2001.42.20.excalidraw.md)
+![Drawing 2025-10-24 01.42.20.excalidraw](assets/_Drawing/Drawing%202025-10-24%2001.42.20.excalidraw.svg)
 ### 2. 核心仓库：Yuqi-666.github.io
 
 存放各种数据文件
-![Drawing 2025-10-24 01.43.20.excalidraw](assets/Drawing%202025-10-24%2001.43.20.excalidraw.md)
-![Drawing 2025-10-25 16.55.20.excalidraw](assets/Drawing%202025-10-25%2016.55.20.excalidraw.md)
+![Drawing 2025-10-24 01.43.20.excalidraw](assets/_Drawing/Drawing%202025-10-24%2001.43.20.excalidraw.svg)
+![Drawing 2025-10-25 16.55.20.excalidraw](assets/_Drawing/Drawing%202025-10-25%2016.55.20.excalidraw.svg)
 ### 3. 前端：
 #### Obsidian 主页
 
@@ -52,7 +53,7 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 #### ios日历，提醒事项
 #### 快捷指令
 
-![Drawing 2025-10-24 01.46.44.excalidraw](assets/Drawing%202025-10-24%2001.46.44.excalidraw.md)
+![Drawing 2025-10-24 01.46.44.excalidraw](assets/_Drawing/Drawing%202025-10-24%2001.46.44.excalidraw.svg)
 
 
 
@@ -78,7 +79,7 @@ Obsidian编辑器操控核心仓库（数据库），进行数据的增删改查
 
 
 ## 全局图
-![](assets/Drawing%202025-10-03%2020.18.48.excalidraw.svg)
+![](assets/_Drawing/Drawing%202025-10-03%2020.18.48.excalidraw.svg)
 
 
 
