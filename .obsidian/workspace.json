@@ -84,6 +84,18 @@
             }
           },
           {
+            "id": "8ba3db7be569adb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
+            }
+          },
+          {
             "id": "aa703cfa70273105",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "d95bb950322cf365",
@@ -279,10 +291,16 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "9b8953feb2c19b64",
+  "active": "8ba3db7be569adb4",
   "lastOpenFiles": [
-    "content/zh/note/tech/wifi_bridge/index.md",
+    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "public/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "public/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/上下文工程/index.md",
+    "static/_diary/时间记录.md",
+    "content/zh/note/tech/wifi_bridge/index.md",
     "public/collection/book/index.html",
     "public/collection/index.html",
     "public/css/_entry.css",
@@ -313,11 +331,6 @@
     "public/_diary/2025-10-22.md",
     "public/_diary/2025-10-24.md",
     "public/_diary/2025-10-21.md",
-    "public/_copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "public/_copilot/copilot-custom-prompts/Summarize.md",
-    "public/_copilot/copilot-custom-prompts/Simplify.md",
-    "public/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "public/_copilot/copilot-custom-prompts/Remove URLs.md",
     "public/slides/example/featured_hu_f2087f1fb057c361.webp",
     "public/slides/example/featured_hu_a1f1bed0e3ad73e3.webp",
     "public/slides/example/featured_hu_9224ee6a0785e9e0.webp",
@@ -326,8 +339,6 @@
     "public/slides/example/boards.webp",
     "public/author/yuqi-666/avatar_hu_d34d7e1a29fa767.PNG",
     "public/collection/site/oi-wiki/featured_hu_feefbe82cb7ad602.webp",
-    "public/collection/site/oi-wiki/featured_hu_fa088bd39105992b.webp",
-    "public/collection/site/oi-wiki/featured_hu_da1daed9e75b67b5.webp",
     "static/_HOME/Home.canvas"
   ]
 }
