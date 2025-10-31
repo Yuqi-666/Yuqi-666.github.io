@@ -1,14 +1,13 @@
 [
   "hugo-preview-obsidian",
   "templater-obsidian",
-  "hidden-folder-obsidian",
   "obsidian-admonition",
   "obsidian-excalidraw-plugin",
   "quickadd",
-  "obsidian-git",
   "dataview",
   "copilot",
   "obsidian-local-rest-api",
   "obsidian-local-images-plus",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "obsidian-git"
 ]

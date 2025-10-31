@@ -36,21 +36,6 @@
             }
           },
           {
-            "id": "b3f68e41656c4c0f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "content/zh/moment/travel/日本之旅第二天/index.md",
-                "bFile": "content/zh/moment/travel/日本之旅第二天/index.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: index"
-            }
-          },
-          {
             "id": "79d5e79f7ab3beed",
             "type": "leaf",
             "state": {
@@ -94,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/_diary/2025-10-24.md",
+                "file": "content/zh/note/tech/comfyui模型lora测评/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-24"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,6 +196,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "content/zh/note/tech/comfyui模型lora测评/index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -220,21 +206,20 @@
         }
       },
       {
-        "id": "a8d965f7cd05d39f",
+        "id": "60583b822aba353f",
         "type": "leaf",
         "state": {
-          "type": "git-view",
+          "type": "copilot-chat-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "message-square",
+          "title": "Copilot"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -245,11 +230,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "quickadd:QuickAdd": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "cb43733006f810bb",
+  "active": "60583b822aba353f",
   "lastOpenFiles": [
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-25 16.55.20.excalidraw.md",
+    "content/zh/note/tech/comfyui模型lora测评/index.md",
+    "static/_diary/2025-10-24.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "content/zh/note/tech/c++语法之函数的传递/index.md",
@@ -279,15 +269,11 @@
     "/static/_data",
     "/static/_HOME",
     "static/_templates/diary.md",
-    "static/_diary/2025-10-24.md",
     "static/_diary/时间记录.md",
     "static/_diary/2025-10-22.md",
     "/static/_diary/时间记录.md",
     "static/_copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "static/_copilot/copilot-custom-prompts/Make longer.md",
-    "static/_copilot/copilot-custom-prompts/Emojify.md",
-    "static/_copilot/copilot-custom-prompts/Generate table of contents.md",
-    "static/_copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 2.jpg",
