@@ -72,21 +72,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "cb43733006f810bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +229,26 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "cb43733006f810bb",
+  "active": "2006f127eb0e6aa0",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
     "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "static/_data/2025/11.txt",
+    "static/_data/2025",
+    "/static/_data/2025/11.txt",
+    "/content/zh/note/tech/个人效率自动化/index.md",
+    "/content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "/content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "/content/zh/note/tech/个人效率自动化/assets/_Drawing",
+    "/content/zh/note/tech/个人效率自动化/assets",
+    "/content/zh/note/tech/个人效率自动化",
+    "/content/zh/note/tech",
+    "/content/zh/note",
+    "/content/zh",
+    "/content",
+    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
     "content/zh/note/tech/comfyui模型lora测评/index.md",
-    "static/_Excalidraw",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-25 16.55.20.excalidraw.md",
     "static/_diary/2025-10-24.md",
@@ -256,40 +257,26 @@
     "content/zh/note/tech/c++语法之函数的传递/index.md",
     "static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "static/_HOME/Home.canvas",
-    "static/_HOME",
     "content/zh/note/tech/学习生产环境搭建/index.md",
-    "content/zh/note/tech/学习生产环境搭建",
     "static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
     "content/zh/note/tech/wifi_bridge/index.md",
-    "content/zh/note/tech/wifi_bridge",
-    "static/_data/test.txt",
-    "static/_data",
-    "/static/_data/test.txt",
     "/static/_HOME/Home.canvas",
     "/static/_Excalidraw/Drawing 2025-10-25 16.55.20.excalidraw.md",
     "/static/_Excalidraw/Drawing 2025-10-24 01.46.44.excalidraw.md",
     "/static/_Excalidraw/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "/static/_Excalidraw/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "/static/_Excalidraw/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "/static/_Excalidraw",
     "/content/zh/note/tech/学习生产环境搭建/index.md",
-    "/content/zh/note/tech/个人效率自动化/index.md",
-    "/content/zh/note/tech/个人效率自动化",
     "/content/zh/note/tech/wifi_bridge/index.md",
     "/content/zh/note/tech/c++语法之函数的传递/index.md",
-    "/static/_data",
     "static/_templates/diary.md",
     "static/_diary/时间记录.md",
-    "static/_diary/2025-10-22.md",
-    "/static/_diary/时间记录.md",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251014150142.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012164359.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 2.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648 1.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152648.jpg",
     "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624 2.jpg",
-    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624 1.jpg",
-    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624.jpg",
-    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012151004.jpg"
+    "content/zh/moment/travel/日本之旅第二天/assets/Pasted image 20251012152624 1.jpg"
   ]
 }
