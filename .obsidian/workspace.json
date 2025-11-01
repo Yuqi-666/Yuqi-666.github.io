@@ -73,25 +73,49 @@
             "id": "9b8953feb2c19b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/index.md",
-                "mode": "source",
-                "source": false
+                "file": "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
             }
           },
           {
             "id": "8ba3db7be569adb4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "static/_diary/时间记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "时间记录"
+            }
+          },
+          {
+            "id": "4ac91ad42e4fb44b",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md"
+                "file": "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md"
               },
               "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
+            }
+          },
+          {
+            "id": "e001a62a7ea0fdf2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg"
+              },
+              "icon": "lucide-image",
               "title": "Drawing 2025-10-31 14.46.26.excalidraw"
             }
           },
@@ -111,22 +135,6 @@
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "d95bb950322cf365",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8226fa04f8ace3d",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hugo Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -291,26 +299,32 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "8ba3db7be569adb4",
+  "active": "7a84c4f0a298dfe9",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
-    "static/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "public/_data/2025/11.txt",
+    "static/_data/2025/11.txt",
+    "public/_data/2025/新建 文本文档.txt",
+    "static/_data/2025/新建 文本文档.txt",
+    "public/_data/2025",
+    "static/_data/2025",
+    "public/_data/新建文件夹",
+    "static/_data/新建文件夹",
+    "static/_diary/2025-10-24.md",
+    "static/_diary/2025-10-22.md",
+    "static/_diary/2025-10-21.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "content/zh/note/tech/上下文工程/index.md",
+    "public/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "public/note/tech/个人效率自动化/assets/_Drawing/drawing-2025-10-31-14.46.26.excalidraw/index.html",
+    "public/note/tech/个人效率自动化/assets/_Drawing/drawing-2025-10-31-14.46.26.excalidraw",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-25 16.55.20.excalidraw.md",
+    "public/tags/excalidraw/index.xml",
     "public/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.svg",
     "public/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
-    "content/zh/note/tech/上下文工程/index.md",
     "static/_diary/时间记录.md",
     "content/zh/note/tech/wifi_bridge/index.md",
-    "public/collection/book/index.html",
-    "public/collection/index.html",
-    "public/css/_entry.css",
-    "public/uploads/resume.pdf",
-    "public/uploads",
-    "public/pagefind/index/zh-hans_785329c.pf_index",
-    "public/pagefind/index/zh-hans_23fa524.pf_index",
-    "public/pagefind/index/en-us_867ad86.pf_index",
-    "public/pagefind/index",
-    "public/collection/page/1/index.html",
     "public/_templates/note/tech.md",
     "public/_templates/note/study.md",
     "public/_templates/note/reading.md",
@@ -327,10 +341,6 @@
     "public/_task/task.md",
     "public/_task/OKR.md",
     "public/_HOME/Home.canvas",
-    "public/_diary/时间记录.md",
-    "public/_diary/2025-10-22.md",
-    "public/_diary/2025-10-24.md",
-    "public/_diary/2025-10-21.md",
     "public/slides/example/featured_hu_f2087f1fb057c361.webp",
     "public/slides/example/featured_hu_a1f1bed0e3ad73e3.webp",
     "public/slides/example/featured_hu_9224ee6a0785e9e0.webp",
@@ -338,7 +348,6 @@
     "public/slides/example/featured.webp",
     "public/slides/example/boards.webp",
     "public/author/yuqi-666/avatar_hu_d34d7e1a29fa767.PNG",
-    "public/collection/site/oi-wiki/featured_hu_feefbe82cb7ad602.webp",
     "static/_HOME/Home.canvas"
   ]
 }
