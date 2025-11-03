@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/index.md",
+                "file": "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "目标相关资源生成json图表prompt"
             }
           },
           {
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,23 +318,23 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7a84c4f0a298dfe9",
+  "active": "41ebcce11978c28b",
   "lastOpenFiles": [
+    "static/_task/OKR.md",
+    "static/_OKR/O_resources/学会flutter开发.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
+    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
+    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "static/_data/2025/time/11.jsonl",
     "static/_data/2025/account/11.jsonl",
     "static/_data/2025/account/11.json",
     "static/_data/2025/time/11.json",
-    "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
-    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
-    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
-    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
-    "static/_OKR/O_resources/学会flutter开发.md",
     "static/_OKR/prompts",
-    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
     "static/_task/task.md",
-    "static/_task/OKR.md",
     "static/_diary/2025-11-01.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
     "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.svg",
     "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md",
     "static/_OKR/O_resources",
@@ -346,7 +346,6 @@
     "public/tags/aiagent/page/1/index.html",
     "public/tags/aiagent/page/1",
     "public/tags/aiagent/page",
-    "public/tags/aiagent/index.html",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
     "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214749.png",
