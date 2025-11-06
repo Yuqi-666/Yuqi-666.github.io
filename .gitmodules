@@ -1,0 +1,3 @@
+[submodule ".obsidian/plugins/Obsidian-Node-Graph-Plugin"]
+	path = .obsidian/plugins/Obsidian-Node-Graph-Plugin
+	url = https://github.com/Yuqi-666/Obsidian-Node-Graph-Plugin.git
