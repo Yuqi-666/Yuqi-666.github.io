@@ -37,14 +37,14 @@
             "id": "c8c6be35023910db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/hot-reload",
+                "bFile": ".obsidian/plugins/hot-reload",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "目标相关资源生成json图表prompt"
+              "icon": "diff",
+              "title": "Diff: hot-reload"
             }
           },
           {
@@ -309,8 +309,9 @@
       "node-graph:Node Graph": false
     }
   },
-  "active": "7a84c4f0a298dfe9",
+  "active": "c8c6be35023910db",
   "lastOpenFiles": [
+    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "canvas_json",
     "data_json",
     "tsv",
@@ -320,7 +321,6 @@
     "static/_data/OKR",
     "static/_data/新建文件夹",
     "static/_OKR/O_resources/学会flutter开发.md",
-    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
     "static/_task/未命名.canvas",
     "content/zh/note/study/TypeScript/类型/index.md",
@@ -339,7 +339,6 @@
     "content/zh/note/tech/个人效率自动化/index.md",
     "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
-    "static/_data/2025/time/11.jsonl",
     "static/_task/task.md",
     "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.svg",
     "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md",
