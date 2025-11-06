@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/_diary/2025-11-01.md",
+                "file": "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-01"
+              "title": "目标相关资源生成json图表prompt"
             }
           },
           {
@@ -37,12 +37,14 @@
             "id": "c8c6be35023910db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md"
+                "file": "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "目标相关资源生成json图表prompt"
             }
           },
           {
@@ -106,18 +108,6 @@
             }
           },
           {
-            "id": "4ac91ad42e4fb44b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-02 19.18.21.excalidraw"
-            }
-          },
-          {
             "id": "e001a62a7ea0fdf2",
             "type": "leaf",
             "state": {
@@ -142,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/index.md",
+                "file": "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "目标相关资源生成json图表prompt 的大纲"
             }
           },
           {
@@ -281,13 +271,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7bac1a6b64082a96",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,23 +306,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "41ebcce11978c28b",
+  "active": "cd6e49dfe0b247e8",
   "lastOpenFiles": [
-    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "static/_OKR/O_resources/学会flutter开发.md",
+    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
+    "static/_task/未命名.canvas",
+    "content/zh/note/study/TypeScript/类型/index.md",
+    "content/zh/note/study/TypeScript/_index.md",
+    "content/zh/note/tech/test/index.md",
+    "content/zh/note/study/lecture_A/chapter_1/index.md",
+    "static/_templates/note/study.md",
+    "content/zh/note/study/TypeScript/类型",
+    "content/zh/note/study/lecture_B/_index.md",
+    "content/zh/note/study/_index.md",
+    "content/zh/note/study/lecture_A/_index.md",
+    "static/_diary/2025-11-01.md",
+    "content/zh/note/study/TypeScript",
+    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
     "static/_task/OKR.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
-    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
-    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
     "static/_data/2025/time/11.jsonl",
     "static/_data/2025/account/11.jsonl",
     "static/_data/2025/account/11.json",
     "static/_data/2025/time/11.json",
     "static/_OKR/prompts",
     "static/_task/task.md",
-    "static/_diary/2025-11-01.md",
     "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.svg",
     "content/zh/note/tech/Stable-Diffusion大模型一览/assets/Drawing 2025-10-28 23.54.46.excalidraw.md",
     "static/_OKR/O_resources",
@@ -332,8 +343,6 @@
     "content/zh/note/tech/模型结构化输出的tokens消耗比较/index.md",
     "public/tags/aiagent/index.xml",
     "public/tags/aiagent/page/1/index.html",
-    "public/tags/aiagent/page/1",
-    "public/tags/aiagent/page",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
     "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214749.png",
@@ -345,14 +354,6 @@
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-24 01.43.20.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-24 01.42.20.excalidraw.md",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-03 20.18.48.excalidraw.md",
-    "public/_diary/2025-11-01.md",
-    "static/_diary/2025-10-24.md",
-    "static/_diary/时间记录.md",
-    "static/_diary/2025-10-22.md",
-    "static/_diary/2025-10-21.md",
-    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-25 16.55.20.excalidraw.md",
-    "public/_Excalidraw/Drawing 2025-10-31 14.46.26.excalidraw.md",
-    "content/zh/note/tech/wifi_bridge/index.md",
     "public/_HOME/Home.canvas",
     "static/_HOME/Home.canvas"
   ]
