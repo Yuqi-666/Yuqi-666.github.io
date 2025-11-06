@@ -309,8 +309,9 @@
       "node-graph:Node Graph": false
     }
   },
-  "active": "c8c6be35023910db",
+  "active": "cd6e49dfe0b247e8",
   "lastOpenFiles": [
+    "hot-reload",
     "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "canvas_json",
     "data_json",
