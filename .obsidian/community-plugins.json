@@ -9,5 +9,8 @@
   "obsidian-local-rest-api",
   "obsidian-local-images-plus",
   "obsidian-image-toolkit",
-  "obsidian-git"
+  "obsidian-git",
+  "hidden-folder-obsidian",
+  "webpage-html-export",
+  "node-graph"
 ]
