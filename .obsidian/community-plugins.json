@@ -12,5 +12,6 @@
   "obsidian-git",
   "hidden-folder-obsidian",
   "webpage-html-export",
-  "node-graph"
+  "node-graph",
+  "hot-reload"
 ]
