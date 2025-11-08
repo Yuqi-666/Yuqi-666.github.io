@@ -24,7 +24,7 @@ __export(hot_reload_exports, {
 module.exports = __toCommonJS(hot_reload_exports);
 var import_obsidian = require("obsidian");
 
-// node_modules/.pnpm/monkey-around@3.0.0/node_modules/monkey-around/dist/index.mjs
+// node_modules/monkey-around/dist/index.mjs
 function around(obj, factories) {
   const removers = Object.keys(factories).map((key) => around1(obj, key, factories[key]));
   return removers.length === 1 ? removers[0] : function() {

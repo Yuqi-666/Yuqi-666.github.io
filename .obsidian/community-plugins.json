@@ -2,16 +2,15 @@
   "hugo-preview-obsidian",
   "templater-obsidian",
   "obsidian-admonition",
+  "obsidian-local-images-plus",
   "obsidian-excalidraw-plugin",
   "quickadd",
-  "dataview",
-  "copilot",
-  "obsidian-local-rest-api",
-  "obsidian-local-images-plus",
-  "obsidian-image-toolkit",
   "obsidian-git",
-  "hidden-folder-obsidian",
+  "oz-image-plugin",
   "webpage-html-export",
+  "hot-reload",
   "node-graph",
-  "hot-reload"
+  "hidden-folder-obsidian",
+  "dataview",
+  "advanced-canvas"
 ]

@@ -1,0 +1,981 @@
+{
+  "nodes": [
+    {
+      "id": "o_1",
+      "level": 1,
+      "content": "学会Flutter开发",
+      "estimated_time": "44h30min",
+      "status": 0
+    },
+    {
+      "id": "kr_1_1",
+      "level": 2,
+      "content": "1周内掌握Flutter基础认知与环境搭建，能在模拟器上运行第一个应用",
+      "estimated_time": "5h30min",
+      "status": 0
+    },
+    {
+      "id": "task_1_1",
+      "level": 3,
+      "content": "学习Flutter基础概念",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_1_1",
+      "level": 4,
+      "content": "观看《课程B》002 什么是Flutter",
+      "estimated_time": "0h15min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_1_2",
+      "level": 4,
+      "content": "观看《课程B》004 理解Flutter架构",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_1_3",
+      "level": 4,
+      "content": "观看《课程B》005 Flutter和Dart代码如何编译为原生应用",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_1_4",
+      "level": 4,
+      "content": "观看《课程B》006 理解Flutter版本",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_1_5",
+      "level": 4,
+      "content": "观看《课程B》011 Flutter和Material Design",
+      "estimated_time": "0h10min",
+      "status": 0
+    },
+    {
+      "id": "task_1_2",
+      "level": 3,
+      "content": "搭建开发环境（以macOS为例）",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_2_1",
+      "level": 4,
+      "content": "观看《课程B》007 Flutter macOS设置",
+      "estimated_time": "0h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_2_2",
+      "level": 4,
+      "content": "观看《课程B》008 macOS开发环境",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_2_3",
+      "level": 4,
+      "content": "实际操作安装Flutter SDK、配置环境变量",
+      "estimated_time": "0h50min",
+      "status": 0
+    },
+    {
+      "id": "task_1_3",
+      "level": 3,
+      "content": "在模拟器上运行第一个应用",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_3_1",
+      "level": 4,
+      "content": "观看《课程B》025 在模拟器上运行应用",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_3_2",
+      "level": 4,
+      "content": "观看《课程B》062 使用模拟器",
+      "estimated_time": "0h15min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_3_3",
+      "level": 4,
+      "content": "创建新项目并在模拟器运行",
+      "estimated_time": "0h45min",
+      "status": 0
+    },
+    {
+      "id": "subtask_1_3_4",
+      "level": 4,
+      "content": "分析默认应用结构（《课程B》020 分析默认应用）",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "kr_2_1",
+      "level": 2,
+      "content": "2周内掌握Dart语言基础，能编写包含类、函数、异步操作的简单程序",
+      "estimated_time": "3h30min",
+      "status": 0
+    },
+    {
+      "id": "task_2_1",
+      "level": 3,
+      "content": "学习Dart基础语法",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_1_1",
+      "level": 4,
+      "content": "观看《课程B》021 Dart基础",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_1_2",
+      "level": 4,
+      "content": "观看《课程B》022 更多Dart基础",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_1_3",
+      "level": 4,
+      "content": "练习变量、数据类型、函数定义",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "task_2_2",
+      "level": 3,
+      "content": "学习Dart面向对象与异步",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_2_1",
+      "level": 4,
+      "content": "观看《课程B》026 类构造函数和命名参数",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_2_2",
+      "level": 4,
+      "content": "观看《课程B》194 DART深入学习 继承(extends)与混入(with)",
+      "estimated_time": "0h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_2_3",
+      "level": 4,
+      "content": "观看《课程B》244 DART深入学习 Future和异步代码",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_2_2_4",
+      "level": 4,
+      "content": "编写包含类和异步操作的Dart程序",
+      "estimated_time": "0h45min",
+      "status": 0
+    },
+    {
+      "id": "kr_3_1",
+      "level": 2,
+      "content": "3周内掌握核心组件与布局，能搭建包含列表、表单的基础页面",
+      "estimated_time": "6h30min",
+      "status": 0
+    },
+    {
+      "id": "task_3_1",
+      "level": 3,
+      "content": "学习基础组件与布局原则",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_1_1",
+      "level": 4,
+      "content": "观看《课程A》Flutter深入浅出---MaterialApp",
+      "estimated_time": "0h45min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_1_2",
+      "level": 4,
+      "content": "观看《课程A》Flutter深入浅出---Scaffold",
+      "estimated_time": "0h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_1_3",
+      "level": 4,
+      "content": "观看《课程B》029 可见(输入输出)和不可见(布局控制)组件",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_1_4",
+      "level": 4,
+      "content": "练习使用Container、Row、Column（《课程B》080 容器与列与行对比）",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "task_3_2",
+      "level": 3,
+      "content": "学习列表与表单组件",
+      "estimated_time": "2h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_2_1",
+      "level": 4,
+      "content": "观看《课程B》089 使列表可滚动、090 使用ListViews",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_2_2",
+      "level": 4,
+      "content": "观看《课程B》084 添加文本输入组件(TextField)、085 获取用户输入",
+      "estimated_time": "0h35min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_2_3",
+      "level": 4,
+      "content": "练习创建可滚动列表并添加表单输入",
+      "estimated_time": "0h55min",
+      "status": 0
+    },
+    {
+      "id": "task_3_3",
+      "level": 3,
+      "content": "学习布局辅助组件",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_3_1",
+      "level": 4,
+      "content": "观看《课程A》Flutter深入浅出---Padding、Align",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_3_2",
+      "level": 4,
+      "content": "观看《课程A》Flutter深入浅出---ConstrainedBox、BoxConstraints",
+      "estimated_time": "0h10min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_3_3",
+      "level": 4,
+      "content": "观看《课程B》106 深入理解Flexible和Expanded",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_3_3_4",
+      "level": 4,
+      "content": "使用布局组件优化页面结构",
+      "estimated_time": "0h45min",
+      "status": 0
+    },
+    {
+      "id": "kr_4_1",
+      "level": 2,
+      "content": "4周内掌握导航与状态管理，能实现页面跳转和数据共享",
+      "estimated_time": "5h00min",
+      "status": 0
+    },
+    {
+      "id": "task_4_1",
+      "level": 3,
+      "content": "学习导航与路由",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_1_1",
+      "level": 4,
+      "content": "观看《课程B》162 导航到新页面、163 通过构造函数传递数据",
+      "estimated_time": "0h35min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_1_2",
+      "level": 4,
+      "content": "观看《课程B》164 使用命名路由并传递数据",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_1_3",
+      "level": 4,
+      "content": "练习实现多页面跳转与数据传递",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_1_4",
+      "level": 4,
+      "content": "观看《课程B》175 添加自定义抽屉导航",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "task_4_2",
+      "level": 3,
+      "content": "学习状态管理基础",
+      "estimated_time": "3h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_2_1",
+      "level": 4,
+      "content": "观看《课程B》087 连接组件和管理数据状态",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_2_2",
+      "level": 4,
+      "content": "观看《课程B》192 理解Provider包和方法、193 使用Provider和Listener",
+      "estimated_time": "0h50min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_2_3",
+      "level": 4,
+      "content": "观看《课程B》199 使用Consumer替代Provider.of",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_4_2_4",
+      "level": 4,
+      "content": "使用Provider实现跨组件数据共享",
+      "estimated_time": "1h20min",
+      "status": 0
+    },
+    {
+      "id": "kr_5_1",
+      "level": 2,
+      "content": "5周内掌握网络请求与数据处理，能从网络获取并展示数据",
+      "estimated_time": "4h30min",
+      "status": 0
+    },
+    {
+      "id": "task_5_1",
+      "level": 3,
+      "content": "学习HTTP请求与Future",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_5_1_1",
+      "level": 4,
+      "content": "观看《课程B》240 如何发送Http请求、242 发送POST请求",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_5_1_2",
+      "level": 4,
+      "content": "观看《课程B》243 在Dart中使用Future、245 显示加载指示器",
+      "estimated_time": "0h35min",
+      "status": 0
+    },
+    {
+      "id": "subtask_5_1_3",
+      "level": 4,
+      "content": "练习发送GET请求并处理返回数据",
+      "estimated_time": "0h45min",
+      "status": 0
+    },
+    {
+      "id": "task_5_2",
+      "level": 3,
+      "content": "学习数据处理与错误处理",
+      "estimated_time": "2h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_5_2_1",
+      "level": 4,
+      "content": "观看《课程B》246 优雅地处理错误、253 创建自定义异常和更多错误处理",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_5_2_2",
+      "level": 4,
+      "content": "观看《课程B》250 实现下拉刷新",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_5_2_3",
+      "level": 4,
+      "content": "练习实现带错误处理的下拉刷新列表",
+      "estimated_time": "1h25min",
+      "status": 0
+    },
+    {
+      "id": "kr_6_1",
+      "level": 2,
+      "content": "6周内掌握动画与设备功能调用，能实现基础动画和调用摄像头",
+      "estimated_time": "4h00min",
+      "status": 0
+    },
+    {
+      "id": "task_6_1",
+      "level": 3,
+      "content": "学习基础动画",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_6_1_1",
+      "level": 4,
+      "content": "观看《课程B》282 使用AnimatedBuilder组件、283 使用AnimatedContainer",
+      "estimated_time": "0h35min",
+      "status": 0
+    },
+    {
+      "id": "subtask_6_1_2",
+      "level": 4,
+      "content": "观看《课程B》286 添加Hero过渡动画",
+      "estimated_time": "0h20min",
+      "status": 0
+    },
+    {
+      "id": "subtask_6_1_3",
+      "level": 4,
+      "content": "练习实现页面切换动画",
+      "estimated_time": "0h35min",
+      "status": 0
+    },
+    {
+      "id": "task_6_2",
+      "level": 3,
+      "content": "学习设备功能调用",
+      "estimated_time": "2h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_6_2_1",
+      "level": 4,
+      "content": "观看《课程B》297 使用图像选择器和设备摄像头",
+      "estimated_time": "0h35min",
+      "status": 0
+    },
+    {
+      "id": "subtask_6_2_2",
+      "level": 4,
+      "content": "观看《课程B》298 在文件系统上存储图像(设备上)",
+      "estimated_time": "0h25min",
+      "status": 0
+    },
+    {
+      "id": "subtask_6_2_3",
+      "level": 4,
+      "content": "练习调用摄像头拍摄并保存图片",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "kr_7_1",
+      "level": 2,
+      "content": "7周内完成一个包含导航、状态管理、网络请求的完整小应用并发布测试版",
+      "estimated_time": "16h00min",
+      "status": 0
+    },
+    {
+      "id": "task_7_1",
+      "level": 3,
+      "content": "需求分析与架构设计",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_1_1",
+      "level": 4,
+      "content": "确定应用功能模块（如首页、详情页、个人中心）",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_1_2",
+      "level": 4,
+      "content": "设计页面跳转关系与数据流向",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_1_3",
+      "level": 4,
+      "content": "规划状态管理方案与网络接口调用",
+      "estimated_time": "0h40min",
+      "status": 0
+    },
+    {
+      "id": "task_7_2",
+      "level": 3,
+      "content": "开发核心功能模块",
+      "estimated_time": "6h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_2_1",
+      "level": 4,
+      "content": "开发首页列表与网络数据获取",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_2_2",
+      "level": 4,
+      "content": "开发详情页与导航跳转",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_2_3",
+      "level": 4,
+      "content": "开发表单页面与数据提交",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_2_4",
+      "level": 4,
+      "content": "集成状态管理实现数据共享",
+      "estimated_time": "1h30min",
+      "status": 0
+    },
+    {
+      "id": "task_7_3",
+      "level": 3,
+      "content": "添加动画与设备交互",
+      "estimated_time": "3h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_3_1",
+      "level": 4,
+      "content": "为页面切换添加过渡动画",
+      "estimated_time": "1h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_3_2",
+      "level": 4,
+      "content": "实现图片选择与展示功能",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "task_7_4",
+      "level": 3,
+      "content": "测试与发布准备",
+      "estimated_time": "5h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_4_1",
+      "level": 4,
+      "content": "在真实设备上测试（《课程B》059、061）",
+      "estimated_time": "1h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_4_2",
+      "level": 4,
+      "content": "修复测试中发现的bug",
+      "estimated_time": "2h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_4_3",
+      "level": 4,
+      "content": "准备应用图标与启动页（《课程B》368）",
+      "estimated_time": "1h00min",
+      "status": 0
+    },
+    {
+      "id": "subtask_7_4_4",
+      "level": 4,
+      "content": "生成测试版APK/IPA",
+      "estimated_time": "1h00min",
+      "status": 0
+    }
+  ],
+  "edges": [
+    {
+      "from": "subtask_1_1_1",
+      "to": "subtask_1_1_2"
+    },
+    {
+      "from": "subtask_1_1_2",
+      "to": "subtask_1_1_3"
+    },
+    {
+      "from": "subtask_1_1_3",
+      "to": "subtask_1_1_4"
+    },
+    {
+      "from": "subtask_1_1_4",
+      "to": "subtask_1_1_5"
+    },
+    {
+      "from": "subtask_1_1_5",
+      "to": "task_1_1"
+    },
+    {
+      "from": "subtask_1_2_1",
+      "to": "subtask_1_2_2"
+    },
+    {
+      "from": "subtask_1_2_2",
+      "to": "subtask_1_2_3"
+    },
+    {
+      "from": "subtask_1_2_3",
+      "to": "task_1_2"
+    },
+    {
+      "from": "subtask_1_3_1",
+      "to": "subtask_1_3_2"
+    },
+    {
+      "from": "subtask_1_3_2",
+      "to": "subtask_1_3_3"
+    },
+    {
+      "from": "subtask_1_3_3",
+      "to": "subtask_1_3_4"
+    },
+    {
+      "from": "subtask_1_3_4",
+      "to": "task_1_3"
+    },
+    {
+      "from": "task_1_1",
+      "to": "task_1_2"
+    },
+    {
+      "from": "task_1_2",
+      "to": "task_1_3"
+    },
+    {
+      "from": "task_1_3",
+      "to": "kr_1_1"
+    },
+    {
+      "from": "subtask_2_1_1",
+      "to": "subtask_2_1_2"
+    },
+    {
+      "from": "subtask_2_1_2",
+      "to": "subtask_2_1_3"
+    },
+    {
+      "from": "subtask_2_1_3",
+      "to": "task_2_1"
+    },
+    {
+      "from": "subtask_2_2_1",
+      "to": "subtask_2_2_2"
+    },
+    {
+      "from": "subtask_2_2_2",
+      "to": "subtask_2_2_3"
+    },
+    {
+      "from": "subtask_2_2_3",
+      "to": "subtask_2_2_4"
+    },
+    {
+      "from": "subtask_2_2_4",
+      "to": "task_2_2"
+    },
+    {
+      "from": "task_2_1",
+      "to": "task_2_2"
+    },
+    {
+      "from": "task_2_2",
+      "to": "kr_2_1"
+    },
+    {
+      "from": "kr_1_1",
+      "to": "kr_2_1"
+    },
+    {
+      "from": "subtask_3_1_1",
+      "to": "subtask_3_1_2"
+    },
+    {
+      "from": "subtask_3_1_2",
+      "to": "subtask_3_1_3"
+    },
+    {
+      "from": "subtask_3_1_3",
+      "to": "subtask_3_1_4"
+    },
+    {
+      "from": "subtask_3_1_4",
+      "to": "task_3_1"
+    },
+    {
+      "from": "subtask_3_2_1",
+      "to": "subtask_3_2_2"
+    },
+    {
+      "from": "subtask_3_2_2",
+      "to": "subtask_3_2_3"
+    },
+    {
+      "from": "subtask_3_2_3",
+      "to": "task_3_2"
+    },
+    {
+      "from": "subtask_3_3_1",
+      "to": "subtask_3_3_2"
+    },
+    {
+      "from": "subtask_3_3_2",
+      "to": "subtask_3_3_3"
+    },
+    {
+      "from": "subtask_3_3_3",
+      "to": "subtask_3_3_4"
+    },
+    {
+      "from": "subtask_3_3_4",
+      "to": "task_3_3"
+    },
+    {
+      "from": "task_3_1",
+      "to": "task_3_2"
+    },
+    {
+      "from": "task_3_2",
+      "to": "task_3_3"
+    },
+    {
+      "from": "task_3_3",
+      "to": "kr_3_1"
+    },
+    {
+      "from": "kr_2_1",
+      "to": "kr_3_1"
+    },
+    {
+      "from": "subtask_4_1_1",
+      "to": "subtask_4_1_2"
+    },
+    {
+      "from": "subtask_4_1_2",
+      "to": "subtask_4_1_3"
+    },
+    {
+      "from": "subtask_4_1_3",
+      "to": "subtask_4_1_4"
+    },
+    {
+      "from": "subtask_4_1_4",
+      "to": "task_4_1"
+    },
+    {
+      "from": "subtask_4_2_1",
+      "to": "subtask_4_2_2"
+    },
+    {
+      "from": "subtask_4_2_2",
+      "to": "subtask_4_2_3"
+    },
+    {
+      "from": "subtask_4_2_3",
+      "to": "subtask_4_2_4"
+    },
+    {
+      "from": "subtask_4_2_4",
+      "to": "task_4_2"
+    },
+    {
+      "from": "task_4_1",
+      "to": "task_4_2"
+    },
+    {
+      "from": "task_4_2",
+      "to": "kr_4_1"
+    },
+    {
+      "from": "kr_3_1",
+      "to": "kr_4_1"
+    },
+    {
+      "from": "subtask_5_1_1",
+      "to": "subtask_5_1_2"
+    },
+    {
+      "from": "subtask_5_1_2",
+      "to": "subtask_5_1_3"
+    },
+    {
+      "from": "subtask_5_1_3",
+      "to": "task_5_1"
+    },
+    {
+      "from": "subtask_5_2_1",
+      "to": "subtask_5_2_2"
+    },
+    {
+      "from": "subtask_5_2_2",
+      "to": "subtask_5_2_3"
+    },
+    {
+      "from": "subtask_5_2_3",
+      "to": "task_5_2"
+    },
+    {
+      "from": "task_5_1",
+      "to": "task_5_2"
+    },
+    {
+      "from": "task_5_2",
+      "to": "kr_5_1"
+    },
+    {
+      "from": "kr_4_1",
+      "to": "kr_5_1"
+    },
+    {
+      "from": "subtask_6_1_1",
+      "to": "subtask_6_1_2"
+    },
+    {
+      "from": "subtask_6_1_2",
+      "to": "subtask_6_1_3"
+    },
+    {
+      "from": "subtask_6_1_3",
+      "to": "task_6_1"
+    },
+    {
+      "from": "subtask_6_2_1",
+      "to": "subtask_6_2_2"
+    },
+    {
+      "from": "subtask_6_2_2",
+      "to": "subtask_6_2_3"
+    },
+    {
+      "from": "subtask_6_2_3",
+      "to": "task_6_2"
+    },
+    {
+      "from": "task_6_1",
+      "to": "task_6_2"
+    },
+    {
+      "from": "task_6_2",
+      "to": "kr_6_1"
+    },
+    {
+      "from": "kr_5_1",
+      "to": "kr_6_1"
+    },
+    {
+      "from": "subtask_7_1_1",
+      "to": "subtask_7_1_2"
+    },
+    {
+      "from": "subtask_7_1_2",
+      "to": "subtask_7_1_3"
+    },
+    {
+      "from": "subtask_7_1_3",
+      "to": "task_7_1"
+    },
+    {
+      "from": "subtask_7_2_1",
+      "to": "subtask_7_2_2"
+    },
+    {
+      "from": "subtask_7_2_2",
+      "to": "subtask_7_2_3"
+    },
+    {
+      "from": "subtask_7_2_3",
+      "to": "subtask_7_2_4"
+    },
+    {
+      "from": "subtask_7_2_4",
+      "to": "task_7_2"
+    },
+    {
+      "from": "subtask_7_3_1",
+      "to": "subtask_7_3_2"
+    },
+    {
+      "from": "subtask_7_3_2",
+      "to": "task_7_3"
+    },
+    {
+      "from": "subtask_7_4_1",
+      "to": "subtask_7_4_2"
+    },
+    {
+      "from": "subtask_7_4_2",
+      "to": "subtask_7_4_3"
+    },
+    {
+      "from": "subtask_7_4_3",
+      "to": "subtask_7_4_4"
+    },
+    {
+      "from": "subtask_7_4_4",
+      "to": "task_7_4"
+    },
+    {
+      "from": "task_7_1",
+      "to": "task_7_2"
+    },
+    {
+      "from": "task_7_2",
+      "to": "task_7_3"
+    },
+    {
+      "from": "task_7_3",
+      "to": "task_7_4"
+    },
+    {
+      "from": "task_7_4",
+      "to": "kr_7_1"
+    },
+    {
+      "from": "kr_6_1",
+      "to": "kr_7_1"
+    },
+    {
+      "from": "kr_7_1",
+      "to": "o_1"
+    }
+  ]
+}
