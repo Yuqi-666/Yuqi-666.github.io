@@ -1,6 +1,37 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{
+			"id":"3e04fb6b2c754a5f",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":140,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f3c58113ea2830a4",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":140,
+			"y":-460,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"460f89d226b495ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f3c58113ea2830a4",
+			"fromSide":"bottom",
+			"toNode":"3e04fb6b2c754a5f",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

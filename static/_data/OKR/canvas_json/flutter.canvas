@@ -3,969 +3,38 @@
     {
       "id": "o_1",
       "type": "text",
-      "text": "学会Flutter开发",
+      "text": "# 学会Flutter开发",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "kr_1_1",
-      "type": "text",
-      "text": "1周内掌握Flutter基础认知与环境搭建，能在模拟器上运行第一个应用",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 280,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_1_1",
-      "type": "text",
-      "text": "学习Flutter基础概念",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_1_1",
-      "type": "text",
-      "text": "观看《课程B》002 什么是Flutter",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 168,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_1_2",
-      "type": "text",
-      "text": "观看《课程B》004 理解Flutter架构",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 176,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_1_3",
-      "type": "text",
-      "text": "观看《课程B》005 Flutter和Dart代码如何编译为原生应用",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 272,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_1_4",
-      "type": "text",
-      "text": "观看《课程B》006 理解Flutter版本",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 176,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_1_5",
-      "type": "text",
-      "text": "观看《课程B》011 Flutter和Material Design",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 272,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_1_2",
-      "type": "text",
-      "text": "搭建开发环境（以macOS为例）",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 128,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_2_1",
-      "type": "text",
-      "text": "观看《课程B》007 Flutter macOS设置",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 208,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_2_2",
-      "type": "text",
-      "text": "观看《课程B》008 macOS开发环境",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 160,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_2_3",
-      "type": "text",
-      "text": "实际操作安装Flutter SDK、配置环境变量",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 192,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_1_3",
-      "type": "text",
-      "text": "在模拟器上运行第一个应用",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_3_1",
-      "type": "text",
-      "text": "观看《课程B》025 在模拟器上运行应用",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 160,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_3_2",
-      "type": "text",
-      "text": "观看《课程B》062 使用模拟器",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 128,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_3_3",
-      "type": "text",
-      "text": "创建新项目并在模拟器运行",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_1_3_4",
-      "type": "text",
-      "text": "分析默认应用结构（《课程B》020 分析默认应用）",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 200,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "kr_2_1",
-      "type": "text",
-      "text": "2周内掌握Dart语言基础，能编写包含类、函数、异步操作的简单程序",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
+      "x": 0,
+      "y": 0,
       "width": 264,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_2_1",
-      "type": "text",
-      "text": "学习Dart基础语法",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_1_1",
-      "type": "text",
-      "text": "观看《课程B》021 Dart基础",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 136,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_1_2",
-      "type": "text",
-      "text": "观看《课程B》022 更多Dart基础",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 152,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_1_3",
-      "type": "text",
-      "text": "练习变量、数据类型、函数定义",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_2_2",
-      "type": "text",
-      "text": "学习Dart面向对象与异步",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_2_1",
-      "type": "text",
-      "text": "观看《课程B》026 类构造函数和命名参数",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 168,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_2_2",
-      "type": "text",
-      "text": "观看《课程B》194 DART深入学习 继承(extends)与混入(with)",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 320,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_2_3",
-      "type": "text",
-      "text": "观看《课程B》244 DART深入学习 Future和异步代码",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 248,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_2_2_4",
-      "type": "text",
-      "text": "编写包含类和异步操作的Dart程序",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 136,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "kr_3_1",
-      "type": "text",
-      "text": "3周内掌握核心组件与布局，能搭建包含列表、表单的基础页面",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 224,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_3_1",
-      "type": "text",
-      "text": "学习基础组件与布局原则",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_1_1",
-      "type": "text",
-      "text": "观看《课程A》Flutter深入浅出---MaterialApp",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 256,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_1_2",
-      "type": "text",
-      "text": "观看《课程A》Flutter深入浅出---Scaffold",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 232,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_1_3",
-      "type": "text",
-      "text": "观看《课程B》029 可见(输入输出)和不可见(布局控制)组件",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 248,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_1_4",
-      "type": "text",
-      "text": "练习使用Container、Row、Column（《课程B》080 容器与列与行对比）",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 344,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_3_2",
-      "type": "text",
-      "text": "学习列表与表单组件",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_2_1",
-      "type": "text",
-      "text": "观看《课程B》089 使列表可滚动、090 使用ListViews",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 264,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_2_2",
-      "type": "text",
-      "text": "观看《课程B》084 添加文本输入组件(TextField)、085 获取用户输入",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 328,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_2_3",
-      "type": "text",
-      "text": "练习创建可滚动列表并添加表单输入",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 128,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_3_3",
-      "type": "text",
-      "text": "学习布局辅助组件",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_3_1",
-      "type": "text",
-      "text": "观看《课程A》Flutter深入浅出---Padding、Align",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 272,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_3_2",
-      "type": "text",
-      "text": "观看《课程A》Flutter深入浅出---ConstrainedBox、BoxConstraints",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 400,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_3_3",
-      "type": "text",
-      "text": "观看《课程B》106 深入理解Flexible和Expanded",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 256,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_3_3_4",
-      "type": "text",
-      "text": "使用布局组件优化页面结构",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "kr_4_1",
-      "type": "text",
-      "text": "4周内掌握导航与状态管理，能实现页面跳转和数据共享",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 200,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_4_1",
-      "type": "text",
-      "text": "学习导航与路由",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_1_1",
-      "type": "text",
-      "text": "观看《课程B》162 导航到新页面、163 通过构造函数传递数据",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 256,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_1_2",
-      "type": "text",
-      "text": "观看《课程B》164 使用命名路由并传递数据",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 176,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_1_3",
-      "type": "text",
-      "text": "练习实现多页面跳转与数据传递",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_1_4",
-      "type": "text",
-      "text": "观看《课程B》175 添加自定义抽屉导航",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 160,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_4_2",
-      "type": "text",
-      "text": "学习状态管理基础",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_2_1",
-      "type": "text",
-      "text": "观看《课程B》087 连接组件和管理数据状态",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 176,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_2_2",
-      "type": "text",
-      "text": "观看《课程B》192 理解Provider包和方法、193 使用Provider和Listener",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 392,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_2_3",
-      "type": "text",
-      "text": "观看《课程B》199 使用Consumer替代Provider.of",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 272,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_4_2_4",
-      "type": "text",
-      "text": "使用Provider实现跨组件数据共享",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 152,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "kr_5_1",
-      "type": "text",
-      "text": "5周内掌握网络请求与数据处理，能从网络获取并展示数据",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 208,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_5_1",
-      "type": "text",
-      "text": "学习HTTP请求与Future",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_5_1_1",
-      "type": "text",
-      "text": "观看《课程B》240 如何发送Http请求、242 发送POST请求",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 272,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_5_1_2",
-      "type": "text",
-      "text": "观看《课程B》243 在Dart中使用Future、245 显示加载指示器",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 296,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_5_1_3",
-      "type": "text",
-      "text": "练习发送GET请求并处理返回数据",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 128,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_5_2",
-      "type": "text",
-      "text": "学习数据处理与错误处理",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_5_2_1",
-      "type": "text",
-      "text": "观看《课程B》246 优雅地处理错误、253 创建自定义异常和更多错误处理",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 296,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_5_2_2",
-      "type": "text",
-      "text": "观看《课程B》250 实现下拉刷新",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 136,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_5_2_3",
-      "type": "text",
-      "text": "练习实现带错误处理的下拉刷新列表",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 128,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "kr_6_1",
-      "type": "text",
-      "text": "6周内掌握动画与设备功能调用，能实现基础动画和调用摄像头",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 224,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_6_1",
-      "type": "text",
-      "text": "学习基础动画",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_6_1_1",
-      "type": "text",
-      "text": "观看《课程B》282 使用AnimatedBuilder组件、283 使用AnimatedContainer",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 400,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_6_1_2",
-      "type": "text",
-      "text": "观看《课程B》286 添加Hero过渡动画",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 168,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_6_1_3",
-      "type": "text",
-      "text": "练习实现页面切换动画",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_6_2",
-      "type": "text",
-      "text": "学习设备功能调用",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_6_2_1",
-      "type": "text",
-      "text": "观看《课程B》297 使用图像选择器和设备摄像头",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 192,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_6_2_2",
-      "type": "text",
-      "text": "观看《课程B》298 在文件系统上存储图像(设备上)",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 208,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_6_2_3",
-      "type": "text",
-      "text": "练习调用摄像头拍摄并保存图片",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
       "height": 60,
       "color": "0"
     },
     {
       "id": "kr_7_1",
       "type": "text",
-      "text": "7周内完成一个包含导航、状态管理、网络请求的完整小应用并发布测试版",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 264,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_7_1",
-      "type": "text",
-      "text": "需求分析与架构设计",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_1_1",
-      "type": "text",
-      "text": "确定应用功能模块（如首页、详情页、个人中心）",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 176,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_1_2",
-      "type": "text",
-      "text": "设计页面跳转关系与数据流向",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_1_3",
-      "type": "text",
-      "text": "规划状态管理方案与网络接口调用",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_7_2",
-      "type": "text",
-      "text": "开发核心功能模块",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_2_1",
-      "type": "text",
-      "text": "开发首页列表与网络数据获取",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_2_2",
-      "type": "text",
-      "text": "开发详情页与导航跳转",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_2_3",
-      "type": "text",
-      "text": "开发表单页面与数据提交",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_2_4",
-      "type": "text",
-      "text": "集成状态管理实现数据共享",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "task_7_3",
-      "type": "text",
-      "text": "添加动画与设备交互",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_3_1",
-      "type": "text",
-      "text": "为页面切换添加过渡动画",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_3_2",
-      "type": "text",
-      "text": "实现图片选择与展示功能",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
+      "text": "## 7周内完成一个包含导航、状态管理、网络请求的完整小应用并发布测试版",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1063,
+      "y": 0,
+      "width": 782,
       "height": 60,
       "color": "0"
     },
     {
       "id": "task_7_4",
       "type": "text",
-      "text": "测试与发布准备",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_4_1",
-      "type": "text",
-      "text": "在真实设备上测试（《课程B》059、061）",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 176,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_4_2",
-      "type": "text",
-      "text": "修复测试中发现的bug",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
-      "height": 60,
-      "color": "0"
-    },
-    {
-      "id": "subtask_7_4_3",
-      "type": "text",
-      "text": "准备应用图标与启动页（《课程B》368）",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
+      "text": "### 测试与发布准备",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -752,
+      "y": 120,
       "width": 160,
       "height": 60,
       "color": "0"
@@ -975,253 +44,2135 @@
       "type": "text",
       "text": "生成测试版APK/IPA",
       "styleAttributes": {},
-      "x": -1500,
-      "y": 220,
-      "width": 120,
+      "x": -1144,
+      "y": 300,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_3",
+      "type": "text",
+      "text": "准备应用图标与启动页（《课程B》368）",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 240,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_2",
+      "type": "text",
+      "text": "修复测试中发现的bug",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 180,
+      "width": 200,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_1",
+      "type": "text",
+      "text": "在真实设备上测试（《课程B》059、061）",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 120,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_3",
+      "type": "text",
+      "text": "### 添加动画与设备交互",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -768,
+      "y": 280,
+      "width": 192,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_3_2",
+      "type": "text",
+      "text": "实现图片选择与展示功能",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 340,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_3_1",
+      "type": "text",
+      "text": "为页面切换添加过渡动画",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 280,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_2",
+      "type": "text",
+      "text": "### 开发核心功能模块",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 460,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_4",
+      "type": "text",
+      "text": "集成状态管理实现数据共享",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 640,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_3",
+      "type": "text",
+      "text": "开发表单页面与数据提交",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 580,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_2",
+      "type": "text",
+      "text": "开发详情页与导航跳转",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 520,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_1",
+      "type": "text",
+      "text": "开发首页列表与网络数据获取",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 460,
+      "width": 256,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_1",
+      "type": "text",
+      "text": "### 需求分析与架构设计",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -768,
+      "y": 620,
+      "width": 192,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_1_3",
+      "type": "text",
+      "text": "规划状态管理方案与网络接口调用",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 740,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_1_2",
+      "type": "text",
+      "text": "设计页面跳转关系与数据流向",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 680,
+      "width": 256,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_1_1",
+      "type": "text",
+      "text": "确定应用功能模块（如首页、详情页、个人中心）",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 620,
+      "width": 336,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_6_1",
+      "type": "text",
+      "text": "## 6周内掌握动画与设备功能调用，能实现基础动画和调用摄像头",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2383,
+      "y": 0,
+      "width": 686,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_6_2",
+      "type": "text",
+      "text": "### 学习设备功能调用",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2128,
+      "y": 120,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_2_3",
+      "type": "text",
+      "text": "练习调用摄像头拍摄并保存图片",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": 240,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_2_2",
+      "type": "text",
+      "text": "观看《课程B》298 在文件系统上存储图像(设备上)",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": 180,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_2_1",
+      "type": "text",
+      "text": "观看《课程B》297 使用图像选择器和设备摄像头",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": 120,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_6_1",
+      "type": "text",
+      "text": "### 学习基础动画",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2112,
+      "y": 280,
+      "width": 144,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_1_3",
+      "type": "text",
+      "text": "练习实现页面切换动画",
+      "styleAttributes": {},
+      "x": -1848,
+      "y": 400,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_1_2",
+      "type": "text",
+      "text": "观看《课程B》286 添加Hero过渡动画",
+      "styleAttributes": {},
+      "x": -1848,
+      "y": 340,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_1_1",
+      "type": "text",
+      "text": "观看《课程B》282 使用AnimatedBuilder组件、283 使用AnimatedContainer",
+      "styleAttributes": {},
+      "x": -1848,
+      "y": 280,
+      "width": 520,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_5_1",
+      "type": "text",
+      "text": "## 5周内掌握网络请求与数据处理，能从网络获取并展示数据",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3711,
+      "y": 0,
+      "width": 638,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_5_2",
+      "type": "text",
+      "text": "### 学习数据处理与错误处理",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3504,
+      "y": 120,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_2_3",
+      "type": "text",
+      "text": "练习实现带错误处理的下拉刷新列表",
+      "styleAttributes": {},
+      "x": -4128,
+      "y": 240,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_2_2",
+      "type": "text",
+      "text": "观看《课程B》250 实现下拉刷新",
+      "styleAttributes": {},
+      "x": -4128,
+      "y": 180,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_2_1",
+      "type": "text",
+      "text": "观看《课程B》246 优雅地处理错误、253 创建自定义异常和更多错误处理",
+      "styleAttributes": {},
+      "x": -4128,
+      "y": 120,
+      "width": 504,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_5_1",
+      "type": "text",
+      "text": "### 学习HTTP请求与Future",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3496,
+      "y": 280,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_1_3",
+      "type": "text",
+      "text": "练习发送GET请求并处理返回数据",
+      "styleAttributes": {},
+      "x": -3168,
+      "y": 400,
+      "width": 280,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_1_2",
+      "type": "text",
+      "text": "观看《课程B》243 在Dart中使用Future、245 显示加载指示器",
+      "styleAttributes": {},
+      "x": -3168,
+      "y": 340,
+      "width": 424,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_1_1",
+      "type": "text",
+      "text": "观看《课程B》240 如何发送Http请求、242 发送POST请求",
+      "styleAttributes": {},
+      "x": -3168,
+      "y": 280,
+      "width": 392,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_4_1",
+      "type": "text",
+      "text": "## 4周内掌握导航与状态管理，能实现页面跳转和数据共享",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5191,
+      "y": 0,
+      "width": 614,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_4_2",
+      "type": "text",
+      "text": "### 学习状态管理基础",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -4972,
+      "y": 120,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_4",
+      "type": "text",
+      "text": "使用Provider实现跨组件数据共享",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 300,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_3",
+      "type": "text",
+      "text": "观看《课程B》199 使用Consumer替代Provider.of",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 240,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_2",
+      "type": "text",
+      "text": "观看《课程B》192 理解Provider包和方法、193 使用Provider和Listener",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 180,
+      "width": 504,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_1",
+      "type": "text",
+      "text": "观看《课程B》087 连接组件和管理数据状态",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 120,
+      "width": 320,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_4_1",
+      "type": "text",
+      "text": "### 学习导航与路由",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -4964,
+      "y": 280,
+      "width": 160,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_4",
+      "type": "text",
+      "text": "观看《课程B》175 添加自定义抽屉导航",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 460,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_3",
+      "type": "text",
+      "text": "练习实现多页面跳转与数据传递",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 400,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_2",
+      "type": "text",
+      "text": "观看《课程B》164 使用命名路由并传递数据",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 340,
+      "width": 320,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_1",
+      "type": "text",
+      "text": "观看《课程B》162 导航到新页面、163 通过构造函数传递数据",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 280,
+      "width": 424,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_3_1",
+      "type": "text",
+      "text": "## 3周内掌握核心组件与布局，能搭建包含列表、表单的基础页面",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6719,
+      "y": 0,
+      "width": 662,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_3_3",
+      "type": "text",
+      "text": "### 学习布局辅助组件",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6476,
+      "y": 120,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_4",
+      "type": "text",
+      "text": "使用布局组件优化页面结构",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 300,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_3",
+      "type": "text",
+      "text": "观看《课程B》106 深入理解Flexible和Expanded",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 240,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_2",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---ConstrainedBox、BoxConstraints",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 180,
+      "width": 464,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_1",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---Padding、Align",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 120,
+      "width": 336,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_3_2",
+      "type": "text",
+      "text": "### 学习列表与表单组件",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6484,
+      "y": 280,
+      "width": 192,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_2_3",
+      "type": "text",
+      "text": "练习创建可滚动列表并添加表单输入",
+      "styleAttributes": {},
+      "x": -6172,
+      "y": 400,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_2_2",
+      "type": "text",
+      "text": "观看《课程B》084 添加文本输入组件(TextField)、085 获取用户输入",
+      "styleAttributes": {},
+      "x": -6172,
+      "y": 340,
+      "width": 464,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_2_1",
+      "type": "text",
+      "text": "观看《课程B》089 使列表可滚动、090 使用ListViews",
+      "styleAttributes": {},
+      "x": -6172,
+      "y": 280,
+      "width": 368,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_3_1",
+      "type": "text",
+      "text": "### 学习基础组件与布局原则",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6500,
+      "y": 460,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_4",
+      "type": "text",
+      "text": "练习使用Container、Row、Column（《课程B》080 容器与列与行对比）",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 640,
+      "width": 448,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_3",
+      "type": "text",
+      "text": "观看《课程B》029 可见(输入输出)和不可见(布局控制)组件",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 580,
+      "width": 400,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_2",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---Scaffold",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 520,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_1",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---MaterialApp",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 460,
+      "width": 328,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_2_1",
+      "type": "text",
+      "text": "## 2周内掌握Dart语言基础，能编写包含类、函数、异步操作的简单程序",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7967,
+      "y": 0,
+      "width": 718,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_2_2",
+      "type": "text",
+      "text": "### 学习Dart面向对象与异步",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7720,
+      "y": 120,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_4",
+      "type": "text",
+      "text": "编写包含类和异步操作的Dart程序",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 300,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_3",
+      "type": "text",
+      "text": "观看《课程B》244 DART深入学习 Future和异步代码",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 240,
+      "width": 368,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_2",
+      "type": "text",
+      "text": "观看《课程B》194 DART深入学习 继承(extends)与混入(with)",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 180,
+      "width": 408,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_1",
+      "type": "text",
+      "text": "观看《课程B》026 类构造函数和命名参数",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 120,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_2_1",
+      "type": "text",
+      "text": "### 学习Dart基础语法",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7696,
+      "y": 280,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_1_3",
+      "type": "text",
+      "text": "练习变量、数据类型、函数定义",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 400,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_1_2",
+      "type": "text",
+      "text": "观看《课程B》022 更多Dart基础",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 340,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_1_1",
+      "type": "text",
+      "text": "观看《课程B》021 Dart基础",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 280,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_1_1",
+      "type": "text",
+      "text": "## 1周内掌握Flutter基础认知与环境搭建，能在模拟器上运行第一个应用",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -9283,
+      "y": 0,
+      "width": 784,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_1_3",
+      "type": "text",
+      "text": "### 在模拟器上运行第一个应用",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -9011,
+      "y": 120,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_4",
+      "type": "text",
+      "text": "分析默认应用结构（《课程B》020 分析默认应用）",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 300,
+      "width": 336,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_3",
+      "type": "text",
+      "text": "创建新项目并在模拟器运行",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 240,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_2",
+      "type": "text",
+      "text": "观看《课程B》062 使用模拟器",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 180,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_1",
+      "type": "text",
+      "text": "观看《课程B》025 在模拟器上运行应用",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 120,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_1_2",
+      "type": "text",
+      "text": "### 搭建开发环境（以macOS为例）",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -9007,
+      "y": 280,
+      "width": 232,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_2_3",
+      "type": "text",
+      "text": "实际操作安装Flutter SDK、配置环境变量",
+      "styleAttributes": {},
+      "x": -8655,
+      "y": 400,
+      "width": 320,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_2_2",
+      "type": "text",
+      "text": "观看《课程B》008 macOS开发环境",
+      "styleAttributes": {},
+      "x": -8655,
+      "y": 340,
+      "width": 248,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_2_1",
+      "type": "text",
+      "text": "观看《课程B》007 Flutter macOS设置",
+      "styleAttributes": {},
+      "x": -8655,
+      "y": 280,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_1_1",
+      "type": "text",
+      "text": "### 学习Flutter基础概念",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -8991,
+      "y": 460,
+      "width": 200,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_5",
+      "type": "text",
+      "text": "观看《课程B》011 Flutter和Material Design",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 700,
+      "width": 328,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_4",
+      "type": "text",
+      "text": "观看《课程B》006 理解Flutter版本",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 640,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_3",
+      "type": "text",
+      "text": "观看《课程B》005 Flutter和Dart代码如何编译为原生应用",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 580,
+      "width": 424,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_2",
+      "type": "text",
+      "text": "观看《课程B》004 理解Flutter架构",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 520,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_1",
+      "type": "text",
+      "text": "观看《课程B》002 什么是Flutter",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 460,
+      "width": 248,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "o_1",
+      "type": "text",
+      "text": "# 学会Flutter开发",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 0,
+      "y": 0,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_7_1",
+      "type": "text",
+      "text": "## 7周内完成一个包含导航、状态管理、网络请求的完整小应用并发布测试版",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1063,
+      "y": 0,
+      "width": 782,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_4",
+      "type": "text",
+      "text": "### 测试与发布准备",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -752,
+      "y": 120,
+      "width": 160,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_4",
+      "type": "text",
+      "text": "生成测试版APK/IPA",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 300,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_3",
+      "type": "text",
+      "text": "准备应用图标与启动页（《课程B》368）",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 240,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_2",
+      "type": "text",
+      "text": "修复测试中发现的bug",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 180,
+      "width": 200,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_4_1",
+      "type": "text",
+      "text": "在真实设备上测试（《课程B》059、061）",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 120,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_3",
+      "type": "text",
+      "text": "### 添加动画与设备交互",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -768,
+      "y": 280,
+      "width": 192,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_3_2",
+      "type": "text",
+      "text": "实现图片选择与展示功能",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 340,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_3_1",
+      "type": "text",
+      "text": "为页面切换添加过渡动画",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 280,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_2",
+      "type": "text",
+      "text": "### 开发核心功能模块",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 460,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_4",
+      "type": "text",
+      "text": "集成状态管理实现数据共享",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 640,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_3",
+      "type": "text",
+      "text": "开发表单页面与数据提交",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 580,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_2",
+      "type": "text",
+      "text": "开发详情页与导航跳转",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 520,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_2_1",
+      "type": "text",
+      "text": "开发首页列表与网络数据获取",
+      "styleAttributes": {},
+      "x": -1136,
+      "y": 460,
+      "width": 256,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_7_1",
+      "type": "text",
+      "text": "### 需求分析与架构设计",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -768,
+      "y": 620,
+      "width": 192,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_1_3",
+      "type": "text",
+      "text": "规划状态管理方案与网络接口调用",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 740,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_1_2",
+      "type": "text",
+      "text": "设计页面跳转关系与数据流向",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 680,
+      "width": 256,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_7_1_1",
+      "type": "text",
+      "text": "确定应用功能模块（如首页、详情页、个人中心）",
+      "styleAttributes": {},
+      "x": -456,
+      "y": 620,
+      "width": 336,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_6_1",
+      "type": "text",
+      "text": "## 6周内掌握动画与设备功能调用，能实现基础动画和调用摄像头",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2383,
+      "y": 0,
+      "width": 686,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_6_2",
+      "type": "text",
+      "text": "### 学习设备功能调用",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2128,
+      "y": 120,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_2_3",
+      "type": "text",
+      "text": "练习调用摄像头拍摄并保存图片",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": 240,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_2_2",
+      "type": "text",
+      "text": "观看《课程B》298 在文件系统上存储图像(设备上)",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": 180,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_2_1",
+      "type": "text",
+      "text": "观看《课程B》297 使用图像选择器和设备摄像头",
+      "styleAttributes": {},
+      "x": -2600,
+      "y": 120,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_6_1",
+      "type": "text",
+      "text": "### 学习基础动画",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2112,
+      "y": 280,
+      "width": 144,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_1_3",
+      "type": "text",
+      "text": "练习实现页面切换动画",
+      "styleAttributes": {},
+      "x": -1848,
+      "y": 400,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_1_2",
+      "type": "text",
+      "text": "观看《课程B》286 添加Hero过渡动画",
+      "styleAttributes": {},
+      "x": -1848,
+      "y": 340,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_6_1_1",
+      "type": "text",
+      "text": "观看《课程B》282 使用AnimatedBuilder组件、283 使用AnimatedContainer",
+      "styleAttributes": {},
+      "x": -1848,
+      "y": 280,
+      "width": 520,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_5_1",
+      "type": "text",
+      "text": "## 5周内掌握网络请求与数据处理，能从网络获取并展示数据",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3711,
+      "y": 0,
+      "width": 638,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_5_2",
+      "type": "text",
+      "text": "### 学习数据处理与错误处理",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3504,
+      "y": 120,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_2_3",
+      "type": "text",
+      "text": "练习实现带错误处理的下拉刷新列表",
+      "styleAttributes": {},
+      "x": -4128,
+      "y": 240,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_2_2",
+      "type": "text",
+      "text": "观看《课程B》250 实现下拉刷新",
+      "styleAttributes": {},
+      "x": -4128,
+      "y": 180,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_2_1",
+      "type": "text",
+      "text": "观看《课程B》246 优雅地处理错误、253 创建自定义异常和更多错误处理",
+      "styleAttributes": {},
+      "x": -4128,
+      "y": 120,
+      "width": 504,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_5_1",
+      "type": "text",
+      "text": "### 学习HTTP请求与Future",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3496,
+      "y": 280,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_1_3",
+      "type": "text",
+      "text": "练习发送GET请求并处理返回数据",
+      "styleAttributes": {},
+      "x": -3168,
+      "y": 400,
+      "width": 280,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_1_2",
+      "type": "text",
+      "text": "观看《课程B》243 在Dart中使用Future、245 显示加载指示器",
+      "styleAttributes": {},
+      "x": -3168,
+      "y": 340,
+      "width": 424,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_5_1_1",
+      "type": "text",
+      "text": "观看《课程B》240 如何发送Http请求、242 发送POST请求",
+      "styleAttributes": {},
+      "x": -3168,
+      "y": 280,
+      "width": 392,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_4_1",
+      "type": "text",
+      "text": "## 4周内掌握导航与状态管理，能实现页面跳转和数据共享",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5191,
+      "y": 0,
+      "width": 614,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_4_2",
+      "type": "text",
+      "text": "### 学习状态管理基础",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -4972,
+      "y": 120,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_4",
+      "type": "text",
+      "text": "使用Provider实现跨组件数据共享",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 300,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_3",
+      "type": "text",
+      "text": "观看《课程B》199 使用Consumer替代Provider.of",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 240,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_2",
+      "type": "text",
+      "text": "观看《课程B》192 理解Provider包和方法、193 使用Provider和Listener",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 180,
+      "width": 504,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_2_1",
+      "type": "text",
+      "text": "观看《课程B》087 连接组件和管理数据状态",
+      "styleAttributes": {},
+      "x": -5596,
+      "y": 120,
+      "width": 320,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_4_1",
+      "type": "text",
+      "text": "### 学习导航与路由",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -4964,
+      "y": 280,
+      "width": 160,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_4",
+      "type": "text",
+      "text": "观看《课程B》175 添加自定义抽屉导航",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 460,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_3",
+      "type": "text",
+      "text": "练习实现多页面跳转与数据传递",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 400,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_2",
+      "type": "text",
+      "text": "观看《课程B》164 使用命名路由并传递数据",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 340,
+      "width": 320,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_4_1_1",
+      "type": "text",
+      "text": "观看《课程B》162 导航到新页面、163 通过构造函数传递数据",
+      "styleAttributes": {},
+      "x": -4684,
+      "y": 280,
+      "width": 424,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_3_1",
+      "type": "text",
+      "text": "## 3周内掌握核心组件与布局，能搭建包含列表、表单的基础页面",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6719,
+      "y": 0,
+      "width": 662,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_3_3",
+      "type": "text",
+      "text": "### 学习布局辅助组件",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6476,
+      "y": 120,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_4",
+      "type": "text",
+      "text": "使用布局组件优化页面结构",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 300,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_3",
+      "type": "text",
+      "text": "观看《课程B》106 深入理解Flexible和Expanded",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 240,
+      "width": 352,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_2",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---ConstrainedBox、BoxConstraints",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 180,
+      "width": 464,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_3_1",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---Padding、Align",
+      "styleAttributes": {},
+      "x": -7060,
+      "y": 120,
+      "width": 336,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_3_2",
+      "type": "text",
+      "text": "### 学习列表与表单组件",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6484,
+      "y": 280,
+      "width": 192,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_2_3",
+      "type": "text",
+      "text": "练习创建可滚动列表并添加表单输入",
+      "styleAttributes": {},
+      "x": -6172,
+      "y": 400,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_2_2",
+      "type": "text",
+      "text": "观看《课程B》084 添加文本输入组件(TextField)、085 获取用户输入",
+      "styleAttributes": {},
+      "x": -6172,
+      "y": 340,
+      "width": 464,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_2_1",
+      "type": "text",
+      "text": "观看《课程B》089 使列表可滚动、090 使用ListViews",
+      "styleAttributes": {},
+      "x": -6172,
+      "y": 280,
+      "width": 368,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_3_1",
+      "type": "text",
+      "text": "### 学习基础组件与布局原则",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -6500,
+      "y": 460,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_4",
+      "type": "text",
+      "text": "练习使用Container、Row、Column（《课程B》080 容器与列与行对比）",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 640,
+      "width": 448,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_3",
+      "type": "text",
+      "text": "观看《课程B》029 可见(输入输出)和不可见(布局控制)组件",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 580,
+      "width": 400,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_2",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---Scaffold",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 520,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_3_1_1",
+      "type": "text",
+      "text": "观看《课程A》Flutter深入浅出---MaterialApp",
+      "styleAttributes": {},
+      "x": -7068,
+      "y": 460,
+      "width": 328,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_2_1",
+      "type": "text",
+      "text": "## 2周内掌握Dart语言基础，能编写包含类、函数、异步操作的简单程序",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7967,
+      "y": 0,
+      "width": 718,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_2_2",
+      "type": "text",
+      "text": "### 学习Dart面向对象与异步",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7720,
+      "y": 120,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_4",
+      "type": "text",
+      "text": "编写包含类和异步操作的Dart程序",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 300,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_3",
+      "type": "text",
+      "text": "观看《课程B》244 DART深入学习 Future和异步代码",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 240,
+      "width": 368,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_2",
+      "type": "text",
+      "text": "观看《课程B》194 DART深入学习 继承(extends)与混入(with)",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 180,
+      "width": 408,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_2_1",
+      "type": "text",
+      "text": "观看《课程B》026 类构造函数和命名参数",
+      "styleAttributes": {},
+      "x": -8248,
+      "y": 120,
+      "width": 304,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_2_1",
+      "type": "text",
+      "text": "### 学习Dart基础语法",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7696,
+      "y": 280,
+      "width": 176,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_1_3",
+      "type": "text",
+      "text": "练习变量、数据类型、函数定义",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 400,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_1_2",
+      "type": "text",
+      "text": "观看《课程B》022 更多Dart基础",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 340,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_2_1_1",
+      "type": "text",
+      "text": "观看《课程B》021 Dart基础",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 280,
+      "width": 208,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "kr_1_1",
+      "type": "text",
+      "text": "## 1周内掌握Flutter基础认知与环境搭建，能在模拟器上运行第一个应用",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -9283,
+      "y": 0,
+      "width": 784,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_1_3",
+      "type": "text",
+      "text": "### 在模拟器上运行第一个应用",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -9011,
+      "y": 120,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_4",
+      "type": "text",
+      "text": "分析默认应用结构（《课程B》020 分析默认应用）",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 300,
+      "width": 336,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_3",
+      "type": "text",
+      "text": "创建新项目并在模拟器运行",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 240,
+      "width": 240,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_2",
+      "type": "text",
+      "text": "观看《课程B》062 使用模拟器",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 180,
+      "width": 224,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_3_1",
+      "type": "text",
+      "text": "观看《课程B》025 在模拟器上运行应用",
+      "styleAttributes": {},
+      "x": -9467,
+      "y": 120,
+      "width": 288,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_1_2",
+      "type": "text",
+      "text": "### 搭建开发环境（以macOS为例）",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -9007,
+      "y": 280,
+      "width": 232,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_2_3",
+      "type": "text",
+      "text": "实际操作安装Flutter SDK、配置环境变量",
+      "styleAttributes": {},
+      "x": -8655,
+      "y": 400,
+      "width": 320,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_2_2",
+      "type": "text",
+      "text": "观看《课程B》008 macOS开发环境",
+      "styleAttributes": {},
+      "x": -8655,
+      "y": 340,
+      "width": 248,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_2_1",
+      "type": "text",
+      "text": "观看《课程B》007 Flutter macOS设置",
+      "styleAttributes": {},
+      "x": -8655,
+      "y": 280,
+      "width": 272,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "task_1_1",
+      "type": "text",
+      "text": "### 学习Flutter基础概念",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -8991,
+      "y": 460,
+      "width": 200,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_5",
+      "type": "text",
+      "text": "观看《课程B》011 Flutter和Material Design",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 700,
+      "width": 328,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_4",
+      "type": "text",
+      "text": "观看《课程B》006 理解Flutter版本",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 640,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_3",
+      "type": "text",
+      "text": "观看《课程B》005 Flutter和Dart代码如何编译为原生应用",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 580,
+      "width": 424,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_2",
+      "type": "text",
+      "text": "观看《课程B》004 理解Flutter架构",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 520,
+      "width": 264,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "subtask_1_1_1",
+      "type": "text",
+      "text": "观看《课程B》002 什么是Flutter",
+      "styleAttributes": {},
+      "x": -9535,
+      "y": 460,
+      "width": 248,
       "height": 60,
       "color": "0"
     }
   ],
   "edges": [
     {
-      "id": "subtask_1_1_1_subtask_1_1_2",
+      "id": "kr_7_1_o_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_1_1",
+      "fromNode": "kr_7_1",
       "fromSide": "right",
-      "toNode": "subtask_1_1_2",
+      "toNode": "o_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_1_1_2_subtask_1_1_3",
+      "id": "kr_6_1_kr_7_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_1_2",
+      "fromNode": "kr_6_1",
       "fromSide": "right",
-      "toNode": "subtask_1_1_3",
+      "toNode": "kr_7_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_1_1_3_subtask_1_1_4",
+      "id": "task_7_4_kr_7_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_1_3",
+      "fromNode": "task_7_4",
+      "fromSide": "top",
+      "toNode": "kr_7_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_5_1_kr_6_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_5_1",
       "fromSide": "right",
-      "toNode": "subtask_1_1_4",
+      "toNode": "kr_6_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_1_1_4_subtask_1_1_5",
+      "id": "task_6_2_kr_6_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_1_4",
+      "fromNode": "task_6_2",
+      "fromSide": "top",
+      "toNode": "kr_6_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_4_1_kr_5_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_4_1",
       "fromSide": "right",
-      "toNode": "subtask_1_1_5",
+      "toNode": "kr_5_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_1_1_5_task_1_1",
+      "id": "task_5_2_kr_5_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_1_5",
+      "fromNode": "task_5_2",
+      "fromSide": "top",
+      "toNode": "kr_5_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_3_1_kr_4_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_3_1",
       "fromSide": "right",
-      "toNode": "task_1_1",
+      "toNode": "kr_4_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_1_2_1_subtask_1_2_2",
+      "id": "task_4_2_kr_4_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_2_1",
+      "fromNode": "task_4_2",
+      "fromSide": "top",
+      "toNode": "kr_4_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_2_1_kr_3_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_2_1",
       "fromSide": "right",
-      "toNode": "subtask_1_2_2",
+      "toNode": "kr_3_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_1_2_2_subtask_1_2_3",
+      "id": "task_3_3_kr_3_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_1_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_1_2_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_1_2_3_task_1_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_1_2_3",
-      "fromSide": "right",
-      "toNode": "task_1_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_1_3_1_subtask_1_3_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_1_3_1",
-      "fromSide": "right",
-      "toNode": "subtask_1_3_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_1_3_2_subtask_1_3_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_1_3_2",
-      "fromSide": "right",
-      "toNode": "subtask_1_3_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_1_3_3_subtask_1_3_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_1_3_3",
-      "fromSide": "right",
-      "toNode": "subtask_1_3_4",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_1_3_4_task_1_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_1_3_4",
-      "fromSide": "right",
-      "toNode": "task_1_3",
-      "toSide": "left"
-    },
-    {
-      "id": "task_1_1_task_1_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_1_1",
-      "fromSide": "right",
-      "toNode": "task_1_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_1_2_task_1_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_1_2",
-      "fromSide": "right",
-      "toNode": "task_1_3",
-      "toSide": "left"
-    },
-    {
-      "id": "task_1_3_kr_1_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_1_3",
-      "fromSide": "right",
-      "toNode": "kr_1_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_1_1_subtask_2_1_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_1_1",
-      "fromSide": "right",
-      "toNode": "subtask_2_1_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_1_2_subtask_2_1_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_1_2",
-      "fromSide": "right",
-      "toNode": "subtask_2_1_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_1_3_task_2_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_1_3",
-      "fromSide": "right",
-      "toNode": "task_2_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_2_1_subtask_2_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_2_1",
-      "fromSide": "right",
-      "toNode": "subtask_2_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_2_2_subtask_2_2_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_2_2_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_2_3_subtask_2_2_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_2_3",
-      "fromSide": "right",
-      "toNode": "subtask_2_2_4",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_2_2_4_task_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_2_2_4",
-      "fromSide": "right",
-      "toNode": "task_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_2_1_task_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_2_1",
-      "fromSide": "right",
-      "toNode": "task_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_2_2_kr_2_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_2_2",
-      "fromSide": "right",
-      "toNode": "kr_2_1",
-      "toSide": "left"
+      "fromNode": "task_3_3",
+      "fromSide": "top",
+      "toNode": "kr_3_1",
+      "toSide": "bottom"
     },
     {
       "id": "kr_1_1_kr_2_1",
@@ -1234,104 +2185,194 @@
       "toSide": "left"
     },
     {
-      "id": "subtask_3_1_1_subtask_3_1_2",
+      "id": "task_2_2_kr_2_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_1_1",
+      "fromNode": "task_2_2",
+      "fromSide": "top",
+      "toNode": "kr_2_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "task_1_3_kr_1_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_1_3",
+      "fromSide": "top",
+      "toNode": "kr_1_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "task_7_3_task_7_4",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_7_3",
+      "fromSide": "top",
+      "toNode": "task_7_4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_7_4_4_task_7_4",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_4_4",
       "fromSide": "right",
-      "toNode": "subtask_3_1_2",
+      "toNode": "task_7_4",
       "toSide": "left"
     },
     {
-      "id": "subtask_3_1_2_subtask_3_1_3",
+      "id": "task_7_2_task_7_3",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_1_2",
+      "fromNode": "task_7_2",
+      "fromSide": "top",
+      "toNode": "task_7_3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_7_3_2_task_7_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_3_2",
+      "fromSide": "left",
+      "toNode": "task_7_3",
+      "toSide": "right"
+    },
+    {
+      "id": "task_7_1_task_7_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_7_1",
+      "fromSide": "top",
+      "toNode": "task_7_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_7_2_4_task_7_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_2_4",
       "fromSide": "right",
-      "toNode": "subtask_3_1_3",
+      "toNode": "task_7_2",
       "toSide": "left"
     },
     {
-      "id": "subtask_3_1_3_subtask_3_1_4",
+      "id": "subtask_7_1_3_task_7_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_1_3",
+      "fromNode": "subtask_7_1_3",
+      "fromSide": "left",
+      "toNode": "task_7_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_6_1_task_6_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_6_1",
+      "fromSide": "top",
+      "toNode": "task_6_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_6_2_3_task_6_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_6_2_3",
       "fromSide": "right",
-      "toNode": "subtask_3_1_4",
+      "toNode": "task_6_2",
       "toSide": "left"
     },
     {
-      "id": "subtask_3_1_4_task_3_1",
+      "id": "subtask_6_1_3_task_6_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_1_4",
+      "fromNode": "subtask_6_1_3",
+      "fromSide": "left",
+      "toNode": "task_6_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_5_1_task_5_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_5_1",
+      "fromSide": "top",
+      "toNode": "task_5_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_5_2_3_task_5_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_5_2_3",
       "fromSide": "right",
-      "toNode": "task_3_1",
+      "toNode": "task_5_2",
       "toSide": "left"
     },
     {
-      "id": "subtask_3_2_1_subtask_3_2_2",
+      "id": "subtask_5_1_3_task_5_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_2_1",
+      "fromNode": "subtask_5_1_3",
+      "fromSide": "left",
+      "toNode": "task_5_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_4_1_task_4_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_4_1",
+      "fromSide": "top",
+      "toNode": "task_4_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_4_2_4_task_4_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_4_2_4",
       "fromSide": "right",
-      "toNode": "subtask_3_2_2",
+      "toNode": "task_4_2",
       "toSide": "left"
     },
     {
-      "id": "subtask_3_2_2_subtask_3_2_3",
+      "id": "subtask_4_1_4_task_4_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_3_2_3",
-      "toSide": "left"
+      "fromNode": "subtask_4_1_4",
+      "fromSide": "left",
+      "toNode": "task_4_1",
+      "toSide": "right"
     },
     {
-      "id": "subtask_3_2_3_task_3_2",
+      "id": "task_3_2_task_3_3",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_3_2_3",
-      "fromSide": "right",
-      "toNode": "task_3_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_3_3_1_subtask_3_3_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_3_3_1",
-      "fromSide": "right",
-      "toNode": "subtask_3_3_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_3_3_2_subtask_3_3_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_3_3_2",
-      "fromSide": "right",
-      "toNode": "subtask_3_3_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_3_3_3_subtask_3_3_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_3_3_3",
-      "fromSide": "right",
-      "toNode": "subtask_3_3_4",
-      "toSide": "left"
+      "fromNode": "task_3_2",
+      "fromSide": "top",
+      "toNode": "task_3_3",
+      "toSide": "bottom"
     },
     {
       "id": "subtask_3_3_4_task_3_3",
@@ -1349,498 +2390,118 @@
       "toFloating": false,
       "fromFloating": false,
       "fromNode": "task_3_1",
-      "fromSide": "right",
+      "fromSide": "top",
       "toNode": "task_3_2",
-      "toSide": "left"
+      "toSide": "bottom"
     },
     {
-      "id": "task_3_2_task_3_3",
+      "id": "subtask_3_2_3_task_3_2",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "task_3_2",
-      "fromSide": "right",
-      "toNode": "task_3_3",
-      "toSide": "left"
+      "fromNode": "subtask_3_2_3",
+      "fromSide": "left",
+      "toNode": "task_3_2",
+      "toSide": "right"
     },
     {
-      "id": "task_3_3_kr_3_1",
+      "id": "subtask_3_1_4_task_3_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "task_3_3",
+      "fromNode": "subtask_3_1_4",
       "fromSide": "right",
-      "toNode": "kr_3_1",
+      "toNode": "task_3_1",
       "toSide": "left"
     },
     {
-      "id": "kr_2_1_kr_3_1",
+      "id": "task_2_1_task_2_2",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "kr_2_1",
+      "fromNode": "task_2_1",
+      "fromSide": "top",
+      "toNode": "task_2_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_2_2_4_task_2_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_2_2_4",
       "fromSide": "right",
-      "toNode": "kr_3_1",
+      "toNode": "task_2_2",
       "toSide": "left"
     },
     {
-      "id": "subtask_4_1_1_subtask_4_1_2",
+      "id": "subtask_2_1_3_task_2_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_4_1_1",
+      "fromNode": "subtask_2_1_3",
+      "fromSide": "left",
+      "toNode": "task_2_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_1_2_task_1_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_1_2",
+      "fromSide": "top",
+      "toNode": "task_1_3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_1_3_4_task_1_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_1_3_4",
       "fromSide": "right",
-      "toNode": "subtask_4_1_2",
+      "toNode": "task_1_3",
       "toSide": "left"
     },
     {
-      "id": "subtask_4_1_2_subtask_4_1_3",
+      "id": "task_1_1_task_1_2",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_4_1_2",
+      "fromNode": "task_1_1",
+      "fromSide": "top",
+      "toNode": "task_1_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_1_2_3_task_1_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_1_2_3",
+      "fromSide": "left",
+      "toNode": "task_1_2",
+      "toSide": "right"
+    },
+    {
+      "id": "subtask_1_1_5_task_1_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_1_1_5",
       "fromSide": "right",
-      "toNode": "subtask_4_1_3",
+      "toNode": "task_1_1",
       "toSide": "left"
     },
     {
-      "id": "subtask_4_1_3_subtask_4_1_4",
+      "id": "kr_7_1_o_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "subtask_4_1_3",
+      "fromNode": "kr_7_1",
       "fromSide": "right",
-      "toNode": "subtask_4_1_4",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_4_1_4_task_4_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_4_1_4",
-      "fromSide": "right",
-      "toNode": "task_4_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_4_2_1_subtask_4_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_4_2_1",
-      "fromSide": "right",
-      "toNode": "subtask_4_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_4_2_2_subtask_4_2_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_4_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_4_2_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_4_2_3_subtask_4_2_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_4_2_3",
-      "fromSide": "right",
-      "toNode": "subtask_4_2_4",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_4_2_4_task_4_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_4_2_4",
-      "fromSide": "right",
-      "toNode": "task_4_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_4_1_task_4_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_4_1",
-      "fromSide": "right",
-      "toNode": "task_4_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_4_2_kr_4_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_4_2",
-      "fromSide": "right",
-      "toNode": "kr_4_1",
-      "toSide": "left"
-    },
-    {
-      "id": "kr_3_1_kr_4_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "kr_3_1",
-      "fromSide": "right",
-      "toNode": "kr_4_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_5_1_1_subtask_5_1_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_5_1_1",
-      "fromSide": "right",
-      "toNode": "subtask_5_1_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_5_1_2_subtask_5_1_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_5_1_2",
-      "fromSide": "right",
-      "toNode": "subtask_5_1_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_5_1_3_task_5_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_5_1_3",
-      "fromSide": "right",
-      "toNode": "task_5_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_5_2_1_subtask_5_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_5_2_1",
-      "fromSide": "right",
-      "toNode": "subtask_5_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_5_2_2_subtask_5_2_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_5_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_5_2_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_5_2_3_task_5_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_5_2_3",
-      "fromSide": "right",
-      "toNode": "task_5_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_5_1_task_5_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_5_1",
-      "fromSide": "right",
-      "toNode": "task_5_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_5_2_kr_5_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_5_2",
-      "fromSide": "right",
-      "toNode": "kr_5_1",
-      "toSide": "left"
-    },
-    {
-      "id": "kr_4_1_kr_5_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "kr_4_1",
-      "fromSide": "right",
-      "toNode": "kr_5_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_6_1_1_subtask_6_1_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_6_1_1",
-      "fromSide": "right",
-      "toNode": "subtask_6_1_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_6_1_2_subtask_6_1_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_6_1_2",
-      "fromSide": "right",
-      "toNode": "subtask_6_1_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_6_1_3_task_6_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_6_1_3",
-      "fromSide": "right",
-      "toNode": "task_6_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_6_2_1_subtask_6_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_6_2_1",
-      "fromSide": "right",
-      "toNode": "subtask_6_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_6_2_2_subtask_6_2_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_6_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_6_2_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_6_2_3_task_6_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_6_2_3",
-      "fromSide": "right",
-      "toNode": "task_6_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_6_1_task_6_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_6_1",
-      "fromSide": "right",
-      "toNode": "task_6_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_6_2_kr_6_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_6_2",
-      "fromSide": "right",
-      "toNode": "kr_6_1",
-      "toSide": "left"
-    },
-    {
-      "id": "kr_5_1_kr_6_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "kr_5_1",
-      "fromSide": "right",
-      "toNode": "kr_6_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_1_1_subtask_7_1_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_1_1",
-      "fromSide": "right",
-      "toNode": "subtask_7_1_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_1_2_subtask_7_1_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_1_2",
-      "fromSide": "right",
-      "toNode": "subtask_7_1_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_1_3_task_7_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_1_3",
-      "fromSide": "right",
-      "toNode": "task_7_1",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_2_1_subtask_7_2_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_2_1",
-      "fromSide": "right",
-      "toNode": "subtask_7_2_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_2_2_subtask_7_2_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_2_2",
-      "fromSide": "right",
-      "toNode": "subtask_7_2_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_2_3_subtask_7_2_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_2_3",
-      "fromSide": "right",
-      "toNode": "subtask_7_2_4",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_2_4_task_7_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_2_4",
-      "fromSide": "right",
-      "toNode": "task_7_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_3_1_subtask_7_3_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_3_1",
-      "fromSide": "right",
-      "toNode": "subtask_7_3_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_3_2_task_7_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_3_2",
-      "fromSide": "right",
-      "toNode": "task_7_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_4_1_subtask_7_4_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_4_1",
-      "fromSide": "right",
-      "toNode": "subtask_7_4_2",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_4_2_subtask_7_4_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_4_2",
-      "fromSide": "right",
-      "toNode": "subtask_7_4_3",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_4_3_subtask_7_4_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_4_3",
-      "fromSide": "right",
-      "toNode": "subtask_7_4_4",
-      "toSide": "left"
-    },
-    {
-      "id": "subtask_7_4_4_task_7_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "subtask_7_4_4",
-      "fromSide": "right",
-      "toNode": "task_7_4",
-      "toSide": "left"
-    },
-    {
-      "id": "task_7_1_task_7_2",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_7_1",
-      "fromSide": "right",
-      "toNode": "task_7_2",
-      "toSide": "left"
-    },
-    {
-      "id": "task_7_2_task_7_3",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_7_2",
-      "fromSide": "right",
-      "toNode": "task_7_3",
-      "toSide": "left"
-    },
-    {
-      "id": "task_7_3_task_7_4",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_7_3",
-      "fromSide": "right",
-      "toNode": "task_7_4",
-      "toSide": "left"
-    },
-    {
-      "id": "task_7_4_kr_7_1",
-      "styleAttributes": {},
-      "toFloating": false,
-      "fromFloating": false,
-      "fromNode": "task_7_4",
-      "fromSide": "right",
-      "toNode": "kr_7_1",
+      "toNode": "o_1",
       "toSide": "left"
     },
     {
@@ -1854,13 +2515,413 @@
       "toSide": "left"
     },
     {
-      "id": "kr_7_1_o_1",
+      "id": "task_7_4_kr_7_1",
       "styleAttributes": {},
       "toFloating": false,
       "fromFloating": false,
-      "fromNode": "kr_7_1",
+      "fromNode": "task_7_4",
+      "fromSide": "top",
+      "toNode": "kr_7_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_5_1_kr_6_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_5_1",
       "fromSide": "right",
-      "toNode": "o_1",
+      "toNode": "kr_6_1",
+      "toSide": "left"
+    },
+    {
+      "id": "task_6_2_kr_6_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_6_2",
+      "fromSide": "top",
+      "toNode": "kr_6_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_4_1_kr_5_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_4_1",
+      "fromSide": "right",
+      "toNode": "kr_5_1",
+      "toSide": "left"
+    },
+    {
+      "id": "task_5_2_kr_5_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_5_2",
+      "fromSide": "top",
+      "toNode": "kr_5_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_3_1_kr_4_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_3_1",
+      "fromSide": "right",
+      "toNode": "kr_4_1",
+      "toSide": "left"
+    },
+    {
+      "id": "task_4_2_kr_4_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_4_2",
+      "fromSide": "top",
+      "toNode": "kr_4_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_2_1_kr_3_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_2_1",
+      "fromSide": "right",
+      "toNode": "kr_3_1",
+      "toSide": "left"
+    },
+    {
+      "id": "task_3_3_kr_3_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_3_3",
+      "fromSide": "top",
+      "toNode": "kr_3_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "kr_1_1_kr_2_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "kr_1_1",
+      "fromSide": "right",
+      "toNode": "kr_2_1",
+      "toSide": "left"
+    },
+    {
+      "id": "task_2_2_kr_2_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_2_2",
+      "fromSide": "top",
+      "toNode": "kr_2_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "task_1_3_kr_1_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_1_3",
+      "fromSide": "top",
+      "toNode": "kr_1_1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "task_7_3_task_7_4",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_7_3",
+      "fromSide": "top",
+      "toNode": "task_7_4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_7_4_4_task_7_4",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_4_4",
+      "fromSide": "right",
+      "toNode": "task_7_4",
+      "toSide": "left"
+    },
+    {
+      "id": "task_7_2_task_7_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_7_2",
+      "fromSide": "top",
+      "toNode": "task_7_3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_7_3_2_task_7_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_3_2",
+      "fromSide": "left",
+      "toNode": "task_7_3",
+      "toSide": "right"
+    },
+    {
+      "id": "task_7_1_task_7_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_7_1",
+      "fromSide": "top",
+      "toNode": "task_7_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_7_2_4_task_7_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_2_4",
+      "fromSide": "right",
+      "toNode": "task_7_2",
+      "toSide": "left"
+    },
+    {
+      "id": "subtask_7_1_3_task_7_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_7_1_3",
+      "fromSide": "left",
+      "toNode": "task_7_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_6_1_task_6_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_6_1",
+      "fromSide": "top",
+      "toNode": "task_6_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_6_2_3_task_6_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_6_2_3",
+      "fromSide": "right",
+      "toNode": "task_6_2",
+      "toSide": "left"
+    },
+    {
+      "id": "subtask_6_1_3_task_6_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_6_1_3",
+      "fromSide": "left",
+      "toNode": "task_6_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_5_1_task_5_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_5_1",
+      "fromSide": "top",
+      "toNode": "task_5_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_5_2_3_task_5_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_5_2_3",
+      "fromSide": "right",
+      "toNode": "task_5_2",
+      "toSide": "left"
+    },
+    {
+      "id": "subtask_5_1_3_task_5_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_5_1_3",
+      "fromSide": "left",
+      "toNode": "task_5_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_4_1_task_4_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_4_1",
+      "fromSide": "top",
+      "toNode": "task_4_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_4_2_4_task_4_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_4_2_4",
+      "fromSide": "right",
+      "toNode": "task_4_2",
+      "toSide": "left"
+    },
+    {
+      "id": "subtask_4_1_4_task_4_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_4_1_4",
+      "fromSide": "left",
+      "toNode": "task_4_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_3_2_task_3_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_3_2",
+      "fromSide": "top",
+      "toNode": "task_3_3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_3_3_4_task_3_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_3_3_4",
+      "fromSide": "right",
+      "toNode": "task_3_3",
+      "toSide": "left"
+    },
+    {
+      "id": "task_3_1_task_3_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_3_1",
+      "fromSide": "top",
+      "toNode": "task_3_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_3_2_3_task_3_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_3_2_3",
+      "fromSide": "left",
+      "toNode": "task_3_2",
+      "toSide": "right"
+    },
+    {
+      "id": "subtask_3_1_4_task_3_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_3_1_4",
+      "fromSide": "right",
+      "toNode": "task_3_1",
+      "toSide": "left"
+    },
+    {
+      "id": "task_2_1_task_2_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_2_1",
+      "fromSide": "top",
+      "toNode": "task_2_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_2_2_4_task_2_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_2_2_4",
+      "fromSide": "right",
+      "toNode": "task_2_2",
+      "toSide": "left"
+    },
+    {
+      "id": "subtask_2_1_3_task_2_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_2_1_3",
+      "fromSide": "left",
+      "toNode": "task_2_1",
+      "toSide": "right"
+    },
+    {
+      "id": "task_1_2_task_1_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_1_2",
+      "fromSide": "top",
+      "toNode": "task_1_3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_1_3_4_task_1_3",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_1_3_4",
+      "fromSide": "right",
+      "toNode": "task_1_3",
+      "toSide": "left"
+    },
+    {
+      "id": "task_1_1_task_1_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "task_1_1",
+      "fromSide": "top",
+      "toNode": "task_1_2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "subtask_1_2_3_task_1_2",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_1_2_3",
+      "fromSide": "left",
+      "toNode": "task_1_2",
+      "toSide": "right"
+    },
+    {
+      "id": "subtask_1_1_5_task_1_1",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "subtask_1_1_5",
+      "fromSide": "right",
+      "toNode": "task_1_1",
       "toSide": "left"
     }
   ],

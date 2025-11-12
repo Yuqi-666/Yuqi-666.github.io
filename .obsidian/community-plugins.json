@@ -9,8 +9,8 @@
   "oz-image-plugin",
   "webpage-html-export",
   "hot-reload",
-  "node-graph",
   "hidden-folder-obsidian",
   "dataview",
-  "advanced-canvas"
+  "advanced-canvas",
+  "node-graph"
 ]
