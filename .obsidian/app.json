@@ -4,7 +4,10 @@
     "config/",
     "i18n/",
     "layouts/",
-    "static/"
+    "static/",
+    "node_modules/",
+    "public/",
+    "resources/"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
