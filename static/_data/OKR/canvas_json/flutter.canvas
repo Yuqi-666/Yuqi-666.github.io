@@ -1,6 +1,17 @@
 {
 	"nodes":[
 		{
+			"id":"o_1",
+			"type":"text",
+			"text":"# 学会Flutter开发",
+			"styleAttributes":{"textAlign":"center"},
+			"x":0,
+			"y":0,
+			"width":264,
+			"height":60,
+			"color":"rgba(255, 0, 0, 1)"
+		},
+		{
 			"id":"kr_7_1",
 			"type":"text",
 			"text":"## 7周内完成一个包含导航、状态管理、网络请求的完整小应用并发布测试版",
@@ -967,17 +978,6 @@
 			"width":248,
 			"height":60,
 			"color":"rgba(0, 0, 255, 1)"
-		},
-		{
-			"id":"o_1",
-			"type":"text",
-			"text":"# 学会Flutter开发",
-			"styleAttributes":{"textAlign":"center"},
-			"x":0,
-			"y":0,
-			"width":264,
-			"height":60,
-			"color":"rgba(255, 0, 0, 1)"
 		}
 	],
 	"edges":[

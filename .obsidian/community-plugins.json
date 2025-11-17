@@ -8,11 +8,10 @@
   "obsidian-git",
   "oz-image-plugin",
   "webpage-html-export",
+  "hot-reload",
   "hidden-folder-obsidian",
   "dataview",
   "advanced-canvas",
-  "obsidian-image-toolkit",
-  "obsidian-front-matter-title-plugin",
-  "hot-reload",
-  "node-graph"
+  "node-graph",
+  "obsidian-advanced-uri"
 ]

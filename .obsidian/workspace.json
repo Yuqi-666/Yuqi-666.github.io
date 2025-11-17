@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "992ead301fe6eb49",
+        "id": "523d9f7b7a940e61",
         "type": "tabs",
         "children": [
           {
-            "id": "34ad372726ae682c",
+            "id": "9abedd935658554c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "static/_data/OKR/canvas_json/flutter.canvas",
                 "viewState": {
-                  "x": -2823.474752914361,
-                  "y": 444.9041186268714,
-                  "zoom": -0.6158657025954415
+                  "x": -7971.301533195867,
+                  "y": 832.4376534723125,
+                  "zoom": -0.9207540573663264
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "flutter"
+            }
+          },
+          {
+            "id": "c674482b48a2e004",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
             }
           }
         ]
@@ -56,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "output",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 300
   },
   "right": {
     "id": "243be41168feee57",
@@ -116,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/_data/OKR/canvas_json/flutter.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "flutter 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -145,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/_data/OKR/canvas_json/flutter.canvas",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "flutter 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -163,99 +175,90 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "7bac1a6b64082a96",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
-      "graph:查看关系图谱": false,
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "quickadd:QuickAdd": false,
       "obsidian-git:Open Git source control": false,
       "webpage-html-export:导出为HTML": false,
       "node-graph:Node Graph": false,
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "cd6e49dfe0b247e8",
+  "active": "9abedd935658554c",
   "lastOpenFiles": [
-    "static/_temp/未命名 1.canvas",
+    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
     "static/_data/OKR/canvas_json/flutter.canvas",
-    "static/_data/OKR/syncFile.json",
+    "static/_OKR/O_resources/学会flutter开发.md",
     "static/_data/OKR/data_json/flutter.json",
-    "public/_data/OKR/syncFile.json",
+    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "canvas_json",
     "data_json",
     "tsv",
-    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.svg",
-    "README.md",
-    "content/zh/note/study/TypeScript/_index.md",
-    "content/zh/note/study/TypeScript/类型/index.md",
     "content/zh/note/tech/个人效率自动化/index.md",
-    "note/tech/使用hugo及hugo-blox搭建个人博客网站.md",
-    "note/tech",
-    "note",
-    "public/tags/前端/page/1/index.html",
-    "public/tags/前端/page/1",
-    "public/_temp/未命名.canvas",
-    "public/_temp/未命名 1.canvas",
-    "public/_task/未命名.canvas",
-    "public/_OKR/prompts/目标相关资源生成json图表prompt.md",
-    "public/_OKR/O_resources/学会flutter开发.md",
-    "public/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.svg",
-    "public/_data/OKR/canvas_json/flutter.canvas",
-    "content/zh/note/study/_index.md",
-    "content/zh/note/study/lecture_A/chapter_1/index.md",
-    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
-    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
-    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
-    "content/zh/snippet/intro.md",
-    "node_modules/node-addon-api/README.md",
-    "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/index.md",
-    "content/zh/note/tech/comfyui模型lora测评/index.md",
-    "static/_OKR/O_resources/学会flutter开发.md",
+    "static/_data/OKR/syncFile.json",
+    "static/_temp/未命名 1.canvas",
     "static/_temp/未命名.canvas",
-    "static/_task/未命名.canvas",
-    "content/zh/note/tech/test/index.md",
-    "static/_templates/note/study.md",
-    "content/zh/note/study/lecture_B/_index.md",
-    "content/zh/note/study/lecture_A/_index.md",
-    "static/_diary/2025-11-01.md",
-    "static/_task/OKR.md",
+    "content/zh/note/study/TypeScript/类型/index.md",
+    "content/zh/note/study/TypeScript/_index.md",
+    "public/_data/OKR/canvas_json/flutter.canvas",
+    "public/_data/OKR/data_json/flutter.json",
+    "public/_data/OKR/tsv/flutter.tsv",
+    "static/_data/OKR/tsv/flutter.tsv",
     "static/_task/task.md",
-    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.svg",
-    "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
-    "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
-    "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214749.png",
-    "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214749.png",
-    "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214742.png",
-    "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214742.png",
+    "static/_task/OKR.md",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030215312.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030213810.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030214659.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030215751.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030205542.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030210423.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030205150.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030213407.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030204341.png",
+    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030212904.png",
+    "static/_task/未命名.canvas",
+    "public/_temp/未命名 1.canvas",
+    "content/zh/note/tech/comfyui模型lora测评/index.md",
+    "public/_temp/未命名.canvas",
+    "public/_temp",
+    "public/未命名",
+    "content/zh/snippet/intro.md",
+    "content/zh/note/reading/福格行为模型/index.md",
+    "public/_templates/diary.md",
+    "public/_task/未命名.canvas",
+    "public/_task/task.md",
+    "public/_task/OKR.md",
+    "public/_OKR/O_resources/学会flutter开发.md",
+    "public/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "public/_HOME/Home.canvas",
+    "public/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
+    "public/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
+    "public/_diary/时间记录.md",
+    "public/_diary/2025-11-01.md",
+    "public/_diary/2025-10-22.md",
+    "public/_diary/2025-10-24.md",
+    "public/_diary/2025-10-21.md",
+    "public/_copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "public/_copilot/copilot-custom-prompts/Simplify.md",
     "static/_HOME/Home.canvas"
   ]
 }
