@@ -11,17 +11,31 @@
             "id": "9abedd935658554c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/note/study/langchain/langchain架构原理/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "18a0986308ab08b6",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "static/_data/OKR/canvas_json/flutter.canvas",
+                "file": "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
                 "viewState": {
-                  "x": -7971.301533195867,
-                  "y": 832.4376534723125,
-                  "zoom": -0.9207540573663264
+                  "x": 163.81336340542364,
+                  "y": -77.0413586486402,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "flutter"
+              "title": "langchain"
             }
           },
           {
@@ -36,7 +50,8 @@
               "title": "版本说明 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "243be41168feee57",
@@ -181,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +218,27 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "9abedd935658554c",
+  "active": "18a0986308ab08b6",
   "lastOpenFiles": [
-    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.svg",
+    "content/zh/note/study/langchain/langchain架构原理/index.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing",
+    "content/zh/note/study/langchain/langchain架构原理/assets",
+    "content/zh/note/study/TypeScript/泛型/index.md",
+    "content/zh/note/study/lecture_A/chapter_1/index.md",
+    "content/zh/note/study/langchain/_index.md",
+    "content/zh/note/study/langchain/langchain架构原理",
+    "content/zh/note/study/TypeScript/_index.md",
+    "content/zh/note/study/_index.md",
+    "content/zh/note/study/langchain",
+    "content/zh/note/study/lecture_B/_index.md",
     "static/_data/OKR/canvas_json/flutter.canvas",
+    "content/zh/note/study/TypeScript/类型/index.md",
+    "content/zh/note/study/TypeScript/泛型",
+    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
     "static/_OKR/O_resources/学会flutter开发.md",
     "static/_data/OKR/data_json/flutter.json",
     "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
@@ -214,15 +246,9 @@
     "data_json",
     "tsv",
     "content/zh/note/tech/个人效率自动化/index.md",
-    "static/_data/OKR/syncFile.json",
     "static/_temp/未命名 1.canvas",
     "static/_temp/未命名.canvas",
-    "content/zh/note/study/TypeScript/类型/index.md",
-    "content/zh/note/study/TypeScript/_index.md",
     "public/_data/OKR/canvas_json/flutter.canvas",
-    "public/_data/OKR/data_json/flutter.json",
-    "public/_data/OKR/tsv/flutter.tsv",
-    "static/_data/OKR/tsv/flutter.tsv",
     "static/_task/task.md",
     "static/_task/OKR.md",
     "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030215312.png",
@@ -234,13 +260,10 @@
     "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030205150.png",
     "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030213407.png",
     "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030204341.png",
-    "public/note/tech/comfyui模型lora测评/assets/Pasted image 20251030212904.png",
     "static/_task/未命名.canvas",
     "public/_temp/未命名 1.canvas",
     "content/zh/note/tech/comfyui模型lora测评/index.md",
     "public/_temp/未命名.canvas",
-    "public/_temp",
-    "public/未命名",
     "content/zh/snippet/intro.md",
     "content/zh/note/reading/福格行为模型/index.md",
     "public/_templates/diary.md",
@@ -251,14 +274,6 @@
     "public/_OKR/prompts/目标相关资源生成json图表prompt.md",
     "public/_HOME/Home.canvas",
     "public/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
-    "public/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
-    "public/_diary/时间记录.md",
-    "public/_diary/2025-11-01.md",
-    "public/_diary/2025-10-22.md",
-    "public/_diary/2025-10-24.md",
-    "public/_diary/2025-10-21.md",
-    "public/_copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "public/_copilot/copilot-custom-prompts/Simplify.md",
-    "static/_HOME/Home.canvas"
+    "public/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md"
   ]
 }
