@@ -1,0 +1,9 @@
+body {
+/* Where X is the index of the color in the palette (1-6 are used by Obsidian) */
+--canvas-color-1: 255, 0, 100;/*对应#134686，深蓝色，体现目标的沉稳与重要性*/
+--canvas-color-2: 200, 0, 255;/*对应#ED3F27，正红色，突出关键成果的核心地位*/
+--canvas-color-3: 0, 42, 255;/*对应#FEB21A，橙黄色，区分任务模块，视觉上富有活力*/
+--canvas-color-4: 0, 204, 255;/*对应#FDF4E3，浅米色，作为子任务层级，颜色柔和，明确层级区分*/
+--canvas-color-5: 255, 193, 7;/*进行中 - 暖黄：传递动态与进度*/
+--canvas-color-6: 0, 210, 40;/*已完成 - 健康绿：象征成功与收尾*/
+}

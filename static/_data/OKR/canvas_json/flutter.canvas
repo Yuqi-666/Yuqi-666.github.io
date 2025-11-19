@@ -9,7 +9,7 @@
 			"y":0,
 			"width":264,
 			"height":60,
-			"color":"rgba(255, 0, 0, 1)"
+			"color":"1"
 		},
 		{
 			"id":"kr_7_1",
@@ -20,7 +20,7 @@
 			"y":0,
 			"width":782,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"2"
 		},
 		{
 			"id":"task_7_4",
@@ -31,7 +31,7 @@
 			"y":120,
 			"width":160,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_7_4_4",
@@ -42,7 +42,7 @@
 			"y":300,
 			"width":176,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_4_3",
@@ -53,7 +53,7 @@
 			"y":240,
 			"width":272,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_4_2",
@@ -64,7 +64,7 @@
 			"y":180,
 			"width":200,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_4_1",
@@ -75,7 +75,7 @@
 			"y":120,
 			"width":264,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_7_3",
@@ -86,7 +86,7 @@
 			"y":280,
 			"width":192,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_7_3_2",
@@ -97,7 +97,7 @@
 			"y":340,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_3_1",
@@ -108,7 +108,7 @@
 			"y":280,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_7_2",
@@ -119,7 +119,7 @@
 			"y":460,
 			"width":176,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_7_2_4",
@@ -130,7 +130,7 @@
 			"y":640,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_2_3",
@@ -141,7 +141,7 @@
 			"y":580,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_2_2",
@@ -152,7 +152,7 @@
 			"y":520,
 			"width":208,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_2_1",
@@ -163,7 +163,7 @@
 			"y":460,
 			"width":256,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_7_1",
@@ -174,7 +174,7 @@
 			"y":620,
 			"width":192,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_7_1_3",
@@ -185,7 +185,7 @@
 			"y":740,
 			"width":288,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_1_2",
@@ -196,7 +196,7 @@
 			"y":680,
 			"width":256,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_7_1_1",
@@ -207,7 +207,7 @@
 			"y":620,
 			"width":336,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"kr_6_1",
@@ -218,7 +218,7 @@
 			"y":0,
 			"width":686,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"2"
 		},
 		{
 			"id":"task_6_2",
@@ -229,7 +229,7 @@
 			"y":120,
 			"width":176,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_6_2_3",
@@ -240,7 +240,7 @@
 			"y":240,
 			"width":272,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_6_2_2",
@@ -251,7 +251,7 @@
 			"y":180,
 			"width":352,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_6_2_1",
@@ -262,7 +262,7 @@
 			"y":120,
 			"width":352,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_6_1",
@@ -273,7 +273,7 @@
 			"y":280,
 			"width":144,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_6_1_3",
@@ -284,7 +284,7 @@
 			"y":400,
 			"width":208,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_6_1_2",
@@ -295,7 +295,7 @@
 			"y":340,
 			"width":272,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_6_1_1",
@@ -306,7 +306,7 @@
 			"y":280,
 			"width":520,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"kr_5_1",
@@ -317,7 +317,7 @@
 			"y":0,
 			"width":638,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"2"
 		},
 		{
 			"id":"task_5_2",
@@ -328,7 +328,7 @@
 			"y":120,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_5_2_3",
@@ -339,7 +339,7 @@
 			"y":240,
 			"width":304,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_5_2_2",
@@ -350,7 +350,7 @@
 			"y":180,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_5_2_1",
@@ -361,7 +361,7 @@
 			"y":120,
 			"width":504,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_5_1",
@@ -372,7 +372,7 @@
 			"y":280,
 			"width":208,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_5_1_3",
@@ -383,7 +383,7 @@
 			"y":400,
 			"width":280,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_5_1_2",
@@ -394,7 +394,7 @@
 			"y":340,
 			"width":424,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_5_1_1",
@@ -405,7 +405,7 @@
 			"y":280,
 			"width":392,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"kr_4_1",
@@ -416,7 +416,7 @@
 			"y":0,
 			"width":614,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"2"
 		},
 		{
 			"id":"task_4_2",
@@ -427,7 +427,7 @@
 			"y":120,
 			"width":176,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_4_2_4",
@@ -438,7 +438,7 @@
 			"y":300,
 			"width":288,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_4_2_3",
@@ -449,7 +449,7 @@
 			"y":240,
 			"width":352,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_4_2_2",
@@ -460,7 +460,7 @@
 			"y":180,
 			"width":504,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_4_2_1",
@@ -471,7 +471,7 @@
 			"y":120,
 			"width":320,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_4_1",
@@ -482,7 +482,7 @@
 			"y":280,
 			"width":160,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_4_1_4",
@@ -493,7 +493,7 @@
 			"y":460,
 			"width":288,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_4_1_3",
@@ -504,7 +504,7 @@
 			"y":400,
 			"width":272,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_4_1_2",
@@ -515,7 +515,7 @@
 			"y":340,
 			"width":320,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_4_1_1",
@@ -526,7 +526,7 @@
 			"y":280,
 			"width":424,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"kr_3_1",
@@ -537,7 +537,7 @@
 			"y":0,
 			"width":662,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"2"
 		},
 		{
 			"id":"task_3_3",
@@ -548,7 +548,7 @@
 			"y":120,
 			"width":176,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_3_3_4",
@@ -559,7 +559,7 @@
 			"y":300,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_3_3",
@@ -570,7 +570,7 @@
 			"y":240,
 			"width":352,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_3_2",
@@ -581,7 +581,7 @@
 			"y":180,
 			"width":464,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_3_1",
@@ -592,7 +592,7 @@
 			"y":120,
 			"width":336,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_3_2",
@@ -603,7 +603,7 @@
 			"y":280,
 			"width":192,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_3_2_3",
@@ -614,7 +614,7 @@
 			"y":400,
 			"width":304,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_2_2",
@@ -625,7 +625,7 @@
 			"y":340,
 			"width":464,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_2_1",
@@ -636,7 +636,7 @@
 			"y":280,
 			"width":368,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_3_1",
@@ -647,7 +647,7 @@
 			"y":460,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_3_1_4",
@@ -658,7 +658,7 @@
 			"y":640,
 			"width":448,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_1_3",
@@ -669,7 +669,7 @@
 			"y":580,
 			"width":400,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_1_2",
@@ -680,7 +680,7 @@
 			"y":520,
 			"width":304,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_3_1_1",
@@ -691,7 +691,7 @@
 			"y":460,
 			"width":328,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"kr_2_1",
@@ -702,7 +702,7 @@
 			"y":0,
 			"width":718,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"2"
 		},
 		{
 			"id":"task_2_2",
@@ -713,7 +713,7 @@
 			"y":120,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_2_2_4",
@@ -724,7 +724,7 @@
 			"y":300,
 			"width":288,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_2_2_3",
@@ -735,7 +735,7 @@
 			"y":240,
 			"width":368,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_2_2_2",
@@ -746,7 +746,7 @@
 			"y":180,
 			"width":408,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_2_2_1",
@@ -757,7 +757,7 @@
 			"y":120,
 			"width":304,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_2_1",
@@ -768,7 +768,7 @@
 			"y":280,
 			"width":176,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_2_1_3",
@@ -779,7 +779,7 @@
 			"y":400,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_2_1_2",
@@ -790,7 +790,7 @@
 			"y":340,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_2_1_1",
@@ -801,7 +801,7 @@
 			"y":280,
 			"width":208,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"kr_1_1",
@@ -812,7 +812,7 @@
 			"y":0,
 			"width":784,
 			"height":60,
-			"color":"rgba(255, 165, 0, 1)"
+			"color":"5"
 		},
 		{
 			"id":"task_1_3",
@@ -823,7 +823,7 @@
 			"y":120,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_1_3_4",
@@ -834,7 +834,7 @@
 			"y":300,
 			"width":336,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_1_3_3",
@@ -845,7 +845,7 @@
 			"y":240,
 			"width":240,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_1_3_2",
@@ -856,7 +856,7 @@
 			"y":180,
 			"width":224,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_1_3_1",
@@ -867,7 +867,7 @@
 			"y":120,
 			"width":288,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_1_2",
@@ -878,7 +878,7 @@
 			"y":280,
 			"width":232,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"3"
 		},
 		{
 			"id":"subtask_1_2_3",
@@ -889,7 +889,7 @@
 			"y":400,
 			"width":320,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_1_2_2",
@@ -900,7 +900,7 @@
 			"y":340,
 			"width":248,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"subtask_1_2_1",
@@ -911,7 +911,7 @@
 			"y":280,
 			"width":272,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"4"
 		},
 		{
 			"id":"task_1_1",
@@ -922,7 +922,7 @@
 			"y":460,
 			"width":200,
 			"height":60,
-			"color":"rgba(0, 128, 0, 1)"
+			"color":"5"
 		},
 		{
 			"id":"subtask_1_1_5",
@@ -933,7 +933,7 @@
 			"y":700,
 			"width":328,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"5"
 		},
 		{
 			"id":"subtask_1_1_4",
@@ -944,7 +944,7 @@
 			"y":640,
 			"width":264,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"5"
 		},
 		{
 			"id":"subtask_1_1_3",
@@ -955,7 +955,7 @@
 			"y":580,
 			"width":424,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"5"
 		},
 		{
 			"id":"subtask_1_1_2",
@@ -966,7 +966,7 @@
 			"y":520,
 			"width":264,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"5"
 		},
 		{
 			"id":"subtask_1_1_1",
@@ -977,7 +977,7 @@
 			"y":460,
 			"width":248,
 			"height":60,
-			"color":"rgba(0, 0, 255, 1)"
+			"color":"5"
 		}
 	],
 	"edges":[

@@ -1,0 +1,50 @@
+{
+  "Tasks": {
+    "flutter": [
+      {
+        "id": "task_1_1",
+        "level": 3,
+        "content": "### 学习Flutter基础概念",
+        "estimated_time": "1h30min",
+        "status": 1,
+        "subtasks": [
+          {
+            "id": "subtask_1_1_5",
+            "level": 4,
+            "content": "观看《课程B》011 Flutter和Material Design",
+            "estimated_time": "0h10min",
+            "status": 1
+          },
+          {
+            "id": "subtask_1_1_4",
+            "level": 4,
+            "content": "观看《课程B》006 理解Flutter版本",
+            "estimated_time": "0h20min",
+            "status": 1
+          },
+          {
+            "id": "subtask_1_1_3",
+            "level": 4,
+            "content": "观看《课程B》005 Flutter和Dart代码如何编译为原生应用",
+            "estimated_time": "0h25min",
+            "status": 1
+          },
+          {
+            "id": "subtask_1_1_2",
+            "level": 4,
+            "content": "观看《课程B》004 理解Flutter架构",
+            "estimated_time": "0h20min",
+            "status": 1
+          },
+          {
+            "id": "subtask_1_1_1",
+            "level": 4,
+            "content": "观看《课程B》002 什么是Flutter",
+            "estimated_time": "0h15min",
+            "status": 1
+          }
+        ]
+      }
+    ]
+  }
+}
