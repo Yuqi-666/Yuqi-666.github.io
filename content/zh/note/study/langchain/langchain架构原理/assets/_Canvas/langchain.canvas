@@ -1,67 +1,353 @@
 {
 	"nodes":[
-		{
-			"id":"b7c9bde3738b9fdc",
-			"type":"text",
-			"text":"# [Runnable](https://reference.langchain.com/javascript/classes/_langchain_core.runnables.Runnable.html)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-380,
-			"y":-200,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8c4b8b81fc40962d",
-			"type":"text",
-			"text":"# [BaseLangChain](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_base.BaseLangChain.html)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":60,
-			"y":-200,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"ce9eaf27319dc750",
-			"type":"text",
-			"text":"# [Serializable](https://reference.langchain.com/javascript/classes/_langchain_core.load_serializable.Serializable.html)",
-			"styleAttributes":{},
-			"x":-860,
-			"y":-200,
-			"width":260,
-			"height":60
-		},
+		{"id":"7848eef1438aa77c","type":"group","x":-1760,"y":-960,"width":5400,"height":1000,"label":"Class"},
+		{"id":"e0282d9a95573d02","type":"group","x":-540,"y":640,"width":3560,"height":920,"label":"Params"},
+		{"id":"72287df8bc8e880a","type":"group","x":-1440,"y":-1540,"width":3197,"height":400,"label":"Interfaces"},
+		{"id":"620fad6accdbe08b","type":"group","x":460,"y":340,"width":1431,"height":100,"label":"Options"},
 		{
 			"id":"bc7a938b1c0272a6",
 			"type":"text",
-			"text":"# [BaseLanguageModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_base.BaseLanguageModel.html)",
+			"text":"# [BaseLanguageModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_base.BaseLanguageModel.html)\nBase class for language models.",
 			"styleAttributes":{"textAlign":"center"},
-			"x":560,
-			"y":-320,
+			"x":561,
+			"y":-420,
 			"width":340,
-			"height":60
+			"height":120
 		},
 		{
 			"id":"cdfc1b6293c3019c",
 			"type":"text",
-			"text":"# [StructuredTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.StructuredTool.html)",
+			"text":"# [StructuredTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.StructuredTool.html)\nBase class for Tools that accept input of any shape defined by a Zod schema.",
 			"styleAttributes":{"textAlign":"center"},
-			"x":560,
-			"y":-100,
+			"x":558,
+			"y":-174,
 			"width":340,
+			"height":163
+		},
+		{
+			"id":"c27aa23a526b84f6",
+			"type":"text",
+			"text":"## [BaseLanguageModelParams](https://reference.langchain.com/javascript/interfaces/_langchain_core.language_models_base.BaseLanguageModelParams.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":534,
+			"y":660,
+			"width":392,
+			"height":60
+		},
+		{
+			"id":"8b7016ffca59a3b1",
+			"type":"text",
+			"text":"```typescript\n\tinterface BaseLanguageModelParams {\n    cache?: boolean | BaseCache<Generation[]>;\n    callbackManager?: CallbackManager;\n    callbacks?: Callbacks;\n    maxConcurrency?: number;\n    maxRetries?: number;\n    metadata?: Record<string, unknown>;\n    onFailedAttempt?: FailedAttemptHandler;\n    tags?: string[];\n    verbose?: boolean;\n}\n```",
+			"styleAttributes":{},
+			"x":502,
+			"y":765,
+			"width":457,
+			"height":310
+		},
+		{
+			"id":"aa672af9e8282e05",
+			"type":"text",
+			"text":"## [BaseLanguageModelCallOptions](https://reference.langchain.com/javascript/interfaces/_langchain_core.language_models_base.BaseLanguageModelCallOptions.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":476,
+			"y":360,
+			"width":503,
+			"height":60
+		},
+		{
+			"id":"b7c9bde3738b9fdc",
+			"type":"text",
+			"text":"# [Runnable](https://reference.langchain.com/javascript/classes/_langchain_core.runnables.Runnable.html)\nA Runnable is a generic unit of work that can be invoked, batched, streamed, and/or transformed.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-908,
+			"y":-252,
+			"width":320,
+			"height":160
+		},
+		{
+			"id":"8c4b8b81fc40962d",
+			"type":"text",
+			"text":"# [BaseLangChain](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_base.BaseLangChain.html)\nBase class for language models, chains, tools.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-448,
+			"y":-252,
+			"width":280,
+			"height":160
+		},
+		{
+			"id":"57f414442f88f50b",
+			"type":"text",
+			"text":"```typescript\n\tinterface BaseLangChainParams {\n    callbacks?: Callbacks;\n    metadata?: Record<string, unknown>;\n    tags?: string[];\n    verbose?: boolean;\n}\n```",
+			"styleAttributes":{},
+			"x":-516,
+			"y":1140,
+			"width":416,
+			"height":200
+		},
+		{
+			"id":"63e5fb5a57464207",
+			"type":"text",
+			"text":"## [BaseLangChainParams](https://reference.langchain.com/javascript/interfaces/_langchain_core.language_models_base.BaseLangChainParams.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-468,
+			"y":960,
+			"width":320,
 			"height":60
 		},
 		{
 			"id":"1a7e708430d59031",
 			"type":"text",
-			"text":"# [BaseChatModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_chat_models.BaseChatModel.html)",
+			"text":"# [BaseChatModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_chat_models.BaseChatModel.html)\nBase class for chat models. It extends the BaseLanguageModel class and provides methods for generating chat based on input messages.",
 			"styleAttributes":{"textAlign":"center"},
-			"x":1060,
-			"y":-320,
-			"width":280,
+			"x":1457,
+			"y":-460,
+			"width":317,
+			"height":200
+		},
+		{
+			"id":"034797037025fe5b",
+			"type":"text",
+			"text":"# [Tool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.Tool.html)\nBase class for Tools that accept input as a string.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1485,
+			"y":-164,
+			"width":260,
+			"height":143
+		},
+		{
+			"id":"6bd33a5af345e1b6",
+			"type":"text",
+			"text":"## [BaseChatModelCallOptions](https://reference.langchain.com/javascript/types/_langchain_core.language_models_chat_models.BaseChatModelCallOptions.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1364,
+			"y":360,
+			"width":503,
+			"height":60
+		},
+		{
+			"id":"ca21feb00e30b7b7",
+			"type":"text",
+			"text":"```typescript\n\tinterface ToolParams {\n    callbacks?: Callbacks;\n    defaultConfig?: ToolRunnableConfig<Record<string, any>, any>;\n    metadata?: Record<string, unknown>;\n    responseFormat?: string;\n    tags?: string[];\n    verbose?: boolean;\n    verboseParsingErrors?: boolean;\n}\n```",
+			"styleAttributes":{},
+			"x":1309,
+			"y":1280,
+			"width":613,
+			"height":260
+		},
+		{
+			"id":"84445e373c0db4d9",
+			"type":"text",
+			"text":"## [ToolParams](https://reference.langchain.com/javascript/interfaces/_langchain_core.tools.ToolParams.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1419,
+			"y":1140,
+			"width":392,
+			"height":60
+		},
+		{
+			"id":"c81bfc19b0e76def",
+			"type":"text",
+			"text":"##  [BaseDynamicToolInput](https://reference.langchain.com/javascript/interfaces/_langchain_core.tools.BaseDynamicToolInput.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2102,
+			"y":1140,
+			"width":392,
+			"height":60
+		},
+		{
+			"id":"8534a3eda48a42e3",
+			"type":"text",
+			"text":"##  [DynamicToolInput](https://reference.langchain.com/javascript/interfaces/_langchain_core.tools.DynamicToolInput.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2612,
+			"y":1045,
+			"width":392,
+			"height":60
+		},
+		{
+			"id":"3dccf0f3fc293030",
+			"type":"text",
+			"text":"##  [DynamicStructuredToolInput](https://reference.langchain.com/javascript/interfaces/_langchain_core.tools.DynamicStructuredToolInput.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2612,
+			"y":1250,
+			"width":392,
+			"height":60
+		},
+		{
+			"id":"5114e835135a91af",
+			"type":"text",
+			"text":"# [DynamicTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.DynamicTool.html)\nA tool that can be created dynamically from a function, name, and description.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2678,
+			"y":-182,
+			"width":260,
+			"height":179
+		},
+		{
+			"id":"5913603d7d1a132b",
+			"type":"text",
+			"text":"# [DynamicStructuredTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.DynamicStructuredTool.html)\nA tool that can be created dynamically from a function, name, and description, designed to work with structured data. It extends the StructuredTool class and overrides the _call method to execute the provided function when the tool is called.\n\nSchema can be passed as Zod or JSON schema. The tool will not validate input if JSON schema is passed.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2567,
+			"y":-560,
+			"width":482,
+			"height":319
+		},
+		{
+			"id":"ce9eaf27319dc750",
+			"type":"text",
+			"text":"# [Serializable](https://reference.langchain.com/javascript/classes/_langchain_core.load_serializable.Serializable.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1368,
+			"y":-202,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"52408a62e25914ca",
+			"type":"text",
+			"text":"# [ SerializableInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.load_serializable.SerializableInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1412,
+			"y":-1320,
+			"width":348,
+			"height":60
+		},
+		{
+			"id":"5159da56216bd5e0",
+			"type":"text",
+			"text":"# [RunnableInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.runnables.RunnableInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-908,
+			"y":-1320,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"90dd0d9639955d90",
+			"type":"text",
+			"text":"# [StructuredToolInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.tools.StructuredToolInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":488,
+			"y":-1380,
+			"width":480,
+			"height":60
+		},
+		{
+			"id":"1a8ec5d426f1b82c",
+			"type":"text",
+			"text":"# [BaseRetrieverInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.retrievers.BaseRetrieverInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":488,
+			"y":-1220,
+			"width":480,
+			"height":60
+		},
+		{
+			"id":"f1f4b275f1ca8ff3",
+			"type":"text",
+			"text":"# [BaseLanguageModelInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.language_models_base.BaseLanguageModelInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":488,
+			"y":-1520,
+			"width":480,
+			"height":60
+		},
+		{
+			"id":"eb36b6b1b30b130a",
+			"type":"text",
+			"text":"# [ToolInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.tools.ToolInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1485,
+			"y":-1380,
+			"width":260,
 			"height":60
 		}
 	],
 	"edges":[
+		{
+			"id":"37180a88ce18a0ed",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"63e5fb5a57464207",
+			"fromSide":"bottom",
+			"toNode":"57f414442f88f50b",
+			"toSide":"top"
+		},
+		{
+			"id":"67dfab1c91471589",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"63e5fb5a57464207",
+			"fromSide":"right",
+			"toNode":"c27aa23a526b84f6",
+			"toSide":"left"
+		},
+		{
+			"id":"c8dfcb62da55c40f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"63e5fb5a57464207",
+			"fromSide":"right",
+			"toNode":"84445e373c0db4d9",
+			"toSide":"left"
+		},
+		{
+			"id":"4c9a59c23d50f96b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8b7016ffca59a3b1",
+			"fromSide":"top",
+			"toNode":"c27aa23a526b84f6",
+			"toSide":"bottom"
+		},
+		{
+			"id":"8f3e0f7ed4de6a6b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ca21feb00e30b7b7",
+			"fromSide":"top",
+			"toNode":"84445e373c0db4d9",
+			"toSide":"bottom"
+		},
+		{
+			"id":"6bb2e8ba3c946f07",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"aa672af9e8282e05",
+			"fromSide":"right",
+			"toNode":"6bd33a5af345e1b6",
+			"toSide":"left"
+		},
+		{
+			"id":"5058c3c298ed9e19",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84445e373c0db4d9",
+			"fromSide":"right",
+			"toNode":"c81bfc19b0e76def",
+			"toSide":"left"
+		},
+		{
+			"id":"3c5c255fdfc37a16",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c81bfc19b0e76def",
+			"fromSide":"right",
+			"toNode":"8534a3eda48a42e3",
+			"toSide":"left"
+		},
+		{
+			"id":"92a7ac8e2ecb27d3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c81bfc19b0e76def",
+			"fromSide":"right",
+			"toNode":"3dccf0f3fc293030",
+			"toSide":"left"
+		},
 		{
 			"id":"b99a002da989d5fa",
 			"styleAttributes":{},
@@ -105,6 +391,78 @@
 			"fromNode":"bc7a938b1c0272a6",
 			"fromSide":"right",
 			"toNode":"1a7e708430d59031",
+			"toSide":"left"
+		},
+		{
+			"id":"c22bdbef69377c0d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cdfc1b6293c3019c",
+			"fromSide":"right",
+			"toNode":"034797037025fe5b",
+			"toSide":"left"
+		},
+		{
+			"id":"6730da92e9463f79",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"034797037025fe5b",
+			"fromSide":"right",
+			"toNode":"5114e835135a91af",
+			"toSide":"left"
+		},
+		{
+			"id":"97065c991be2fd55",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"52408a62e25914ca",
+			"fromSide":"right",
+			"toNode":"5159da56216bd5e0",
+			"toSide":"left"
+		},
+		{
+			"id":"3515d53a1211b2bd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5159da56216bd5e0",
+			"fromSide":"right",
+			"toNode":"f1f4b275f1ca8ff3",
+			"toSide":"left"
+		},
+		{
+			"id":"9d51a61e3b12dff9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5159da56216bd5e0",
+			"fromSide":"right",
+			"toNode":"90dd0d9639955d90",
+			"toSide":"left"
+		},
+		{
+			"id":"e5d9988939ee6cac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5159da56216bd5e0",
+			"fromSide":"right",
+			"toNode":"1a8ec5d426f1b82c",
+			"toSide":"left"
+		},
+		{
+			"id":"63b6bdf04a9bf2f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"90dd0d9639955d90",
+			"fromSide":"right",
+			"toNode":"eb36b6b1b30b130a",
+			"toSide":"left"
+		},
+		{
+			"id":"98c2a5f2dbf19e9f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cdfc1b6293c3019c",
+			"fromSide":"right",
+			"toNode":"5913603d7d1a132b",
 			"toSide":"left"
 		}
 	],
