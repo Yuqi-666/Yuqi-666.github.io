@@ -12,3 +12,5 @@ summary: Langchain架构原理
 ---
 {{< toc mobile_only=true is_open=true >}}
 
+## Lanchain Core
+![](assets/_Canvas/langchain.canvas)

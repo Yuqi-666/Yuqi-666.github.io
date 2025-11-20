@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"5b897abfa1e322e6","type":"file","file":"content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas","x":-580,"y":-140,"width":400,"height":400},
+		{"id":"ef5d23d7c8418921","type":"file","file":"content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas","x":0,"y":-140,"width":400,"height":400},
+		{"id":"6466963e2ac7193d","type":"file","file":"content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas","x":580,"y":-140,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"0661ecf206776af1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5b897abfa1e322e6",
+			"fromSide":"right",
+			"toNode":"ef5d23d7c8418921",
+			"toSide":"left"
+		},
+		{
+			"id":"45dafb8ad6b62b14",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ef5d23d7c8418921",
+			"fromSide":"right",
+			"toNode":"6466963e2ac7193d",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
