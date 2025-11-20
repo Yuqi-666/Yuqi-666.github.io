@@ -34,4 +34,117 @@ mark.green {
   border-radius: 6px; /* 圆角效果 */
   transition: all 0.2s ease; /* hover时的过渡动画 */
 }
+/* 核心代码块容器 */
+.highlight {
+  background-color: #f1f3f9 !important; /* 背景色（替换为你想要的颜色） */
+  border: 1px solid #e9ecef !important;  /* 边框 */
+  border-radius: 8px !important;        /* 圆角 */
+  padding: 1rem !important;             /* 内边距 */
+  margin: 1.5rem 0 !important;          /* 上下外边距 */
+  overflow-x: auto !important;          /* 横向滚动（适配长代码） */
+}
 
+/* 代码块内的 pre 标签 */
+.highlight pre {
+  font-family: "Consolas", "Monaco", "Courier New", monospace !important; /* 等宽字体 */
+  font-size: 16px !important;          /* 字体大小 */
+  line-height: 1.6 !important;         /* 行高 */
+  color: #2d3748 !important;           /* 代码文字颜色 */
+  background: transparent !important;  /* 继承容器背景，避免重复 */
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* 代码块内的 code 标签 */
+.highlight code {
+  background: transparent !important;
+  padding: 0 !important;
+  font-size: inherit !important;
+  color: inherit !important;
+}
+@media (max-width: 768px) {
+  .highlight {
+    padding: 0.8rem !important;
+  }
+  .highlight pre {
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+  }
+}
+/* ====================== 1. 关键字（Keyword） ====================== */
+.chroma .k { color: #7c3aed !important; }        /* 通用关键字（如 if/else） */
+.chroma .kd { color: #7c3aed !important; }       /* 声明关键字（如 def/function） */
+.chroma .kc { color: #7c3aed !important; }       /* 常量关键字（如 true/false） */
+.chroma .kn { color: #7c3aed !important; }       /* 命名空间关键字（如 import/package） */
+.chroma .kp { color: #7c3aed !important; }       /* 运算符关键字（如 and/or） */
+.chroma .kr { color: #7c3aed !important; }       /* 保留关键字（如 return/break） */
+.chroma .kt { color: #7c3aed !important; }       /* 类型关键字（如 int/string） */
+
+/* ====================== 2. 字符串（String） ====================== */
+.chroma .s { color: #059669 !important; }        /* 通用字符串 */
+.chroma .s1 { color: #059669 !important; }       /* 单引号字符串（如 'hello'） */
+.chroma .s2 { color: #059669 !important; }       /* 双引号字符串（如 "hello"） */
+.chroma .sa { color: #059669 !important; }       /* 字符串转义符（如 \n/\t） */
+.chroma .sb { color: #059669 !important; }       /* 反引号字符串（如 `hello`） */
+.chroma .sc { color: #059669 !important; }       /* 字符（如 'a'） */
+.chroma .sd { color: #059669 !important; }       /* 文档字符串（如 Python 的 """注释"""） */
+.chroma .se { color: #059669 !important; }       /* 字符串结束符 */
+.chroma .sh { color: #059669 !important; }       /* 这里字符串（Here-doc） */
+.chroma .si { color: #059669 !important; }       /* 插值字符串（如 ${var}） */
+.chroma .sx { color: #059669 !important; }       /* 其他字符串 */
+
+/* ====================== 3. 注释（Comment） ====================== */
+.chroma .c { color: #6b7280 !important; font-style: italic !important; }  /* 通用注释 */
+.chroma .c1 { color: #6b7280 !important; font-style: italic !important; } /* 单行注释（//） */
+.chroma .cm { color: #6b7280 !important; font-style: italic !important; } /* 多行注释（/* ... * /） */
+.chroma .cp { color: #6b7280 !important; font-style: italic !important; } /* 文档注释（如 /** ... * /） */
+.chroma .cpf { color: #6b7280 !important; font-style: italic !important; }/* 注释中的格式符 */
+.chroma .cs { color: #6b7280 !important; font-style: italic !important; } /* 特殊注释（如 TODO） */
+
+/* ====================== 4. 函数 & 方法 ====================== */
+.chroma .f { color: #dc2626 !important; }        /* 通用函数 */
+.chroma .nf { color: #dc2626 !important; }       /* 函数名（如 funcName()） */
+.chroma .fm { color: #dc2626 !important; }       /* 方法名（如 obj.method()） */
+.chroma .fn { color: #dc2626 !important; }       /* 命名空间函数（如 math.abs） */
+
+/* ====================== 5. 数字（Number） ====================== */
+.chroma .m { color: #f97316 !important; }        /* 通用数字 */
+.chroma .mb { color: #f97316 !important; }       /* 二进制数（如 0b1010） */
+.chroma .mf { color: #f97316 !important; }       /* 浮点数（如 3.14） */
+.chroma .mh { color: #f97316 !important; }       /* 十六进制数（如 0xff） */
+.chroma .mi { color: #f97316 !important; }       /* 整数（如 123） */
+.chroma .mo { color: #f97316 !important; }       /* 八进制数（如 0o777） */
+
+/* ====================== 6. 变量 & 常量 ====================== */
+.chroma .v { color: #2563eb !important; }        /* 通用变量 */
+.chroma .nv { color: #2563eb !important; }       /* 普通变量（如 varName） */
+.chroma .nx { color: #2563eb !important; }       /* 普通变量（如 varName） */
+.chroma .vc { color: #2563eb !important; }       /* 类变量（如 self.var） */
+.chroma .vg { color: #2563eb !important; }       /* 全局变量 */
+.chroma .vi { color: #2563eb !important; }       /* 实例变量（如 this.var） */
+.chroma .no { color: #d946ef !important; }       /* 常量（如 PI/MAX_VALUE） */
+
+/* ====================== 7. 运算符（Operator） ====================== */
+.chroma .o { color: #f59e0b !important; }        /* 通用运算符（如 +-*/） */
+.chroma .ow { color: #f59e0b !important; }       /* 单词运算符（如 instanceof/in） */
+.chroma .p { color: #64748b !important; }        /* 标点符号（如 {}[](),.） */
+
+/* ====================== 8. 类型 & 类 ====================== */
+.chroma .nt { color: #10b981 !important; }       /* 标签名（HTML/XML） */
+.chroma .nc { color: #10b981 !important; }       /* 类名（如 class MyClass） */
+.chroma .nd { color: #10b981 !important; }       /* 装饰器/注解（如 @decorator） */
+.chroma .ni { color: #10b981 !important; }       /* 标识符（如 UUID/ID） */
+.chroma .ne { color: #10b981 !important; }       /* 异常类名（如 Exception/Error） */
+.chroma .nl { color: #10b981 !important; }       /* 行号（若开启 lineNos） */
+
+/* ====================== 9. 其他特殊 Token ====================== */
+.chroma .gd { color: #ef4444 !important; background-color: #fef2f2 !important; } /* 删除的代码 */
+.chroma .ge { font-style: italic !important; }                                   /* 强调文本 */
+.chroma .gr { color: #ef4444 !important; }                                       /* 错误文本 */
+.chroma .gh { color: #374151 !important; }                                       /* 标题文本 */
+.chroma .gi { color: #10b981 !important; background-color: #f0fdf4 !important; } /* 新增的代码 */
+.chroma .go { color: #6b7280 !important; }                                       /* 注释性文本 */
+.chroma .gp { color: #374151 !important; }                                       /* 提示文本 */
+.chroma .gs { font-weight: bold !important; }                                    /* 加粗文本 */
+.chroma .gu { color: #6366f1 !important; }                                       /* 未合并的文本 */
+.chroma .gt { color: #f97316 !important; }                                       /* 警告文本 */

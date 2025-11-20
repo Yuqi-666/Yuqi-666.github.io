@@ -6,3 +6,5 @@ go.sum
 hugo_stats.json
 package-lock.json
 content/zh/collection/book/**/*.pdf
+.obsidian\workspace-mobile.json
+.obsidian\workspace.json

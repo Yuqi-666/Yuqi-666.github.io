@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8eca6443fd8dd6aa",
+        "id": "4c1a2e6c50aff172",
         "type": "tabs",
         "children": [
           {
-            "id": "42259fdd4f6da985",
+            "id": "7e6058d81fcabcd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "content/zh/note/study/TypeScript/类型/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ced667e2723c6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7a38dd8b26bdfc2",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Hugo Preview"
             }
           }
         ]
@@ -183,35 +203,35 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "42259fdd4f6da985",
+  "active": "7e6058d81fcabcd7",
   "lastOpenFiles": [
+    "public/css/custom.min.7611c7f066f966f7bf4fdf8fc6ffe298d4a3e806745fd3214757c65faa413f54.css",
+    "public/css/custom.min.9c6561b9992156ab496d668c5b194e0f43284dcaeab9deaeb8b1525e336b23d6.css",
+    "public/css/custom.min.5f8c94a44c92b9a12598a122c1cdac76e833c157d805396447257eb5fdbda466.css",
+    "public/css/custom.min.81f57f221d07ab23f8111cf01feed2f8aa0c5afb148c73e819fe9b3da91c4668.css",
+    "public/css/custom.min.a9d2ca6b0a08d5090d4e717bf2a6488db1804b6490dbf7a9c25cd51239c261c1.css",
+    "public/css/custom.min.5ca8271b33425cf39163cc13027011a8218347e3c654979770cf4654a7e8c0cd.css",
+    "public/css/custom.min.b081869ee40780dfd7f0678c51fbdf3280fc1e2e193dfb4d3456b1c93ed12012.css",
+    "public/css/custom.min.54499d2556893d59d860e30dc08c8d0c0895a70eabd8c7a39a056268f2fc8ea4.css",
+    "public/css/custom.min.f2ddec94446e8734f5fd39e60a2893f35f6c0727f947bb559f5cf2ad654b76ed.css",
+    "public/css/custom.min.c35e7a128d5443aa937531ff408aecbeed9d6aef997f8035e966ebfffb968c38.css",
+    "public/css/custom.min.fb502ea10902dde0732690b1857843377fd34221990100f461568319f1ff3568.css",
+    "public/note/tech/个人效率自动化/assets/_Canvas/AI Plan Everything.canvas",
+    "public/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.svg",
+    "public/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything latest.canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything.canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
     "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
     "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything.canvas",
     "content/zh/achievement/project/AI-Plan-Everything/index.md",
     "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
     "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
     "content/zh/note/study/langchain/langchain架构原理/index.md",
     "content/zh/note/study/langchain/_index.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/note/study/TypeScript/_index.md",
-    "public/tags/langchain/index.xml",
-    "public/note/study/langchain/index.xml",
-    "public/categories/project/index.xml",
-    "public/tags/langchain/page/1/index.html",
-    "public/tags/langchain/page/1",
-    "public/tags/langchain/page",
-    "public/tags/langchain/index.html",
-    "public/tags/langchain",
-    "public/note/tech/个人效率自动化/assets/_Canvas/AI Plan Everything.canvas",
-    "public/note/tech/个人效率自动化/assets/_Canvas",
-    "public/note/study/langchain/langchain架构原理/index.html",
-    "public/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.svg",
-    "public/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything latest.canvas",
     "static/_templates/achievement/project.md",
     "static/_templates/note/humanity.md",
     "static/_templates/note/humanity 1.md",

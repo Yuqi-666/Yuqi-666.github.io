@@ -45,22 +45,52 @@
 			"height":60
 		},
 		{
-			"id":"1a8ec5d426f1b82c",
-			"type":"text",
-			"text":"# [BaseRetrieverInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.retrievers.BaseRetrieverInterface.html)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":488,
-			"y":-1220,
-			"width":480,
-			"height":60
-		},
-		{
 			"id":"f1f4b275f1ca8ff3",
 			"type":"text",
 			"text":"# [BaseLanguageModelInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.language_models_base.BaseLanguageModelInterface.html)",
 			"styleAttributes":{"textAlign":"center"},
 			"x":488,
 			"y":-1520,
+			"width":480,
+			"height":60
+		},
+		{
+			"id":"b7c9bde3738b9fdc",
+			"type":"text",
+			"text":"# [Runnable](https://reference.langchain.com/javascript/classes/_langchain_core.runnables.Runnable.html)\nA Runnable is a generic unit of work that can be invoked, batched, streamed, and/or transformed.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-908,
+			"y":-252,
+			"width":320,
+			"height":160
+		},
+		{
+			"id":"8c4b8b81fc40962d",
+			"type":"text",
+			"text":"# [BaseLangChain](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_base.BaseLangChain.html)\nBase class for language models, chains, tools.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-448,
+			"y":-252,
+			"width":280,
+			"height":160
+		},
+		{
+			"id":"5913603d7d1a132b",
+			"type":"text",
+			"text":"# [DynamicStructuredTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.DynamicStructuredTool.html)\nA tool that can be created dynamically from a function, name, and description, designed to work with structured data. It extends the StructuredTool class and overrides the _call method to execute the provided function when the tool is called.\n\nSchema can be passed as Zod or JSON schema. The tool will not validate input if JSON schema is passed.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2567,
+			"y":-560,
+			"width":482,
+			"height":319
+		},
+		{
+			"id":"1a8ec5d426f1b82c",
+			"type":"text",
+			"text":"# [BaseRetrieverInterface](https://reference.langchain.com/javascript/interfaces/_langchain_core.retrievers.BaseRetrieverInterface.html)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":488,
+			"y":-1220,
 			"width":480,
 			"height":60
 		},
@@ -73,16 +103,6 @@
 			"y":-460,
 			"width":317,
 			"height":200
-		},
-		{
-			"id":"b7c9bde3738b9fdc",
-			"type":"text",
-			"text":"# [Runnable](https://reference.langchain.com/javascript/classes/_langchain_core.runnables.Runnable.html)\nA Runnable is a generic unit of work that can be invoked, batched, streamed, and/or transformed.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-908,
-			"y":-252,
-			"width":320,
-			"height":160
 		},
 		{
 			"id":"cdfc1b6293c3019c",
@@ -155,16 +175,6 @@
 			"height":120
 		},
 		{
-			"id":"8c4b8b81fc40962d",
-			"type":"text",
-			"text":"# [BaseLangChain](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_base.BaseLangChain.html)\nBase class for language models, chains, tools.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-448,
-			"y":-252,
-			"width":280,
-			"height":160
-		},
-		{
 			"id":"5114e835135a91af",
 			"type":"text",
 			"text":"# [DynamicTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.DynamicTool.html)\nA tool that can be created dynamically from a function, name, and description.",
@@ -173,16 +183,6 @@
 			"y":-182,
 			"width":260,
 			"height":179
-		},
-		{
-			"id":"5913603d7d1a132b",
-			"type":"text",
-			"text":"# [DynamicStructuredTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.DynamicStructuredTool.html)\nA tool that can be created dynamically from a function, name, and description, designed to work with structured data. It extends the StructuredTool class and overrides the _call method to execute the provided function when the tool is called.\n\nSchema can be passed as Zod or JSON schema. The tool will not validate input if JSON schema is passed.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2567,
-			"y":-560,
-			"width":482,
-			"height":319
 		},
 		{
 			"id":"aa672af9e8282e05",
