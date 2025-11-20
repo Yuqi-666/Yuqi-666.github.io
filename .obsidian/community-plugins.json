@@ -13,5 +13,6 @@
   "dataview",
   "advanced-canvas",
   "node-graph",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-front-matter-title-plugin"
 ]

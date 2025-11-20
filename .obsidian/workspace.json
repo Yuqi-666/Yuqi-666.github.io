@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "static/_data/OKR/canvas_json/flutter.canvas",
+                "file": "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
                 "viewState": {
-                  "x": -8991.425687340932,
-                  "y": 205.004419255123,
-                  "zoom": -0.3027008197935989
+                  "x": 1229.2920211475584,
+                  "y": 497.1859249165981,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "flutter"
+              "title": "langchain"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "243be41168feee57",
@@ -179,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +204,25 @@
   },
   "active": "c35c7c4824d48a44",
   "lastOpenFiles": [
+    "static/_data/OKR/canvas_json/flutter.canvas",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
+    "conflict-files-obsidian-git.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.svg",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas",
+    "content/zh/note/study/langchain/langchain架构原理/index.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets",
+    "content/zh/note/study/langchain/_index.md",
+    "content/zh/note/study/langchain/langchain架构原理",
+    "content/zh/note/study/langchain",
+    "content/zh/note/study/TypeScript/泛型/index.md",
+    "content/zh/note/study/TypeScript/泛型",
     "static/_data/OKR/taskCache.json",
     "static/_temp/未命名 1.canvas",
     "static/_data/OKR/syncFile.json",
-    "static/_data/OKR/canvas_json/flutter.canvas",
     "static/_data/OKR/data_json/flutter.json",
     "public/_data/OKR/syncFile.json",
-    "canvas_json",
-    "data_json",
-    "tsv",
     "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.svg",
@@ -219,9 +231,6 @@
     "content/zh/note/study/TypeScript/类型/index.md",
     "content/zh/note/tech/个人效率自动化/index.md",
     "note/tech/使用hugo及hugo-blox搭建个人博客网站.md",
-    "note/tech",
-    "note",
-    "public/tags/前端/page/1/index.html",
     "public/_temp/未命名.canvas",
     "public/_temp/未命名 1.canvas",
     "public/_task/未命名.canvas",
@@ -243,19 +252,12 @@
     "static/_task/未命名.canvas",
     "content/zh/note/tech/test/index.md",
     "static/_templates/note/study.md",
-    "content/zh/note/study/lecture_B/_index.md",
-    "content/zh/note/study/lecture_A/_index.md",
-    "static/_diary/2025-11-01.md",
-    "static/_task/OKR.md",
-    "static/_task/task.md",
     "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.svg",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
     "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214810.png",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214749.png",
     "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214749.png",
     "public/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214742.png",
-    "content/zh/note/tech/模型结构化输出的tokens消耗比较/assets/Pasted image 20251101214742.png",
-    "public/_HOME/Home.canvas",
-    "static/_HOME/Home.canvas"
+    "public/_HOME/Home.canvas"
   ]
 }
