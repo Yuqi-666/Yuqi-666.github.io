@@ -15,10 +15,11 @@ summary: AI Plan Everything
 
 ## 技术栈
 
-- [TypeScript](/note/study/TypeScript)
-- [Langchain](/note/study/Langchain)
-
-## 项目架构图
+- [TypeScript](../../../note/study/TypeScript/_index.md)
+- [Langchain](../../../note/study/langchain/_index.md)
+## 当前任务规划
+![](assets/_Canvas/Task%20Plan.canvas)
+## 当前项目架构图
 ![](assets/_Canvas/AI%20Plan%20Everything%20latest.canvas)
 ## 项目路线
 ![](assets/_Canvas/AI%20Plan%20Everything.canvas)
@@ -29,3 +30,9 @@ summary: AI Plan Everything
 #### [MINDSEARCH: MIMICKING HUMAN MINDS ELICITS DEEP AI SEARCHER](../../../collection/paper/MindSearch/index.md)
 
 #### [FlowSearch: Advancing deep research with dynamic structured knowledge flow](../../../collection/paper/FlowSearch/index.md)
+
+
+## 代码
+
+### 类图
+

@@ -11,50 +11,37 @@
             "id": "7e6058d81fcabcd7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
-                "viewState": {
-                  "x": 430.3584086732095,
-                  "y": 681.7517430421456,
-                  "zoom": -1.4919194713862018
-                }
+                "file": "content/zh/note/study/TypeScript/面向对象/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "AI Plan Everything v1.0"
+              "icon": "lucide-file",
+              "title": "index"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3f2651ac9679d8a8",
+        "type": "tabs",
+        "children": [
           {
             "id": "552f690a69557ef4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
+                "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
                 "viewState": {
-                  "x": 20,
-                  "y": 890.6211180124224,
-                  "zoom": -1.035405336131199
+                  "x": 79.34776920011667,
+                  "y": 496.45096132125013,
+                  "zoom": -0.5286000581020438
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AI Plan Everything latest"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee194c766bbbc614",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0fee959ddb85de75",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hugo Preview"
+              "title": "AI Plan Everything v2.0"
             }
           }
         ]
@@ -114,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "243be41168feee57",
@@ -223,18 +210,42 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "7e6058d81fcabcd7",
+  "active": "552f690a69557ef4",
   "lastOpenFiles": [
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
     "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v3.0.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v3.0.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v2.0 1.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/类图.canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/类图.canvas",
     "content/zh/achievement/project/AI-Plan-Everything/index.md",
-    "public/achievement/project/ai-plan-everything/assets/Pasted image 20251121175527.png",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/Pasted image 20251121175527.png",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
+    "content/zh/note/study/TypeScript/面向对象/index.md",
+    "public/note/study/typescript/面向对象/index.html",
+    "public/note/study/typescript/面向对象/index-1/index.html",
+    "public/note/study/typescript/面向对象/index-1",
+    "public/note/study/typescript/面向对象",
+    "content/zh/note/study/TypeScript/泛型/index.md",
+    "content/zh/note/study/TypeScript/类型/index.md",
+    "content/zh/note/study/TypeScript/面向对象",
+    "content/zh/note/study/langchain/_Canvas/Task Plan.canvas",
+    "static/_data/OKR/canvas_json/flutter.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
+    "content/zh/note/study/langchain/_index.md",
+    "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/index.md",
+    "content/zh/note/tech/个人效率自动化/index.md",
     "content/zh/collection/paper/MindSearch/index.md",
+    "note/study/TypeScript.md",
+    "note/study",
+    "note",
+    "public/note/study/langchain/_canvas/Task Plan.canvas",
+    "public/note/study/langchain/_canvas/未命名.canvas",
+    "content/zh/note/study/langchain/langchain架构原理/index.md",
+    "content/zh/note/study/langchain/_Canvas/未命名.md",
+    "public/note/study/langchain/_canvas/未命名/index.html",
+    "public/note/study/langchain/_canvas/未命名",
+    "public/note/study/langchain/_canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/Task Plan.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/Pasted image 20251121175527.png",
+    "public/achievement/project/ai-plan-everything/assets/Pasted image 20251121175527.png",
     "content/zh/collection/paper/FlowSearch/index.md",
     "public/collection/paper/mindsearch/featured_hu_8493b2606fbcb978.webp",
     "public/collection/paper/mindsearch/featured_hu_ef00cdef32853efb.webp",
@@ -244,17 +255,7 @@
     "public/collection/paper/mindsearch/featured_hu_378b5576e10f6d70.webp",
     "resources/_gen/images/collection/paper/mindsearch/featured_hu_12a4327879c5b57f.webp",
     "public/collection/paper/mindsearch/featured_hu_157e60fd827a1405.webp",
-    "resources/_gen/images/collection/paper/mindsearch/assets",
-    "resources/_gen/images/collection/paper/mindsearch",
-    "public/collection/paper/mindsearch/assets",
-    "content/zh/collection/paper/MindSearch/assets",
     "content/zh/collection/paper/_index.md",
-    "public/collection/paper/mindsearch/index.html",
-    "public/collection/paper/mindsearch",
-    "content/zh/collection/paper/MindSearch",
-    "resources/_gen/images/collection/paper/flowsearch/assets",
-    "resources/_gen/images/collection/paper/flowsearch",
-    "resources/_gen/images/collection/paper",
     "content/zh/collection/paper/FlowSearch.md",
     "content/zh/achievement/project/_index.md",
     "content/zh/collection/site/_index.md",
@@ -266,20 +267,6 @@
     "content/zh/collection/book/_index.md",
     "static/_templates/achievement/project.md",
     "static/_templates/achievement/exam.md",
-    "static/_templates/diary.md",
-    "static/_data/OKR/canvas_json/flutter.canvas",
-    "content/zh/note/study/TypeScript/类型/index.md",
-    "public/note/tech/个人效率自动化/assets/_Canvas/AI Plan Everything.canvas",
-    "public/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/AI Plan Everything latest.canvas",
-    "content/zh/note/study/langchain/langchain架构原理/index.md",
-    "content/zh/note/study/langchain/_index.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
-    "content/zh/note/study/TypeScript/_index.md",
-    "static/_templates/note/humanity.md",
-    "static/_templates/note/humanity 1.md",
-    "static/_templates/note/tech.md",
-    "conflict-files-obsidian-git.md"
+    "static/_templates/diary.md"
   ]
 }
