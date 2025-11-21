@@ -71,6 +71,10 @@ main:
     url: collection/book/
     weight: 2
     parent: 收藏
+  - name: 论文
+    url: collection/paper/
+    weight: 3
+    parent: 收藏
 
   - name: 标签
     url: tags/

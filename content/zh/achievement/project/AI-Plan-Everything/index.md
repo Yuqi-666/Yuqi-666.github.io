@@ -24,3 +24,8 @@ summary: AI Plan Everything
 ![](assets/_Canvas/AI%20Plan%20Everything.canvas)
 ## 版本前瞻
 ![](assets/_Canvas/AI%20Plan%20Everything%20v2.0.canvas)
+## 相关资源
+
+#### [MINDSEARCH: MIMICKING HUMAN MINDS ELICITS DEEP AI SEARCHER](../../../collection/paper/MindSearch/index.md)
+
+#### [FlowSearch: Advancing deep research with dynamic structured knowledge flow](../../../collection/paper/FlowSearch/index.md)

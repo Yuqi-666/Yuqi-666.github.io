@@ -119,6 +119,26 @@
 			"height":60
 		},
 		{
+			"id":"48ed76b61d9b080e",
+			"type":"text",
+			"text":"# 指导文件",
+			"styleAttributes":{},
+			"x":-860,
+			"y":575,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e7d1dadcea6d1e6d",
+			"type":"text",
+			"text":"# 分析文件",
+			"styleAttributes":{},
+			"x":-860,
+			"y":280,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"9b220eb7ce33bc50",
 			"type":"text",
 			"text":"# Reminder",
@@ -235,26 +255,6 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":-1940,
 			"y":795,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"48ed76b61d9b080e",
-			"type":"text",
-			"text":"# 指导文件",
-			"styleAttributes":{},
-			"x":-860,
-			"y":575,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e7d1dadcea6d1e6d",
-			"type":"text",
-			"text":"# 分析文件",
-			"styleAttributes":{},
-			"x":-860,
-			"y":280,
 			"width":260,
 			"height":60
 		}
