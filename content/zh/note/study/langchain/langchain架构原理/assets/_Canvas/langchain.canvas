@@ -95,16 +95,6 @@
 			"height":60
 		},
 		{
-			"id":"1a7e708430d59031",
-			"type":"text",
-			"text":"# [BaseChatModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_chat_models.BaseChatModel.html)\nBase class for chat models. It extends the BaseLanguageModel class and provides methods for generating chat based on input messages.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1457,
-			"y":-460,
-			"width":317,
-			"height":200
-		},
-		{
 			"id":"cdfc1b6293c3019c",
 			"type":"text",
 			"text":"# [StructuredTool](https://reference.langchain.com/javascript/classes/_langchain_core.tools.StructuredTool.html)\nBase class for Tools that accept input of any shape defined by a Zod schema.",
@@ -263,6 +253,26 @@
 			"y":1045,
 			"width":392,
 			"height":60
+		},
+		{
+			"id":"1a7e708430d59031",
+			"type":"text",
+			"text":"# [BaseChatModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_chat_models.BaseChatModel.html)\nBase class for chat models. It extends the BaseLanguageModel class and provides methods for generating chat based on input messages.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1457,
+			"y":-760,
+			"width":317,
+			"height":200
+		},
+		{
+			"id":"3969d8c5e956cb06",
+			"type":"text",
+			"text":"# [SimpleChatModel](https://reference.langchain.com/javascript/classes/_langchain_core.language_models_chat_models.SimpleChatModel.html)\nAn abstract class that extends BaseChatModel and provides a simple implementation of _generate.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2040,
+			"y":-800,
+			"width":340,
+			"height":240
 		}
 	],
 	"edges":[
@@ -463,6 +473,15 @@
 			"fromNode":"cdfc1b6293c3019c",
 			"fromSide":"right",
 			"toNode":"5913603d7d1a132b",
+			"toSide":"left"
+		},
+		{
+			"id":"607ddb003b7ddd8e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1a7e708430d59031",
+			"fromSide":"right",
+			"toNode":"3969d8c5e956cb06",
 			"toSide":"left"
 		}
 	],

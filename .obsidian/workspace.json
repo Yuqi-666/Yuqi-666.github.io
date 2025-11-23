@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1a2e6c50aff172",
+        "id": "8eca6443fd8dd6aa",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6058d81fcabcd7",
+            "id": "42259fdd4f6da985",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
+                "file": "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
                 "viewState": {
-                  "x": 453.35395540178104,
-                  "y": -249.68066264233488,
-                  "zoom": -0.6666666666666667
+                  "x": 2077.5999999999995,
+                  "y": -729,
+                  "zoom": -1.2558881567773366
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Class Graph"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3f2651ac9679d8a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "552f690a69557ef4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-                "viewState": {
-                  "x": 119.1981859919074,
-                  "y": 601.8312661414093,
-                  "zoom": -0.8619333914353771
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AI Plan Everything v2.0"
+              "title": "langchain"
             }
           }
         ]
@@ -104,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 300
   },
   "right": {
     "id": "243be41168feee57",
@@ -213,62 +190,62 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "7e6058d81fcabcd7",
+  "active": "42259fdd4f6da985",
   "lastOpenFiles": [
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
-    "content/zh/note/study/TypeScript/面向对象/index.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/类图.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/index.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
-    "public/note/study/typescript/面向对象/index.html",
-    "public/note/study/typescript/面向对象/index-1/index.html",
-    "public/note/study/typescript/面向对象/index-1",
-    "public/note/study/typescript/面向对象",
-    "content/zh/note/study/TypeScript/泛型/index.md",
-    "content/zh/note/study/TypeScript/类型/index.md",
-    "content/zh/note/study/TypeScript/面向对象",
-    "content/zh/note/study/langchain/_Canvas/Task Plan.canvas",
-    "static/_data/OKR/canvas_json/flutter.canvas",
-    "content/zh/note/study/langchain/_index.md",
-    "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/index.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
-    "content/zh/collection/paper/MindSearch/index.md",
-    "note/study/TypeScript.md",
-    "note/study",
-    "note",
-    "public/note/study/langchain/_canvas/Task Plan.canvas",
     "content/zh/note/study/langchain/langchain架构原理/index.md",
-    "content/zh/note/study/langchain/_Canvas/未命名.md",
-    "public/note/study/langchain/_canvas/未命名/index.html",
-    "public/note/study/langchain/_canvas/未命名",
-    "public/note/study/langchain/_canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/Pasted image 20251121175527.png",
-    "public/achievement/project/ai-plan-everything/assets/Pasted image 20251121175527.png",
-    "content/zh/collection/paper/FlowSearch/index.md",
-    "public/collection/paper/mindsearch/featured_hu_8493b2606fbcb978.webp",
+    "content/zh/note/study/计算机导论/程序设计/index.md",
+    "content/zh/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
+    "public/collection/paper/mindsearch/index.html",
+    "public/collection/paper/mindsearch/featured_hu_cfc37a5860ccb5b6.webp",
+    "public/collection/paper/mindsearch/featured_hu_971553b76f35ae3.webp",
     "public/collection/paper/mindsearch/featured_hu_ef00cdef32853efb.webp",
-    "resources/_gen/images/collection/paper/mindsearch/featured_hu_ef00cdef32853efb.webp",
-    "public/collection/paper/mindsearch/featured_hu_12a4327879c5b57f.webp",
+    "public/collection/paper/mindsearch/featured_hu_a7ec7c0dd7a39b27.webp",
+    "public/collection/paper/mindsearch/featured_hu_7c378a74d8c50ea4.webp",
     "public/collection/paper/mindsearch/featured_hu_6518f4abd70bc2de.webp",
+    "public/collection/paper/mindsearch/featured_hu_8493b2606fbcb978.webp",
     "public/collection/paper/mindsearch/featured_hu_378b5576e10f6d70.webp",
-    "resources/_gen/images/collection/paper/mindsearch/featured_hu_12a4327879c5b57f.webp",
-    "public/collection/paper/mindsearch/featured_hu_157e60fd827a1405.webp",
-    "content/zh/collection/paper/_index.md",
-    "content/zh/collection/paper/FlowSearch.md",
-    "content/zh/achievement/project/_index.md",
-    "content/zh/collection/site/_index.md",
-    "public/_templates/collection/paper.md",
+    "public/collection/paper/flowsearch/featured_hu_fc8974e4c6bd1752.webp",
+    "public/collection/paper/mindsearch/featured_hu_39051ef24b58dde8.webp",
+    "public/collection/paper/flowsearch/index.html",
+    "public/collection/paper/index.html",
+    "public/collection/paper/mindsearch",
+    "public/collection/paper/index.xml",
+    "public/collection/paper/flowsearch",
+    "public/collection/paper",
+    "content/zh/note/study/计算机导论/程序设计/assets/_Canvas",
+    "content/zh/note/study/计算机导论/程序设计/assets",
+    "content/zh/note/study/_index.md",
+    "content/zh/note/study/langchain/_index.md",
+    "content/zh/note/study/计算机导论/_index 1.md",
+    "content/zh/note/study/计算机导论/程序设计/未命名.md",
+    "content/zh/note/study/计算机导论/程序设计",
+    "content/zh/note/study/langchain/_Canvas/Task Plan.canvas",
+    "public/note/study/langchain/_Canvas/Task Plan.canvas",
     "static/_templates/collection/paper.md",
-    "public/_templates/collection/site copy.md",
-    "static/_templates/collection/site copy.md",
-    "content/zh/collection/article/_index.md",
-    "content/zh/collection/book/_index.md",
+    "content/zh/note/study/TypeScript/面向对象/index.md",
+    "content/zh/collection/paper/_index.md",
+    "content/zh/collection/paper/MindSearch/index.md",
+    "content/zh/collection/paper/FlowSearch/index.md",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/index.md",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "content/zh/note/study/TypeScript/_index.md",
     "static/_templates/achievement/project.md",
-    "static/_templates/achievement/exam.md",
-    "static/_templates/diary.md"
+    "static/_templates/note/humanity.md",
+    "static/_templates/note/humanity 1.md",
+    "static/_templates/note/tech.md",
+    "content/zh/achievement/project/_index.md",
+    "conflict-files-obsidian-git.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.md",
+    "content/zh/note/study/TypeScript/泛型/index.md",
+    "content/zh/note/study/lecture_A/chapter_1/index.md",
+    "content/zh/note/study/lecture_B/_index.md",
+    "content/zh/note/study/TypeScript/类型/index.md"
   ]
 }
