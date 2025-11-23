@@ -194,8 +194,8 @@
         "state": {
           "type": "copilot-chat-view",
           "state": {},
-          "icon": "message-square",
-          "title": "Copilot"
+          "icon": "lucide-ghost",
+          "title": "copilot-chat-view"
         }
       },
       {
@@ -223,8 +223,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "quickadd:QuickAdd": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2006f127eb0e6aa0",
