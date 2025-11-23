@@ -316,3 +316,197 @@ student.getInfo(); // 正常：姓名：小明，学号：S1001
 4. **灵活性**：结合泛型、接口、装饰器，让子类适配更多场景（多态、元编程等）。
 
 以上维度可单独使用，也可组合（如“泛型子类 + 接口实现 + 装饰器”），覆盖绝大多数 TS 面向对象的拓展需求。
+
+
+
+# 合并类
+在 TypeScript 中合并两个类（Class Merging）主要有 **3 种核心场景**，分别对应不同的需求（复用逻辑、组合实例、扩展静态成员），下面结合具体场景和代码示例详细说明：
+
+
+## 一、场景 1：复用类逻辑（继承 + 混入 Mixin）
+如果需要让一个类「继承多个类的实例方法/属性」（TS 不支持多继承，但可通过 **混入（Mixin）** 实现），这是最常见的类合并场景。
+
+### 核心原理
+通过函数动态将多个类的原型方法“拷贝”到目标类，实现多类逻辑复用。
+
+### 实现步骤
+1. 定义基础类（被合并的类）；
+2. 编写混入工具函数（处理类型和原型拷贝）；
+3. 目标类通过混入继承多个基础类的逻辑。
+
+### 代码示例
+```typescript
+// 1. 定义被合并的基础类（无构造函数依赖）
+class Walkable {
+  walk() {
+    console.log("正在行走");
+  }
+  speed = 5; // 实例属性
+}
+
+class Swimmable {
+  swim() {
+    console.log("正在游泳");
+  }
+  depth = 10; // 实例属性
+}
+
+// 2. 混入工具函数（通用实现，可复用）
+type Constructor = new (...args: any[]) => {}; // 基础构造函数类型
+
+// 接收多个类，返回一个新的构造函数（合并所有类的原型）
+function mixin<T extends Constructor[]>(...baseClasses: T) {
+  // 中间类，用于承载合并后的逻辑
+  class MixedClass {}
+
+  // 遍历所有基础类，拷贝原型方法/属性到 MixedClass
+  baseClasses.forEach((base) => {
+    Object.getOwnPropertyNames(base.prototype).forEach((prop) => {
+      if (prop !== "constructor") {
+        MixedClass.prototype[prop] = base.prototype[prop];
+      }
+    });
+
+    // 拷贝静态属性/方法（如果需要）
+    Object.getOwnPropertyNames(base).forEach((prop) => {
+      if (prop !== "prototype" && prop !== "constructor") {
+        (MixedClass as any)[prop] = (base as any)[prop];
+      }
+    });
+  });
+
+  return MixedClass as unknown as Constructor & UnionToIntersection<InstanceType<T[number]>>;
+}
+
+// 辅助类型：将联合类型转为交叉类型（获取所有类的实例类型合并）
+type UnionToIntersection<U> = (U extends any ? (k: U) => void : never) extends (k: infer I) => void ? I : never;
+
+// 3. 目标类：通过混入合并 Walkable 和 Swimmable
+class Person extends mixin(Walkable, Swimmable) {
+  name: string;
+  constructor(name: string) {
+    super(); // 必须调用 super()（混入类的构造函数）
+    this.name = name;
+  }
+}
+
+// 使用示例
+const p = new Person("小明");
+p.walk(); // 继承 Walkable：正在行走
+p.swim(); // 继承 Swimmable：正在游泳
+console.log(p.speed); // 5（继承实例属性）
+console.log(p.depth); // 10（继承实例属性）
+```
+
+### 注意事项
+- 基础类**尽量避免复杂构造函数**（如果有构造函数参数，需要在混入时统一处理）；
+- 若多个基础类有同名方法，**后面的类会覆盖前面的类**（按混入顺序优先级）；
+- 混入本质是“原型拷贝”，不是真正的多继承，不影响原型链层级。
+
+
+## 二、场景 2：组合两个类的实例（对象合并）
+如果已有两个类的实例，需要将它们的**实例属性/方法合并为一个新对象**（不修改原实例），可使用 `Object.assign` 或扩展运算符 `...`。
+
+### 代码示例
+```typescript
+class A {
+  a = 1;
+  methodA() {
+    console.log("A 的方法");
+  }
+}
+
+class B {
+  b = 2;
+  methodB() {
+    console.log("B 的方法");
+  }
+}
+
+// 方式 1：Object.assign（浅拷贝，合并实例）
+const instanceA = new A();
+const instanceB = new B();
+const mergedInstance = Object.assign({}, instanceA, instanceB);
+
+mergedInstance.methodA(); // A 的方法
+mergedInstance.methodB(); // B 的方法
+console.log(mergedInstance.a); // 1
+console.log(mergedInstance.b); // 2
+
+// 方式 2：扩展运算符（更简洁，同样浅拷贝）
+const mergedInstance2 = { ...instanceA, ...instanceB };
+```
+
+### 注意事项
+- 仅合并**实例的自身属性/方法**（不包含原型链上的属性，除非显式挂载在实例上）；
+- 同名属性/方法会被**后面的实例覆盖**；
+- 是浅拷贝，若属性是引用类型（如对象、数组），会共享引用。
+
+
+## 三、场景 3：合并类的静态成员（Static Merging）
+如果需要合并两个类的**静态属性/方法**（无需实例化即可调用），可直接通过赋值或工具函数实现。
+
+### 代码示例
+```typescript
+// 定义两个带静态成员的类
+class MathUtil {
+  static add(a: number, b: number) {
+    return a + b;
+  }
+  static PI = 3.14;
+}
+
+class StringUtil {
+  static upperCase(str: string) {
+    return str.toUpperCase();
+  }
+  static EMPTY = "";
+}
+
+// 方式 1：直接赋值合并静态成员
+class CombinedUtil {
+  // 拷贝 MathUtil 的静态成员
+  static add = MathUtil.add;
+  static PI = MathUtil.PI;
+  // 拷贝 StringUtil 的静态成员
+  static upperCase = StringUtil.upperCase;
+  static EMPTY = StringUtil.EMPTY;
+}
+
+// 方式 2：工具函数批量合并（更通用）
+function mergeStatic<T extends Record<string, any>, U extends Record<string, any>>(
+  target: T,
+  ...sources: U[]
+): T & U {
+  sources.forEach((source) => {
+    Object.getOwnPropertyNames(source).forEach((key) => {
+      if (key !== "prototype" && key !== "constructor") {
+        (target as any)[key] = (source as any)[key];
+      }
+    });
+  });
+  return target as T & U;
+}
+
+// 使用工具函数合并
+const MergedUtil = mergeStatic({}, MathUtil, StringUtil);
+
+// 调用合并后的静态成员
+console.log(CombinedUtil.add(1, 2)); // 3
+console.log(CombinedUtil.upperCase("hello")); // HELLO
+console.log(MergedUtil.PI); // 3.14
+console.log(MergedUtil.EMPTY); // ""
+```
+
+
+## 四、关键总结
+| 场景 | 实现方式 | 核心特点 |
+|------|----------|----------|
+| 复用多类实例逻辑 | 混入（Mixin） | 目标类继承多个类的原型方法/属性，类型安全 |
+| 合并已有实例 | Object.assign / 扩展运算符 | 浅拷贝实例属性，不修改原实例 |
+| 合并静态成员 | 直接赋值 / 工具函数 | 无需实例化，共享静态方法/属性 |
+
+### 选型建议
+- 若需长期复用多类逻辑 → 优先用 **混入（Mixin）**；
+- 若仅需临时合并两个实例 → 用 **Object.assign / 扩展运算符**；
+- 若需共享静态工具方法 → 用 **静态成员合并**。
