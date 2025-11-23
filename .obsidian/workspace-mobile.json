@@ -11,12 +11,14 @@
             "id": "2006f127eb0e6aa0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg"
+                "file": "content/zh/achievement/project/AI-Plan-Everything/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Drawing 2025-10-31 14.46.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -228,6 +230,7 @@
   },
   "active": "2006f127eb0e6aa0",
   "lastOpenFiles": [
+    "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.svg",
     "content/zh/note/tech/个人效率自动化/assets/_Drawing/Drawing 2025-10-31 14.46.26.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.svg",
     "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
