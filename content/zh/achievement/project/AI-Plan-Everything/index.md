@@ -35,4 +35,5 @@ summary: AI Plan Everything
 ## 代码
 
 ### 类图
+![](assets/_Canvas/Class%20Graph.canvas)
 

@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"9567116b5945a333","type":"group","x":-3040,"y":-40,"width":1920,"height":1760,"color":"2","label":"AI Agent"},
-		{"id":"6521049cafdd8deb","type":"group","x":-3040,"y":1840,"width":1920,"height":1120,"color":"1","label":"Deep Reasearch"},
 		{"id":"120ddd6945e91ce4","type":"group","x":-340,"y":-40,"width":1340,"height":760,"color":"5","label":"数据层"},
-		{"id":"877c0aeffa38046a","type":"group","x":-2920,"y":200,"width":340,"height":1315,"label":"Prompt"},
 		{"id":"0c14cabd046c82d0","type":"group","x":-800,"y":-40,"width":440,"height":760,"color":"3","label":"文档"},
 		{"id":"0e956104ffe4bbe9","type":"group","x":-800,"y":1175,"width":1800,"height":105,"color":"4","label":"用户交互层"},
-		{"id":"a9b8b005a07c5e71","type":"group","x":1220,"y":540,"width":760,"height":200,"color":"2","label":"AI Agent"},
 		{"id":"add6bd5dd97b0836","type":"group","x":-800,"y":835,"width":805,"height":180,"color":"6","label":"快捷指令层"},
+		{"id":"6521049cafdd8deb","type":"group","x":-3040,"y":1840,"width":1920,"height":1120,"color":"1","label":"Deep Reasearch"},
+		{"id":"877c0aeffa38046a","type":"group","x":-2920,"y":200,"width":340,"height":1315,"label":"Prompt"},
+		{"id":"a9b8b005a07c5e71","type":"group","x":1220,"y":540,"width":760,"height":200,"color":"2","label":"AI Agent"},
 		{"id":"9b9372e0c4bf4a8b","type":"group","x":-1980,"y":60,"width":400,"height":200,"label":"iCloud"},
 		{
 			"id":"51b854759dfa499f",
@@ -16,16 +16,6 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2880,
 			"y":225,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2848911e197fa397",
-			"type":"text",
-			"text":"# TSV数据文件",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-285,
-			"y":80,
 			"width":260,
 			"height":60
 		},
@@ -92,76 +82,6 @@
 			"height":60
 		},
 		{
-			"id":"8e1cf92a2ee10cec",
-			"type":"text",
-			"text":"# 分析文件",
-			"styleAttributes":{},
-			"x":-720,
-			"y":140,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ac4193ba94fcacf3",
-			"type":"text",
-			"text":"# 指导文件",
-			"styleAttributes":{},
-			"x":-720,
-			"y":480,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"caab1c5c18b323d8",
-			"type":"text",
-			"text":"# Data Json",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-285,
-			"y":340,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1afeaf3fb263c1bf",
-			"type":"text",
-			"text":"# Canvas Json",
-			"styleAttributes":{"textAlign":"center"},
-			"x":85,
-			"y":340,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a7bc290603637b07",
-			"type":"text",
-			"text":"# 任务缓存文件",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-285,
-			"y":620,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"abf8d6bb347f3714",
-			"type":"text",
-			"text":"# Log file",
-			"styleAttributes":{"textAlign":"center"},
-			"x":640,
-			"y":590,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"48edd3a910319b72",
-			"type":"text",
-			"text":"# Timer Agent call",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-630,
-			"y":855,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"049c54877a1aa276",
 			"type":"text",
 			"text":"# User Docs tool",
@@ -199,36 +119,6 @@
 			"x":-1940,
 			"y":290,
 			"width":320,
-			"height":60
-		},
-		{
-			"id":"0a7bdde12206c4a3",
-			"type":"text",
-			"text":"# Agent call",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-630,
-			"y":935,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"bb05a305c3d007d2",
-			"type":"text",
-			"text":"# Task Cache edit",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-285,
-			"y":935,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"cc36528563981755",
-			"type":"text",
-			"text":"# AI Agent",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-630,
-			"y":1195,
-			"width":260,
 			"height":60
 		},
 		{
@@ -274,6 +164,86 @@
 			"height":60
 		},
 		{
+			"id":"a07f48e63e2cd23c",
+			"type":"text",
+			"text":"# ToDoList tool",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1940,
+			"y":1455,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"495820b3c9a3ea43",
+			"type":"text",
+			"text":"# User Docs tool",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1940,
+			"y":1335,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a5f45dee80ad9bea",
+			"type":"text",
+			"text":"# Node Graph tool",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1940,
+			"y":1575,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ac4193ba94fcacf3",
+			"type":"text",
+			"text":"# 指导文件",
+			"styleAttributes":{},
+			"x":-720,
+			"y":480,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"48edd3a910319b72",
+			"type":"text",
+			"text":"# Timer Agent call",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-630,
+			"y":855,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0a7bdde12206c4a3",
+			"type":"text",
+			"text":"# Agent call",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-630,
+			"y":935,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bb05a305c3d007d2",
+			"type":"text",
+			"text":"# Task Cache edit",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-285,
+			"y":935,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cc36528563981755",
+			"type":"text",
+			"text":"# AI Agent",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-630,
+			"y":1195,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"98473da0ea769c38",
 			"type":"text",
 			"text":"# Time record",
@@ -304,32 +274,62 @@
 			"height":60
 		},
 		{
-			"id":"a07f48e63e2cd23c",
+			"id":"2848911e197fa397",
 			"type":"text",
-			"text":"# ToDoList tool",
+			"text":"# TSV数据文件",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1940,
-			"y":1455,
+			"x":-285,
+			"y":80,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"495820b3c9a3ea43",
+			"id":"8e1cf92a2ee10cec",
 			"type":"text",
-			"text":"# User Docs tool",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1940,
-			"y":1335,
+			"text":"# 分析文件",
+			"styleAttributes":{},
+			"x":-720,
+			"y":140,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"a5f45dee80ad9bea",
+			"id":"caab1c5c18b323d8",
 			"type":"text",
-			"text":"# Node Graph tool",
+			"text":"# Data Json",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1940,
-			"y":1575,
+			"x":-285,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1afeaf3fb263c1bf",
+			"type":"text",
+			"text":"# Canvas Json",
+			"styleAttributes":{"textAlign":"center"},
+			"x":85,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a7bc290603637b07",
+			"type":"text",
+			"text":"# 任务缓存文件",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-285,
+			"y":620,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"abf8d6bb347f3714",
+			"type":"text",
+			"text":"# Log file",
+			"styleAttributes":{"textAlign":"center"},
+			"x":640,
+			"y":590,
 			"width":260,
 			"height":60
 		}
