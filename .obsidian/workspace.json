@@ -32,17 +32,29 @@
               "state": {
                 "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
                 "viewState": {
-                  "x": 652.9551833676455,
-                  "y": 558.4768745556011,
-                  "zoom": -0.5437239135931388
+                  "x": -1.910423775615186,
+                  "y": 455.72043644712335,
+                  "zoom": -0.3214592330450416
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Class Graph"
             }
+          },
+          {
+            "id": "e4648fe71a5b595e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-25 16.38.33.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,12 +219,16 @@
       "node-graph:Node Graph": false
     }
   },
-  "active": "3f24e1ac99589ab8",
+  "active": "e4648fe71a5b595e",
   "lastOpenFiles": [
-    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
+    "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.svg",
     "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
+    "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.md",
     "content/zh/achievement/project/AI-Plan-Everything/index.md",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
+    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
+    "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
     "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
     "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.svg",
     "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.md",
@@ -260,9 +276,6 @@
     "content/zh/collection/site/_index.md",
     "public/_templates/collection/paper.md",
     "static/_templates/collection/paper.md",
-    "public/_templates/collection/site copy.md",
-    "static/_templates/collection/site copy.md",
-    "content/zh/collection/article/_index.md",
-    "content/zh/collection/book/_index.md"
+    "public/_templates/collection/site copy.md"
   ]
 }
