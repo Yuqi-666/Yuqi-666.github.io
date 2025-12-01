@@ -82,7 +82,6 @@ a
 {{% include "snippet/intro" %}}
 
 
-
 {{< table path="results.csv" header="true" >}}
 
 
