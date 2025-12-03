@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "D:\\Downloads",
+    "exportPath": "D:\\projects\\task_node_graph",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,

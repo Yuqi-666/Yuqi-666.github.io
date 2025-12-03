@@ -4,86 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1a2e6c50aff172",
+        "id": "c9ad1974a38260dd",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6058d81fcabcd7",
+            "id": "4fb837e1186697e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
-                "viewState": {
-                  "x": 343.7889348245503,
-                  "y": -142.3090778492734,
-                  "zoom": -0.9099648544391985
-                }
+                "file": "content/zh/note/study/electron/基础/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Class Graph"
-            }
-          },
-          {
-            "id": "3f24e1ac99589ab8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-25 16.38.33.excalidraw"
-            }
-          },
-          {
-            "id": "e4648fe71a5b595e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "static/_data/OKR/canvas_json/flutter.canvas",
-                "viewState": {
-                  "x": -4998.150397995984,
-                  "y": 1389.8979024637767,
-                  "zoom": -0.6666666666666667
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "flutter"
-            }
-          },
-          {
-            "id": "88413f7c1a99b6a6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-25 16.38.33.excalidraw"
-            }
-          },
-          {
-            "id": "28ddd29b0569450f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "content/zh/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
-                "viewState": {
-                  "x": 54.911856799971815,
-                  "y": -221.21260268878532,
-                  "zoom": -0.3333333333333332
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "程序设计"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "243be41168feee57",
@@ -204,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/zh/achievement/project/AI-Plan-Everything/index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -228,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,67 +185,66 @@
       "obsidian-git:Open Git source control": false,
       "webpage-html-export:导出为HTML": false,
       "node-graph:Node Graph": false,
-      "media-extended:Open external media": false,
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "28ddd29b0569450f",
+  "active": "4fb837e1186697e6",
   "lastOpenFiles": [
-    "content/zh/note/study/计算机导论/程序设计/index.md",
-    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
-    "static/_OKR/O_resources/学会flutter开发.md",
+    "content/zh/note/study/electron/基础/assets/Pasted image 20251203185224.png",
+    "content/zh/note/study/electron/基础/assets/Pasted image 20251203160034.png",
+    "content/zh/note/study/electron/基础/assets",
+    "content/zh/note/study/electron/_index.md",
+    "content/zh/note/study/electron/基础/index.md",
+    "content/zh/note/study/langchain/langchain架构原理/index.md",
+    "content/zh/note/study/electron/基础",
+    "content/zh/note/study/langchain/_Canvas/Task Plan.canvas",
+    "content/zh/note/study/langchain/_index.md",
+    "content/zh/note/study/react/基础/index.md",
+    "content/zh/note/study/electron",
+    "content/zh/note/study/react/基础/assets/Pasted image 20251203124111.png",
+    "content/zh/note/study/react/基础/assets/Pasted image 20251203124109.png",
+    "content/zh/note/study/react/_index.md",
+    "content/zh/note/study/react/核心概念/index.md",
+    "content/zh/note/study/TypeScript/面向对象/index.md",
     "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.svg",
     "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
-    "content/zh/note/study/TypeScript/面向对象/index.md",
-    "content/zh/note/study/计算机导论/_index 1.md",
-    "content/zh/note/study/react/基础/index.md",
-    "content/zh/note/study/TypeScript/_index.md",
-    "content/zh/note/study/_index.md",
-    "content/zh/collection/site/hello-algo/index.md",
-    "content/zh/collection/site/hello-algo/featured.jpg",
-    "content/zh/achievement/project/AI-Plan-Everything/index.md",
-    "static/_templates/note/humanity.md",
-    "static/_data/OKR/canvas_json/flutter.canvas",
+    "layouts/_markup/render-link.html",
+    "layouts/_markup/render-image.html",
+    "layouts/_markup",
+    "content/zh/note/tech/css布局/index.md",
+    "content/zh/note/tech/css布局",
+    "content/zh/note/tech/AIagent设计模式/assets/task_node_graph.html",
+    "content/zh/note/tech/AIagent设计模式/assets",
+    "content/zh/note/tech/AIagent设计模式/index.md",
+    "content/zh/note/tech/AIagent设计模式",
     "content/zh/note/study/react/基础/assets/{738DF0D6-7395-4B03-9695-7FEEDE3E2FBC}.png",
-    "content/zh/note/study/react/基础/assets",
-    "content/zh/note/study/react/核心概念/index.md",
-    "content/zh/note/study/react/_index.md",
-    "content/zh/note/study/react/基础",
-    "public/author/yuqi-666/avatar_hu_2c9415c0d2e24ff2.webp",
-    "public/collection/paper/index.xml",
-    "public/note/study/react/index.xml",
-    "public/moment/travel/index.xml",
-    "public/note/reading/index.xml",
-    "public/note/humanity/index.xml",
-    "public/note/index.xml",
-    "public/moment/jotting/index.xml",
-    "public/collection/book/index.xml",
-    "public/_temp/未命名.canvas",
-    "public/_temp/未命名 1.canvas",
-    "public/_task/task.md",
-    "public/_task/未命名.canvas",
-    "public/_task/OKR.md",
-    "public/_OKR/prompts/目标相关资源生成json图表prompt.md",
-    "public/_OKR/O_resources/学会flutter开发.md",
-    "public/_HOME/Home.canvas",
-    "public/slides/example/featured_hu_f2087f1fb057c361.webp",
-    "public/slides/example/featured_hu_9224ee6a0785e9e0.webp",
-    "public/slides/example/featured.webp",
-    "public/slides/example/featured_hu_a1f1bed0e3ad73e3.webp",
-    "public/slides/example/featured_hu_8515984b75217844.webp",
-    "public/slides/example/boards.webp",
-    "public/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
-    "public/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
-    "public/note/tech/个人效率自动化/assets/_Canvas/AI Plan Everything.canvas",
+    "content/zh/note/study/TypeScript/_index.md",
+    "content/zh/note/study/TypeScript/泛型/index.md",
+    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
+    "content/zh/note/study/计算机导论/程序设计/index.md",
+    "content/zh/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
+    "public/collection/paper/mindsearch/featured_hu_cfc37a5860ccb5b6.webp",
+    "public/collection/paper/mindsearch/featured_hu_971553b76f35ae3.webp",
+    "public/collection/paper/mindsearch/featured_hu_ef00cdef32853efb.webp",
+    "public/collection/paper/mindsearch/featured_hu_a7ec7c0dd7a39b27.webp",
+    "public/collection/paper/mindsearch/featured_hu_7c378a74d8c50ea4.webp",
+    "content/zh/note/study/_index.md",
+    "content/zh/note/study/计算机导论/_index 1.md",
+    "content/zh/note/study/计算机导论/程序设计/未命名.md",
     "public/note/study/langchain/_Canvas/Task Plan.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/Task Plan.canvas",
-    "public/_templates/note/tech.md",
-    "public/_templates/note/study.md",
-    "public/_templates/note/reading.md",
-    "public/_templates/note/humanity.md",
-    "public/_templates/moment/travel.md",
-    "public/_templates/moment/jotting.md"
+    "static/_templates/collection/paper.md",
+    "content/zh/collection/paper/_index.md",
+    "content/zh/collection/paper/MindSearch/index.md",
+    "content/zh/collection/paper/FlowSearch/index.md",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/index.md",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
+    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything latest.canvas",
+    "content/zh/note/tech/个人效率自动化/index.md",
+    "static/_templates/achievement/project.md",
+    "static/_templates/note/humanity.md"
   ]
 }

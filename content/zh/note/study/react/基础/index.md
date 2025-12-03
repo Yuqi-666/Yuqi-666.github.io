@@ -78,5 +78,36 @@ const inputRef = useRef(null)
 ## 组件通信
 
 ### 父子通信
+
+实现步骤：
+1. 父组件传数据 - 在子组件标签上绑定属性
+```tsx
+//父组件
+return (
+	<div>
+		<Son name={name} />
+	</div>
+)
+```
+2. 子组件接收数据 - 子组件通过props参数接收数据
+```tsx
+function Son (props){
+	return <div>this is son, {props.name}</div>
+}
+```
+
+**props说明**：
+![](assets/Pasted%20image%2020251203124111.png)
+
+**prop children**
+当我们把内容嵌套在子组件标签中时，子组件会自动在名为children的prop属性中接收该内容
+ ```tsx
+ <Son>
+	 <span>this is span</span>
+ </Son>
+ ```
+ 子组件接收props时会有children传入`<span />`
+ 
+
 ### 兄弟通信
 ### 跨层通信
