@@ -6,7 +6,6 @@
       {
         "id": "4c1a2e6c50aff172",
         "type": "tabs",
-        "dimension": 43.5,
         "children": [
           {
             "id": "7e6058d81fcabcd7",
@@ -70,35 +69,21 @@
             "id": "28ddd29b0569450f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "content/zh/note/study/react/核心概念/index.md",
-                "mode": "source",
-                "source": false
+                "file": "content/zh/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
+                "viewState": {
+                  "x": 54.911856799971815,
+                  "y": -221.21260268878532,
+                  "zoom": -0.3333333333333332
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-layout-dashboard",
+              "title": "程序设计"
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "0bb8515ced4c7477",
-        "type": "tabs",
-        "dimension": 56.49999999999999,
-        "children": [
-          {
-            "id": "dd308a90f1957301",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hugo Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/zh/note/study/react/核心概念/index.md",
+                "file": "content/zh/achievement/project/AI-Plan-Everything/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,61 +252,61 @@
   },
   "active": "28ddd29b0569450f",
   "lastOpenFiles": [
-    "public/note/study/react/核心概念/index.html",
-    "content/zh/note/tech/test/index.md",
-    "content/zh/note/tech/css布局/index.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything.canvas",
-    "content/zh/achievement/project/AI-Plan-Everything/index.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Task Plan.canvas",
-    "content/zh/note/tech/_index.md",
-    "content/zh/note/tech/个人效率自动化/index.md",
-    "content/zh/note/tech/test/imgs/write.jpg",
-    "content/zh/collection/paper/MindSearch/index.md",
-    "content/zh/note/study/react/核心概念/index.md",
-    "content/zh/achievement/project/_index.md",
-    "public/tags/css/index.xml",
-    "public/tags/c语言/page/1/index.html",
-    "public/tags/c语言/page/1",
-    "public/tags/c语言/page",
-    "public/tags/c语言/index.xml",
-    "public/tags/c语言/index.html",
-    "public/tags/c语言",
-    "public/tags/react/page/1/index.html",
-    "public/tags/react/page/1",
-    "public/tags/react/page",
-    "public/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
-    "public/achievement/project/ai-plan-everything/assets/_Canvas/Class Graph.canvas",
-    "public/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.svg",
-    "content/zh/collection/site/_index.md",
-    "content/zh/note/study/TypeScript/面向对象/index.md",
-    "content/zh/note/study/TypeScript/_index.md",
-    "content/zh/note/study/TypeScript/泛型/index.md",
-    "content/zh/note/study/react/_index.md",
-    "content/zh/note/study/_index.md",
-    "content/zh/note/study/TypeScript/类型/index.md",
-    "content/zh/note/study/langchain/_Canvas/Task Plan.canvas",
-    "content/zh/collection/site/oi-wiki/featured.webp",
-    "content/zh/collection/site/oi-wiki/index.md",
-    "content/zh/note/study/langchain/_index.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v1.0.canvas",
-    "content/zh/note/tech/AIagent设计模式/index.md",
+    "content/zh/note/study/计算机导论/程序设计/index.md",
+    "static/_OKR/prompts/目标相关资源生成json图表prompt.md",
+    "static/_OKR/O_resources/学会flutter开发.md",
+    "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.svg",
     "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/Class Graph.canvas",
-    "content/zh/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
-    "static/_data/OKR/canvas_json/flutter.canvas",
     "static/_Excalidraw/Drawing 2025-11-02 19.18.21.excalidraw.md",
     "static/_Excalidraw/Drawing 2025-11-02 14.59.08.excalidraw.md",
-    "static/_Excalidraw/Drawing 2025-11-25 16.38.33.excalidraw.svg",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/_Canvas/AI Plan Everything v2.0.canvas",
-    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.svg",
-    "content/zh/note/study/langchain/langchain架构原理/assets/_Drawing/Drawing 2025-11-19 18.57.18.excalidraw.md",
-    "content/zh/note/study/计算机导论/程序设计/index.md",
+    "content/zh/note/study/TypeScript/面向对象/index.md",
     "content/zh/note/study/计算机导论/_index 1.md",
-    "content/zh/note/tech/使用hugo及hugo-blox搭建个人博客网站/index.md",
-    "content/zh/achievement/project/AI-Plan-Everything/assets/Pasted image 20251121175527.png",
-    "public/achievement/project/ai-plan-everything/assets/Pasted image 20251121175527.png",
-    "public/collection/paper/mindsearch/featured_hu_8493b2606fbcb978.webp",
-    "public/collection/paper/mindsearch/featured_hu_ef00cdef32853efb.webp",
-    "resources/_gen/images/collection/paper/mindsearch/featured_hu_ef00cdef32853efb.webp"
+    "content/zh/note/study/react/基础/index.md",
+    "content/zh/note/study/TypeScript/_index.md",
+    "content/zh/note/study/_index.md",
+    "content/zh/collection/site/hello-algo/index.md",
+    "content/zh/collection/site/hello-algo/featured.jpg",
+    "content/zh/achievement/project/AI-Plan-Everything/index.md",
+    "static/_templates/note/humanity.md",
+    "static/_data/OKR/canvas_json/flutter.canvas",
+    "content/zh/note/study/react/基础/assets/{738DF0D6-7395-4B03-9695-7FEEDE3E2FBC}.png",
+    "content/zh/note/study/react/基础/assets",
+    "content/zh/note/study/react/核心概念/index.md",
+    "content/zh/note/study/react/_index.md",
+    "content/zh/note/study/react/基础",
+    "public/author/yuqi-666/avatar_hu_2c9415c0d2e24ff2.webp",
+    "public/collection/paper/index.xml",
+    "public/note/study/react/index.xml",
+    "public/moment/travel/index.xml",
+    "public/note/reading/index.xml",
+    "public/note/humanity/index.xml",
+    "public/note/index.xml",
+    "public/moment/jotting/index.xml",
+    "public/collection/book/index.xml",
+    "public/_temp/未命名.canvas",
+    "public/_temp/未命名 1.canvas",
+    "public/_task/task.md",
+    "public/_task/未命名.canvas",
+    "public/_task/OKR.md",
+    "public/_OKR/prompts/目标相关资源生成json图表prompt.md",
+    "public/_OKR/O_resources/学会flutter开发.md",
+    "public/_HOME/Home.canvas",
+    "public/slides/example/featured_hu_f2087f1fb057c361.webp",
+    "public/slides/example/featured_hu_9224ee6a0785e9e0.webp",
+    "public/slides/example/featured.webp",
+    "public/slides/example/featured_hu_a1f1bed0e3ad73e3.webp",
+    "public/slides/example/featured_hu_8515984b75217844.webp",
+    "public/slides/example/boards.webp",
+    "public/note/study/计算机导论/程序设计/assets/_Canvas/程序设计.canvas",
+    "public/note/study/langchain/langchain架构原理/assets/_Canvas/langchain.canvas",
+    "public/note/tech/个人效率自动化/assets/_Canvas/AI Plan Everything.canvas",
+    "public/note/study/langchain/_Canvas/Task Plan.canvas",
+    "public/achievement/project/ai-plan-everything/assets/_Canvas/Task Plan.canvas",
+    "public/_templates/note/tech.md",
+    "public/_templates/note/study.md",
+    "public/_templates/note/reading.md",
+    "public/_templates/note/humanity.md",
+    "public/_templates/moment/travel.md",
+    "public/_templates/moment/jotting.md"
   ]
 }
